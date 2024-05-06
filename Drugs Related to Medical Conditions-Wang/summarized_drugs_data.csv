@@ -1,0 +1,48 @@
+medical_condition,no_of_reviews
+acne,11863.0
+adhd,7665.0
+aids/hiv,1656.0
+allergies,466.0
+alzheimer's,246.0
+angina,251.0
+anxiety,13218.0
+asthma,980.0
+bipolar disorder,9310.0
+bronchitis,1064.0
+cancer,6.0
+cholesterol,2218.0
+colds & flu,193.0
+constipation,4078.0
+copd,777.0
+covid 19,712.0
+depression,19869.0
+diabetes (type 1),545.0
+diabetes (type 2),8769.0
+diarrhea,267.0
+eczema,727.0
+erectile dysfunction,2323.0
+gastrointestinal,0.0
+gerd (heartburn),1913.0
+gout,216.0
+hair loss,286.0
+hayfever,2538.0
+herpes,988.0
+hypertension,5946.0
+hypothyroidism,1447.0
+ibd (bowel),80.0
+incontinence,500.0
+insomnia,9259.0
+menopause,33.0
+migraine,4246.0
+osteoarthritis,3849.0
+osteoporosis,2048.0
+pain,10025.0
+pneumonia,591.0
+psoriasis,1330.0
+rheumatoid arthritis,2545.0
+schizophrenia,2217.0
+seizures,1231.0
+stroke,29.0
+swine flu,38.0
+uti,4245.0
+weight loss,13411.0

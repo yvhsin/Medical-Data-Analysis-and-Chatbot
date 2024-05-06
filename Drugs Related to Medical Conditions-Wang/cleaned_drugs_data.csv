@@ -1,0 +1,3960 @@
+drug_name,medical_condition,rating,no_of_reviews
+doxycycline,acne,6.8,760.0
+spironolactone,acne,7.2,449.0
+minocycline,acne,5.7,482.0
+accutane,acne,7.9,623.0
+clindamycin,acne,7.4,146.0
+aldactone,acne,7.6,8.0
+tretinoin,acne,7.7,439.0
+isotretinoin,acne,8.0,999.0
+bactrim,acne,8.5,96.0
+retin-a,acne,7.9,86.0
+aczone,acne,7.4,227.0
+benzoyl peroxide,acne,7.8,51.0
+differin,acne,6.0,329.0
+epiduo,acne,7.3,698.0
+adapalene,acne,6.3,499.0
+cephalexin,acne,8.4,8.0
+doryx,acne,7.5,57.0
+tetracycline,acne,6.3,55.0
+septra,acne,10.0,2.0
+solodyn,acne,6.9,99.0
+tazorac,acne,8.0,30.0
+vibramycin,acne,8.3,4.0
+acticlate,acne,5.7,8.0
+benzoyl peroxide / clindamycin,acne,7.6,570.0
+doxy 100,acne,9.0,5.0
+keflex,acne,7.5,4.0
+sulfamethoxazole / trimethoprim,acne,7.7,193.0
+benzaclin,acne,8.2,94.0
+monodox,acne,7.8,32.0
+targadox,acne,5.0,1.0
+adoxa,acne,8.8,5.0
+adoxa ck,acne,-1.0,0.0
+adoxa pak,acne,-1.0,0.0
+adoxa tt,acne,-1.0,0.0
+avidoxy,acne,-1.0,0.0
+bactrim ds,acne,6.0,32.0
+cleocin t,acne,-1.0,0.0
+clindagel,acne,10.0,2.0
+doryx mpc,acne,-1.0,0.0
+erythromycin,acne,10.0,1.0
+morgidox,acne,-1.0,0.0
+oraxyl,acne,-1.0,0.0
+claravis,acne,8.2,116.0
+clinda-derm,acne,-1.0,0.0
+evoclin,acne,-1.0,0.0
+minocin,acne,6.7,13.0
+yaz,acne,6.7,267.0
+adapalene / benzoyl peroxide,acne,7.3,909.0
+clindacin etz,acne,-1.0,0.0
+clindacin p,acne,-1.0,0.0
+clindacin pac,acne,-1.0,0.0
+clindareach pledget,acne,-1.0,0.0
+clindets,acne,-1.0,0.0
+milk of magnesia,acne,7.0,1.0
+septra ds,acne,-1.0,0.0
+yasmin,acne,6.4,193.0
+ziana,acne,7.5,76.0
+absorica,acne,6.6,5.0
+acanya,acne,7.3,57.0
+amnesteem,acne,7.8,27.0
+azelaic acid,acne,7.4,35.0
+co-trimoxazole,acne,9.0,2.0
+dapsone,acne,7.3,252.0
+duac,acne,7.3,274.0
+emcin clear,acne,-1.0,0.0
+epiduo forte,acne,7.2,115.0
+erygel,acne,-1.0,0.0
+ery pads,acne,10.0,1.0
+myorisan,acne,8.7,10.0
+onexton,acne,8.6,33.0
+phillips' milk of magnesia,acne,8.0,1.0
+salicylic acid,acne,7.0,3.0
+spotex,acne,-1.0,0.0
+theramycin z,acne,-1.0,0.0
+absorica ld,acne,-1.0,0.0
+achromycin v,acne,-1.0,0.0
+acne treatment,acne,-1.0,0.0
+acnex,acne,10.0,1.0
+ala-tet,acne,-1.0,0.0
+amzeeq,acne,9.0,1.0
+atralin,acne,8.1,35.0
+avita,acne,10.0,1.0
+azelex,acne,7.4,5.0
+benzamycin,acne,7.7,9.0
+benzoyl peroxide / erythromycin,acne,7.6,54.0
+benzoyl peroxide / sulfur,acne,10.0,2.0
+beyaz,acne,7.3,34.0
+brodspec,acne,-1.0,0.0
+cleeravue-m,acne,-1.0,0.0
+clindamycin / tretinoin,acne,7.6,183.0
+drospirenone / ethinyl estradiol,acne,6.4,669.0
+dynacin,acne,8.0,1.0
+estarylla,acne,4.8,32.0
+ethinyl estradiol / norgestimate,acne,5.4,489.0
+gianvi,acne,7.3,54.0
+loryna,acne,5.7,45.0
+magnesium hydroxide,acne,8.3,3.0
+minocycline,acne,9.0,1.0
+minolira,acne,-1.0,0.0
+ocella,acne,7.5,25.0
+panoxyl,acne,8.5,6.0
+panoxyl 10% acne foaming wash,acne,9.5,2.0
+seysara,acne,8.7,7.0
+sotret,acne,8.0,3.0
+sulfacetamide sodium/sulfur,acne,7.5,36.0
+tazarotene,acne,7.3,52.0
+tri-previfem,acne,5.2,36.0
+tri-sprintec,acne,5.0,149.0
+veltin,acne,7.4,42.0
+ximino,acne,-1.0,0.0
+zenatane,acne,7.7,11.0
+acetoxyl,acne,-1.0,0.0
+acne-10,acne,-1.0,0.0
+acne-clear,acne,-1.0,0.0
+acnevir,acne,-1.0,0.0
+acnomel,acne,5.0,1.0
+acnomel acne mask,acne,-1.0,0.0
+acnomel bp 5,acne,-1.0,0.0
+aklief,acne,-1.0,0.0
+aktipak,acne,8.0,1.0
+akurza,acne,-1.0,0.0
+aliclen,acne,-1.0,0.0
+alquam-x acne therapy gel,acne,-1.0,0.0
+altabax,acne,8.3,3.0
+altreno,acne,-1.0,0.0
+arazlo,acne,2.0,3.0
+avar,acne,10.0,1.0
+avar-e,acne,-1.0,0.0
+avar-e green,acne,-1.0,0.0
+avar-e ls,acne,-1.0,0.0
+avar cleanser,acne,8.0,1.0
+avar ls,acne,-1.0,0.0
+avar ls cleanser,acne,-1.0,0.0
+benzac,acne,-1.0,0.0
+benzac ac,acne,-1.0,0.0
+benzac ac wash,acne,-1.0,0.0
+benzac w,acne,-1.0,0.0
+benzagel,acne,-1.0,0.0
+benzagel wash,acne,-1.0,0.0
+benzamycin pak,acne,-1.0,0.0
+benzashave,acne,-1.0,0.0
+benzefoam ultra,acne,10.0,1.0
+benzepro,acne,-1.0,0.0
+benziq,acne,-1.0,0.0
+benzoyl peroxide / hydrocortisone,acne,10.0,1.0
+benzoyl peroxide / salicylic acid,acne,8.0,1.0
+benzoyl peroxide / tretinoin,acne,-1.0,0.0
+binora,acne,-1.0,0.0
+bp 10-wash,acne,-1.0,0.0
+bpo 6 foaming cloths,acne,-1.0,0.0
+bpo gel,acne,0.0,1.0
+bp wash,acne,9.0,1.0
+brevoxyl,acne,-1.0,0.0
+brevoxyl acne wash kit,acne,-1.0,0.0
+cerave sa renewing,acne,10.0,1.0
+clarifoam ef,acne,8.1,7.0
+clascoterone,acne,-1.0,0.0
+cleanse & treat,acne,-1.0,0.0
+cleanse & treat plus,acne,-1.0,0.0
+clearskin,acne,-1.0,0.0
+compound w,acne,-1.0,0.0
+dermalzone,acne,-1.0,0.0
+dhs salicylic acid 3%,acne,-1.0,0.0
+drospirenone / ethinyl estradiol / levomefolate calcium,acne,7.0,37.0
+dulcolax milk of magnesia,acne,-1.0,0.0
+durasal,acne,-1.0,0.0
+enzoclear foam,acne,-1.0,0.0
+ethinyl estradiol / norethindrone,acne,3.8,187.0
+ex-lax milk of magnesia,acne,-1.0,0.0
+fabior,acne,7.1,9.0
+fostex,acne,-1.0,0.0
+fostex medicated,acne,10.0,1.0
+fostex medicated cleansing cream,acne,-1.0,0.0
+fostex wash 10%,acne,-1.0,0.0
+hydrisalic,acne,-1.0,0.0
+inova,acne,-1.0,0.0
+inova 4/1,acne,8.0,1.0
+inova 8/2,acne,-1.0,0.0
+jasmiel,acne,-1.0,0.0
+liquimat light,acne,-1.0,0.0
+liquimat medium,acne,-1.0,0.0
+lo-zumandimine,acne,-1.0,0.0
+meted,acne,-1.0,0.0
+mono-linyah,acne,5.7,6.0
+neuac,acne,-1.0,0.0
+neutrogena clear pore cleanser/mask,acne,-1.0,0.0
+neutrogena rapid clear stubborn acne,acne,-1.0,0.0
+nikki,acne,5.2,46.0
+oscion,acne,-1.0,0.0
+oxy-10,acne,8.7,3.0
+oxy daily wash,acne,-1.0,0.0
+p & s,acne,-1.0,0.0
+panoxyl 4% acne creamy wash,acne,-1.0,0.0
+pernox,acne,10.0,2.0
+persa-gel,acne,-1.0,0.0
+plexion,acne,-1.0,0.0
+propa ph acne med cleansing,acne,-1.0,0.0
+r a acne,acne,-1.0,0.0
+resinol,acne,-1.0,0.0
+resorcinol / sulfur,acne,7.5,2.0
+resorcinol,acne,-1.0,0.0
+retapamulin,acne,8.3,3.0
+riax,acne,-1.0,0.0
+sal-plant gel,acne,-1.0,0.0
+salactic film,acne,-1.0,0.0
+salex,acne,-1.0,0.0
+salicylic acid/sulfur,acne,10.0,3.0
+salvax,acne,-1.0,0.0
+sarecycline,acne,8.9,8.0
+sastid,acne,-1.0,0.0
+scalpicin scalp relief,acne,-1.0,0.0
+sebulex,acne,-1.0,0.0
+soluclenz rx,acne,-1.0,0.0
+sss 10-4,acne,-1.0,0.0
+sss 10-5,acne,-1.0,0.0
+sss cleanser,acne,-1.0,0.0
+stri-dex,acne,-1.0,0.0
+stridex body focus,acne,-1.0,0.0
+stridex maximum strength,acne,-1.0,0.0
+sulfacleanse 8/4,acne,10.0,1.0
+sulfoam,acne,-1.0,0.0
+sulfur,acne,9.5,2.0
+sulpho-lac soap,acne,-1.0,0.0
+sumadan,acne,8.0,2.0
+sumaxin,acne,-1.0,0.0
+suphera,acne,-1.0,0.0
+syeda,acne,2.6,5.0
+tinamed plantar,acne,-1.0,0.0
+tri-estarylla,acne,4.4,5.0
+tri-linyah,acne,6.5,12.0
+tri-lo-marzia,acne,3.7,28.0
+trifarotene,acne,10.0,1.0
+twyneo,acne,-1.0,0.0
+vanoxide-hc,acne,10.0,1.0
+winlevi,acne,-1.0,0.0
+z-clinz 10,acne,-1.0,0.0
+zarah,acne,8.5,2.0
+zumandimine,acne,6.0,1.0
+vyvanse,adhd,7.3,768.0
+adderall,adhd,7.4,360.0
+adderall xr,adhd,7.9,207.0
+concerta,adhd,6.8,382.0
+lisdexamfetamine,adhd,7.3,799.0
+daytrana,adhd,8.3,73.0
+quillivant xr,adhd,5.4,21.0
+amantadine,adhd,7.2,10.0
+cotempla xr-odt,adhd,6.5,8.0
+jornay pm,adhd,8.7,3.0
+methylphenidate,adhd,7.0,833.0
+quillichew er,adhd,2.0,1.0
+azstarys,adhd,7.6,11.0
+qelbree,adhd,4.8,12.0
+strattera,adhd,5.2,478.0
+dexedrine,adhd,8.6,93.0
+amphetamine / dextroamphetamine,adhd,6.8,894.0
+ritalin,adhd,6.9,160.0
+dextroamphetamine,adhd,8.3,194.0
+bupropion,adhd,6.1,133.0
+clonidine,adhd,7.6,61.0
+intuniv,adhd,6.3,152.0
+desoxyn,adhd,9.4,35.0
+guanfacine,adhd,5.8,257.0
+focalin,adhd,5.8,127.0
+atomoxetine,adhd,5.1,558.0
+focalin xr,adhd,7.0,106.0
+amphetamine,adhd,6.4,119.0
+ritalin la,adhd,7.9,17.0
+kapvay,adhd,7.4,18.0
+methylin,adhd,8.2,14.0
+dexmethylphenidate,adhd,6.3,266.0
+methamphetamine,adhd,8.8,52.0
+modafinil,adhd,7.5,41.0
+metadate cd,adhd,7.1,41.0
+methylin er,adhd,8.5,8.0
+omega-3 polyunsaturated fatty acids,adhd,8.2,9.0
+procentra,adhd,9.5,2.0
+selegiline,adhd,10.0,2.0
+zenzedi,adhd,8.1,25.0
+adhansia xr,adhd,6.7,3.0
+aptensio xr,adhd,6.8,11.0
+armodafinil,adhd,8.1,24.0
+desvenlafaxine,adhd,7.0,8.0
+evekeo,adhd,6.9,33.0
+mydayis,adhd,5.5,124.0
+relexxii,adhd,-1.0,0.0
+adzenys er,adhd,8.0,2.0
+adzenys xr-odt,adhd,6.1,53.0
+desipramine,adhd,8.0,2.0
+dyanavel xr,adhd,6.6,26.0
+evekeo odt,adhd,-1.0,0.0
+imipramine,adhd,5.5,5.0
+dexmethylphenidate / serdexmethylphenidate,adhd,7.6,11.0
+viloxazine,adhd,4.5,13.0
+truvada,aids/hiv,7.1,14.0
+biktarvy,aids/hiv,6.9,171.0
+triumeq,aids/hiv,8.3,119.0
+genvoya,aids/hiv,7.2,122.0
+stribild,aids/hiv,9.5,89.0
+atripla,aids/hiv,9.1,103.0
+descovy,aids/hiv,4.8,5.0
+norvir,aids/hiv,1.0,3.0
+isentress,aids/hiv,8.6,17.0
+dovato,aids/hiv,5.9,30.0
+tivicay,aids/hiv,6.8,19.0
+abacavir / dolutegravir / lamivudine,aids/hiv,8.3,120.0
+prezista,aids/hiv,7.7,4.0
+bictegravir / emtricitabine / tenofovir alafenamide,aids/hiv,6.9,171.0
+cobicistat / elvitegravir / emtricitabine / tenofovir,aids/hiv,9.5,89.0
+cabenuva,aids/hiv,8.0,2.0
+dolutegravir / lamivudine,aids/hiv,5.9,30.0
+emtricitabine / tenofovir alafenamide,aids/hiv,4.8,5.0
+complera,aids/hiv,8.3,58.0
+reyataz,aids/hiv,10.0,2.0
+epzicom,aids/hiv,10.0,5.0
+ritonavir,aids/hiv,1.0,3.0
+lamivudine,aids/hiv,6.5,4.0
+tenofovir,aids/hiv,-1.0,0.0
+viread,aids/hiv,-1.0,0.0
+dolutegravir,aids/hiv,7.0,25.0
+kaletra,aids/hiv,6.8,4.0
+epivir,aids/hiv,6.0,2.0
+intelence,aids/hiv,8.0,2.0
+sustiva,aids/hiv,4.4,5.0
+abacavir,aids/hiv,1.0,1.0
+efavirenz / emtricitabine / tenofovir,aids/hiv,9.1,107.0
+emtricitabine / tenofovir,aids/hiv,7.1,14.0
+darunavir,aids/hiv,7.8,5.0
+efavirenz,aids/hiv,5.1,7.0
+odefsey,aids/hiv,8.4,10.0
+raltegravir,aids/hiv,8.4,18.0
+abacavir / lamivudine,aids/hiv,9.4,6.0
+prezcobix,aids/hiv,4.0,3.0
+viramune,aids/hiv,4.5,2.0
+combivir,aids/hiv,7.0,3.0
+ziagen,aids/hiv,-1.0,0.0
+zidovudine,aids/hiv,-1.0,0.0
+atazanavir,aids/hiv,10.0,2.0
+emtricitabine,aids/hiv,-1.0,0.0
+emtriva,aids/hiv,-1.0,0.0
+edurant,aids/hiv,-1.0,0.0
+lexiva,aids/hiv,-1.0,0.0
+nevirapine,aids/hiv,7.3,6.0
+retrovir,aids/hiv,-1.0,0.0
+selzentry,aids/hiv,7.3,3.0
+juluca,aids/hiv,7.5,5.0
+symtuza,aids/hiv,9.3,4.0
+trizivir,aids/hiv,9.0,1.0
+epivir-hbv,aids/hiv,-1.0,0.0
+etravirine,aids/hiv,8.0,2.0
+isentress hd,aids/hiv,-1.0,0.0
+lamivudine / tenofovir,aids/hiv,-1.0,0.0
+lopinavir / ritonavir,aids/hiv,7.0,5.0
+maraviroc,aids/hiv,7.3,3.0
+tivicay pd,aids/hiv,10.0,1.0
+viramune xr,aids/hiv,-1.0,0.0
+accesspak for hiv pep basic,aids/hiv,-1.0,0.0
+delstrigo,aids/hiv,9.5,2.0
+efavirenz / lamivudine / tenofovir,aids/hiv,-1.0,0.0
+emtricitabine / rilpivirine / tenofovir,aids/hiv,8.3,58.0
+evotaz,aids/hiv,-1.0,0.0
+fuzeon,aids/hiv,9.3,5.0
+lamivudine / zidovudine,aids/hiv,7.0,3.0
+pifeltro,aids/hiv,1.0,1.0
+viracept,aids/hiv,-1.0,0.0
+abacavir / lamivudine / zidovudine,aids/hiv,9.0,1.0
+aptivus,aids/hiv,-1.0,0.0
+cimduo,aids/hiv,-1.0,0.0
+cobicistat / darunavir,aids/hiv,4.0,3.0
+cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,aids/hiv,7.2,122.0
+cobicistat,aids/hiv,-1.0,0.0
+doravirine,aids/hiv,1.0,1.0
+elvitegravir,aids/hiv,-1.0,0.0
+enfuvirtide,aids/hiv,9.3,5.0
+ibalizumab,aids/hiv,-1.0,0.0
+immune globulin intravenous,aids/hiv,-1.0,0.0
+invirase,aids/hiv,-1.0,0.0
+nelfinavir,aids/hiv,-1.0,0.0
+rilpivirine,aids/hiv,1.0,1.0
+rukobia,aids/hiv,-1.0,0.0
+saquinavir,aids/hiv,-1.0,0.0
+symfi,aids/hiv,-1.0,0.0
+symfi lo,aids/hiv,-1.0,0.0
+temixys,aids/hiv,-1.0,0.0
+trogarzo,aids/hiv,-1.0,0.0
+tybost,aids/hiv,-1.0,0.0
+accesspak for hiv pep expanded with kaletra,aids/hiv,-1.0,0.0
+accesspak for hiv pep expanded with viracept,aids/hiv,-1.0,0.0
+atazanavir / cobicistat,aids/hiv,-1.0,0.0
+cabotegravir / rilpivirine,aids/hiv,8.0,2.0
+cabotegravir,aids/hiv,-1.0,0.0
+cobicistat / darunavir / emtricitabine / tenofovir alafenamide,aids/hiv,9.3,4.0
+dolutegravir / rilpivirine,aids/hiv,7.5,5.0
+doravirine / lamivudine / tenofovir,aids/hiv,9.5,2.0
+emtricitabine / lopinavir / ritonavir / tenofovir,aids/hiv,-1.0,0.0
+emtricitabine / nelfinavir / tenofovir,aids/hiv,-1.0,0.0
+emtricitabine / rilpivirine / tenofovir alafenamide,aids/hiv,8.4,10.0
+fosamprenavir,aids/hiv,-1.0,0.0
+fostemsavir,aids/hiv,-1.0,0.0
+lamivudine / nevirapine / zidovudine,aids/hiv,-1.0,0.0
+tipranavir,aids/hiv,-1.0,0.0
+triumeq pd,aids/hiv,-1.0,0.0
+vocabria,aids/hiv,-1.0,0.0
+hydroxyzine,allergies,7.3,60.0
+levocetirizine,allergies,4.7,213.0
+loratadine,allergies,4.8,8.0
+xyzal,allergies,4.6,181.0
+doxylamine,allergies,-1.0,0.0
+corticotropin,allergies,5.0,2.0
+acthar,allergies,5.0,2.0
+chlorpheniramine / ibuprofen / phenylephrine,allergies,-1.0,0.0
+dexbrompheniramine,allergies,-1.0,0.0
+ala-hist ir,allergies,-1.0,0.0
+dexbrompheniramine / phenylephrine,allergies,-1.0,0.0
+equaline sleep aid,allergies,-1.0,0.0
+equate sleep aid,allergies,-1.0,0.0
+h.p. acthar gel,allergies,-1.0,0.0
+aricept,alzheimer's,5.0,32.0
+donepezil,alzheimer's,4.8,64.0
+namenda,alzheimer's,4.9,25.0
+memantine,alzheimer's,4.5,53.0
+etanercept,alzheimer's,-1.0,0.0
+exelon,alzheimer's,6.7,12.0
+galantamine,alzheimer's,8.1,12.0
+namenda xr,alzheimer's,3.3,4.0
+rivastigmine,alzheimer's,6.0,28.0
+aricept odt,alzheimer's,5.0,2.0
+namzaric,alzheimer's,8.8,6.0
+vitamin e,alzheimer's,-1.0,0.0
+donepezil / memantine,alzheimer's,8.8,6.0
+razadyne,alzheimer's,-1.0,0.0
+razadyne er,alzheimer's,10.0,2.0
+adlarity,alzheimer's,-1.0,0.0
+hydergine,alzheimer's,-1.0,0.0
+alpha e,alzheimer's,-1.0,0.0
+ergoloid mesylates,alzheimer's,-1.0,0.0
+aduhelm,alzheimer's,-1.0,0.0
+aqua gem-e,alzheimer's,-1.0,0.0
+aquasol e,alzheimer's,-1.0,0.0
+e-400 clear,alzheimer's,-1.0,0.0
+e-600,alzheimer's,-1.0,0.0
+e-gems,alzheimer's,-1.0,0.0
+e pherol,alzheimer's,-1.0,0.0
+aducanumab,alzheimer's,-1.0,0.0
+aspirin,angina,10.0,2.0
+nitroglycerin,angina,8.6,8.0
+ranexa,angina,7.0,66.0
+metoprolol,angina,7.5,15.0
+isosorbide mononitrate,angina,3.9,51.0
+amlodipine,angina,9.7,4.0
+nitrostat,angina,8.0,2.0
+ranolazine,angina,7.1,81.0
+enoxaparin,angina,8.5,2.0
+isosorbide dinitrate,angina,3.8,4.0
+atenolol,angina,9.0,1.0
+carvedilol,angina,5.5,3.0
+norvasc,angina,-1.0,0.0
+lopressor,angina,10.0,3.0
+bayer aspirin,angina,-1.0,0.0
+coreg,angina,-1.0,0.0
+toprol-xl,angina,9.0,1.0
+amlodipine / atorvastatin,angina,-1.0,0.0
+ecotrin,angina,-1.0,0.0
+propranolol,angina,-1.0,0.0
+easprin,angina,-1.0,0.0
+nitrolingual pumpspray,angina,9.0,3.0
+verapamil,angina,0.0,1.0
+bayer aspirin regimen,angina,-1.0,0.0
+caduet,angina,-1.0,0.0
+aspir-low,angina,-1.0,0.0
+katerzia,angina,-1.0,0.0
+lovenox,angina,10.0,1.0
+norliqva,angina,-1.0,0.0
+arthritis pain,angina,-1.0,0.0
+ascriptin,angina,-1.0,0.0
+aspergum,angina,-1.0,0.0
+aspiritab,angina,-1.0,0.0
+aspirtab,angina,-1.0,0.0
+bayer aspirin extra strength plus,angina,10.0,1.0
+ecpirin,angina,-1.0,0.0
+entercote,angina,-1.0,0.0
+genacote,angina,-1.0,0.0
+halfprin,angina,-1.0,0.0
+nitro-dur,angina,-1.0,0.0
+norwich aspirin,angina,-1.0,0.0
+tenormin,angina,-1.0,0.0
+vazalore,angina,-1.0,0.0
+coreg cr,angina,-1.0,0.0
+corgard,angina,10.0,1.0
+heparin,angina,-1.0,0.0
+inderal la,angina,-1.0,0.0
+kapspargo sprinkle,angina,-1.0,0.0
+nitro-bid,angina,-1.0,0.0
+fragmin,angina,-1.0,0.0
+nadolol,angina,10.0,1.0
+nitro td patch-a,angina,-1.0,0.0
+amyl nitrite,angina,-1.0,0.0
+angiomax,angina,-1.0,0.0
+bivalirudin,angina,-1.0,0.0
+calan sr,angina,-1.0,0.0
+dalteparin,angina,-1.0,0.0
+dilatrate-sr,angina,-1.0,0.0
+eptifibatide,angina,-1.0,0.0
+gonitro,angina,-1.0,0.0
+integrilin,angina,-1.0,0.0
+isochron,angina,-1.0,0.0
+isoditrate,angina,-1.0,0.0
+isordil titradose,angina,-1.0,0.0
+minitran,angina,-1.0,0.0
+nitro-time,angina,-1.0,0.0
+nitromist,angina,-1.0,0.0
+timolol,angina,-1.0,0.0
+verelan,angina,-1.0,0.0
+verelan pm,angina,-1.0,0.0
+aspruzyo sprinkle,angina,-1.0,0.0
+xanax,anxiety,8.5,552.0
+clonazepam,anxiety,8.5,774.0
+alprazolam,anxiety,8.6,840.0
+lorazepam,anxiety,8.0,654.0
+buspirone,anxiety,5.8,1034.0
+diazepam,anxiety,8.4,459.0
+ativan,anxiety,8.1,330.0
+hydroxyzine,anxiety,5.5,852.0
+lexapro,anxiety,7.5,899.0
+buspar,anxiety,5.9,520.0
+escitalopram,anxiety,7.4,1471.0
+valium,anxiety,8.8,194.0
+gabapentin,anxiety,7.9,450.0
+propranolol,anxiety,7.3,356.0
+cymbalta,anxiety,6.4,295.0
+bupropion,anxiety,5.9,173.0
+effexor xr,anxiety,6.9,233.0
+trazodone,anxiety,6.6,128.0
+duloxetine,anxiety,6.2,381.0
+paxil,anxiety,7.2,264.0
+clonidine,anxiety,6.9,82.0
+venlafaxine,anxiety,6.5,402.0
+mirtazapine,anxiety,6.6,501.0
+paroxetine,anxiety,7.1,366.0
+alprazolam intensol,anxiety,10.0,8.0
+lamotrigine,anxiety,7.0,107.0
+tramadol,anxiety,9.3,106.0
+atenolol,anxiety,7.9,51.0
+risperidone,anxiety,4.9,67.0
+tenormin,anxiety,9.0,4.0
+tranxene,anxiety,9.7,15.0
+lorazepam intensol,anxiety,9.0,4.0
+clorazepate,anxiety,9.1,44.0
+doxepin,anxiety,6.9,42.0
+oxazepam,anxiety,8.5,54.0
+paxil cr,anxiety,8.1,14.0
+amitriptyline / perphenazine,anxiety,9.7,7.0
+chlordiazepoxide,anxiety,7.7,35.0
+desvenlafaxine,anxiety,7.1,182.0
+diazepam intensol,anxiety,10.0,3.0
+loreev xr,anxiety,10.0,1.0
+oxcarbazepine,anxiety,6.0,37.0
+pexeva,anxiety,7.3,4.0
+phenytoin,anxiety,9.0,3.0
+prochlorperazine,anxiety,2.1,84.0
+amitriptyline / chlordiazepoxide,anxiety,9.8,4.0
+compro,anxiety,-1.0,0.0
+corgard,anxiety,-1.0,0.0
+meprobamate,anxiety,8.5,14.0
+nadolol,anxiety,7.0,2.0
+nefazodone,anxiety,9.3,39.0
+tranxene t-tab,anxiety,10.0,2.0
+trifluoperazine,anxiety,8.1,9.0
+vilazodone,anxiety,6.1,66.0
+singulair,asthma,6.4,61.0
+montelukast,asthma,5.2,195.0
+prednisone,asthma,7.2,65.0
+trelegy ellipta,asthma,5.3,19.0
+fasenra,asthma,7.0,43.0
+nucala,asthma,7.1,58.0
+benralizumab,asthma,6.9,46.0
+fluticasone / umeclidinium / vilanterol,asthma,5.3,19.0
+mepolizumab,asthma,7.1,61.0
+tezepelumab,asthma,-1.0,0.0
+tezspire,asthma,-1.0,0.0
+dulera,asthma,6.0,36.0
+atrovent,asthma,9.0,5.0
+breo ellipta,asthma,5.7,122.0
+ipratropium,asthma,7.8,11.0
+methylprednisolone,asthma,7.9,11.0
+atrovent hfa,asthma,9.5,2.0
+dexamethasone,asthma,6.8,6.0
+alvesco,asthma,7.0,9.0
+levalbuterol,asthma,7.3,5.0
+ipratropium inhalation solution,asthma,10.0,1.0
+rayos,asthma,-1.0,0.0
+fluticasone / vilanterol,asthma,5.7,122.0
+formoterol / mometasone,asthma,6.0,36.0
+medrol,asthma,-1.0,0.0
+methylprednisolone dose pack,asthma,9.5,3.0
+triamcinolone,asthma,9.0,6.0
+dexamethasone intensol,asthma,-1.0,0.0
+kenalog-40,asthma,7.5,2.0
+medrol dosepak,asthma,8.7,3.0
+depo-medrol,asthma,-1.0,0.0
+solu-medrol,asthma,8.0,2.0
+xopenex,asthma,10.0,1.0
+xopenex hfa,asthma,0.0,1.0
+caffeine,asthma,8.5,3.0
+ciclesonide,asthma,7.0,9.0
+de-sone la,asthma,-1.0,0.0
+dxevo,asthma,-1.0,0.0
+dyphylline / guaifenesin,asthma,-1.0,0.0
+ipratropium inhalation aerosol,asthma,-1.0,0.0
+cinqair,asthma,8.6,8.0
+reslizumab,asthma,8.6,8.0
+salbutamol,asthma,7.0,1.0
+xopenex concentrate,asthma,-1.0,0.0
+difil-g forte,asthma,-1.0,0.0
+lamictal,bipolar disorder,8.1,600.0
+lamotrigine,bipolar disorder,8.0,970.0
+latuda,bipolar disorder,6.3,634.0
+seroquel,bipolar disorder,6.8,383.0
+abilify,bipolar disorder,5.5,332.0
+topiramate,bipolar disorder,7.0,133.0
+vraylar,bipolar disorder,5.6,328.0
+lithium,bipolar disorder,7.3,334.0
+lurasidone,bipolar disorder,6.3,681.0
+abilify maintena,bipolar disorder,5.8,18.0
+cariprazine,bipolar disorder,5.7,346.0
+caplyta,bipolar disorder,5.6,42.0
+lumateperone,bipolar disorder,5.6,44.0
+lybalvi,bipolar disorder,10.0,1.0
+quetiapine,bipolar disorder,6.9,655.0
+depakote,bipolar disorder,6.2,180.0
+gabapentin,bipolar disorder,8.3,132.0
+bupropion,bipolar disorder,7.0,83.0
+clonazepam,bipolar disorder,8.6,93.0
+seroquel xr,bipolar disorder,7.2,106.0
+divalproex sodium,bipolar disorder,6.4,265.0
+risperdal,bipolar disorder,6.4,88.0
+geodon,bipolar disorder,5.5,236.0
+oxcarbazepine,bipolar disorder,8.0,160.0
+sertraline,bipolar disorder,6.9,53.0
+zyprexa,bipolar disorder,6.1,160.0
+risperidone,bipolar disorder,6.1,174.0
+aripiprazole,bipolar disorder,5.6,414.0
+depakote er,bipolar disorder,7.4,48.0
+olanzapine,bipolar disorder,6.2,289.0
+saphris,bipolar disorder,7.2,223.0
+venlafaxine,bipolar disorder,6.6,75.0
+citalopram,bipolar disorder,8.5,14.0
+carbamazepine,bipolar disorder,7.0,106.0
+duloxetine,bipolar disorder,6.7,47.0
+escitalopram,bipolar disorder,6.5,58.0
+ziprasidone,bipolar disorder,5.6,288.0
+clonidine,bipolar disorder,7.5,7.0
+symbyax,bipolar disorder,7.9,38.0
+valproic acid,bipolar disorder,5.6,26.0
+armodafinil,bipolar disorder,9.2,14.0
+fluoxetine / olanzapine,bipolar disorder,7.7,48.0
+lamictal odt,bipolar disorder,9.0,3.0
+levetiracetam,bipolar disorder,6.7,7.0
+lithobid,bipolar disorder,6.7,15.0
+zyprexa zydis,bipolar disorder,8.2,7.0
+asenapine,bipolar disorder,7.1,243.0
+desvenlafaxine,bipolar disorder,6.9,19.0
+equetro,bipolar disorder,5.0,4.0
+iloperidone,bipolar disorder,8.7,10.0
+lamictal cd,bipolar disorder,2.0,1.0
+paliperidone,bipolar disorder,4.8,55.0
+perphenazine,bipolar disorder,7.1,13.0
+risperdal consta,bipolar disorder,2.5,4.0
+tiagabine,bipolar disorder,10.0,2.0
+verapamil,bipolar disorder,-1.0,0.0
+abilify mycite,bipolar disorder,-1.0,0.0
+depakote sprinkles,bipolar disorder,-1.0,0.0
+zyprexa intramuscular,bipolar disorder,-1.0,0.0
+olanzapine / samidorphan,bipolar disorder,10.0,1.0
+mucinex,bronchitis,5.8,51.0
+azithromycin,bronchitis,6.2,188.0
+azithromycin dose pack,bronchitis,5.9,17.0
+doxycycline,bronchitis,5.1,47.0
+amoxicillin,bronchitis,5.8,15.0
+guaifenesin,bronchitis,6.7,73.0
+levofloxacin,bronchitis,5.4,120.0
+augmentin,bronchitis,6.5,33.0
+levaquin,bronchitis,5.3,76.0
+zithromax,bronchitis,5.9,40.0
+amoxicillin / clavulanate,bronchitis,6.5,51.0
+clarithromycin,bronchitis,5.3,138.0
+cefdinir,bronchitis,4.5,42.0
+ciprofloxacin,bronchitis,5.5,23.0
+amoxil,bronchitis,1.0,1.0
+cefuroxime,bronchitis,6.1,12.0
+avelox,bronchitis,6.5,29.0
+cipro,bronchitis,5.5,11.0
+bactrim,bronchitis,5.7,6.0
+erythromycin,bronchitis,7.5,4.0
+sulfamethoxazole / trimethoprim,bronchitis,6.9,15.0
+bactrim ds,bronchitis,6.5,2.0
+ceftin,bronchitis,6.0,2.0
+ceftriaxone,bronchitis,6.3,3.0
+apo-amoxi,bronchitis,-1.0,0.0
+beclomethasone,bronchitis,6.5,2.0
+doxy 100,bronchitis,1.0,1.0
+moxifloxacin,bronchitis,6.1,31.0
+cefixime,bronchitis,1.0,1.0
+mucinex maximum strength,bronchitis,7.0,2.0
+vibramycin,bronchitis,1.0,1.0
+cipro i.v.,bronchitis,-1.0,0.0
+cipro xr,bronchitis,-1.0,0.0
+doryx,bronchitis,-1.0,0.0
+doryx mpc,bronchitis,-1.0,0.0
+monodox,bronchitis,-1.0,0.0
+morgidox,bronchitis,-1.0,0.0
+oraxyl,bronchitis,-1.0,0.0
+robafen,bronchitis,9.0,1.0
+septra ds,bronchitis,-1.0,0.0
+augmentin xr,bronchitis,-1.0,0.0
+biaxin xl,bronchitis,7.0,4.0
+cefpodoxime,bronchitis,2.0,1.0
+cefprozil,bronchitis,5.8,4.0
+ery-tab,bronchitis,7.0,1.0
+guaifenex g,bronchitis,-1.0,0.0
+septra,bronchitis,8.0,1.0
+suprax,bronchitis,1.0,1.0
+tetracycline,bronchitis,5.0,2.0
+achromycin v,bronchitis,-1.0,0.0
+ala-tet,bronchitis,-1.0,0.0
+altarussin,bronchitis,-1.0,0.0
+amibid la,bronchitis,-1.0,0.0
+amoclan,bronchitis,-1.0,0.0
+ampicillin,bronchitis,-1.0,0.0
+balminil expectorant,bronchitis,-1.0,0.0
+benylin e,bronchitis,-1.0,0.0
+bidex-400,bronchitis,-1.0,0.0
+brodspec,bronchitis,-1.0,0.0
+cefzil,bronchitis,8.0,1.0
+co-trimoxazole,bronchitis,-1.0,0.0
+dicloxacillin,bronchitis,-1.0,0.0
+drituss g,bronchitis,-1.0,0.0
+e.e.s. granules,bronchitis,-1.0,0.0
+eryc,bronchitis,-1.0,0.0
+eryped,bronchitis,-1.0,0.0
+erythrocin,bronchitis,-1.0,0.0
+erythrocin lactobionate,bronchitis,-1.0,0.0
+fenesin ir,bronchitis,7.0,2.0
+floxin,bronchitis,-1.0,0.0
+gemifloxacin,bronchitis,4.0,5.0
+guaifenex la,bronchitis,-1.0,0.0
+guiatuss,bronchitis,-1.0,0.0
+hytuss,bronchitis,-1.0,0.0
+mucinex for kids,bronchitis,-1.0,0.0
+ofloxacin,bronchitis,-1.0,0.0
+pce dispertab,bronchitis,-1.0,0.0
+scot-tussin expectorant,bronchitis,-1.0,0.0
+sulfatrim pediatric,bronchitis,-1.0,0.0
+tussin expectorant,bronchitis,-1.0,0.0
+xpect,bronchitis,-1.0,0.0
+zinacef,bronchitis,-1.0,0.0
+avelox i.v.,bronchitis,-1.0,0.0
+cefaclor,bronchitis,-1.0,0.0
+cilastatin / imipenem,bronchitis,-1.0,0.0
+difil-g forte,bronchitis,-1.0,0.0
+dycill,bronchitis,-1.0,0.0
+dynapen,bronchitis,-1.0,0.0
+dyphylline / guaifenesin,bronchitis,-1.0,0.0
+factive,bronchitis,1.0,4.0
+primaxin iv,bronchitis,-1.0,0.0
+carboplatin,cancer,1.0,2.0
+leukeran,cancer,-1.0,0.0
+chlorambucil,cancer,-1.0,0.0
+fluorouracil,cancer,-1.0,0.0
+doxorubicin,cancer,10.0,2.0
+etoposide,cancer,-1.0,0.0
+cyclophosphamide,cancer,-1.0,0.0
+vincristine,cancer,10.0,1.0
+cosmegen,cancer,-1.0,0.0
+etopophos,cancer,-1.0,0.0
+ifex,cancer,-1.0,0.0
+toposar,cancer,-1.0,0.0
+vinblastine,cancer,-1.0,0.0
+hycamtin,cancer,-1.0,0.0
+ifosfamide,cancer,1.0,1.0
+dactinomycin,cancer,-1.0,0.0
+fludarabine,cancer,-1.0,0.0
+tepadina,cancer,-1.0,0.0
+thiotepa,cancer,-1.0,0.0
+topotecan,cancer,-1.0,0.0
+atorvastatin,cholesterol,4.2,243.0
+simvastatin,cholesterol,4.7,115.0
+lipitor,cholesterol,4.6,83.0
+zetia,cholesterol,4.0,56.0
+ezetimibe,cholesterol,3.6,125.0
+crestor,cholesterol,5.7,109.0
+repatha,cholesterol,4.3,307.0
+alirocumab,cholesterol,5.6,113.0
+evolocumab,cholesterol,4.3,311.0
+praluent,cholesterol,5.7,109.0
+rosuvastatin,cholesterol,5.0,189.0
+pravastatin,cholesterol,4.3,60.0
+lovastatin,cholesterol,6.4,14.0
+zocor,cholesterol,5.0,22.0
+gemfibrozil,cholesterol,6.3,24.0
+vytorin,cholesterol,7.3,19.0
+livalo,cholesterol,5.5,81.0
+niacin,cholesterol,6.0,48.0
+altocor,cholesterol,-1.0,0.0
+niaspan,cholesterol,5.9,27.0
+welchol,cholesterol,6.7,11.0
+altoprev,cholesterol,10.0,1.0
+ezetimibe / simvastatin,cholesterol,7.3,19.0
+fenofibric acid,cholesterol,5.1,13.0
+slo-niacin,cholesterol,9.5,2.0
+colesevelam,cholesterol,6.3,14.0
+ezallor,cholesterol,-1.0,0.0
+flolipid,cholesterol,10.0,1.0
+lopid,cholesterol,8.0,6.0
+pitavastatin,cholesterol,5.6,85.0
+amlodipine / atorvastatin,cholesterol,-1.0,0.0
+atorvastatin / ezetimibe,cholesterol,-1.0,0.0
+fluvastatin,cholesterol,-1.0,0.0
+lescol xl,cholesterol,-1.0,0.0
+mycophenolate mofetil,cholesterol,-1.0,0.0
+niacor,cholesterol,-1.0,0.0
+trilipix,cholesterol,5.1,10.0
+caduet,cholesterol,-1.0,0.0
+ezetimibe / rosuvastatin,cholesterol,4.0,1.0
+fibricor,cholesterol,-1.0,0.0
+inclisiran,cholesterol,-1.0,0.0
+juxtapid,cholesterol,-1.0,0.0
+leqvio,cholesterol,-1.0,0.0
+lomitapide,cholesterol,-1.0,0.0
+lypqozet,cholesterol,-1.0,0.0
+roszet,cholesterol,-1.0,0.0
+zypitamag,cholesterol,-1.0,0.0
+benadryl,colds & flu,9.5,2.0
+diphenhydramine,colds & flu,6.8,5.0
+vicks nyquil d cold and flu nighttime relief,colds & flu,8.2,5.0
+vicks nyquil cold & flu nighttime relief,colds & flu,-1.0,0.0
+chlorpheniramine,colds & flu,6.7,3.0
+coricidin hbp cold & flu,colds & flu,6.3,8.0
+vicks dayquil severe cold & flu,colds & flu,-1.0,0.0
+benadryl allergy,colds & flu,7.0,1.0
+vicks dayquil cold & flu relief,colds & flu,-1.0,0.0
+vicks nyquil severe cold & flu,colds & flu,-1.0,0.0
+promethazine dm,colds & flu,10.0,1.0
+tylenol cold & flu severe,colds & flu,-1.0,0.0
+vicks vaporub,colds & flu,-1.0,0.0
+coricidin hbp maximum strength flu,colds & flu,-1.0,0.0
+theraflu nighttime severe cold & cough,colds & flu,1.0,1.0
+acetaminophen / chlorpheniramine / phenylephrine,colds & flu,7.3,16.0
+sudafed pe cold & cough,colds & flu,-1.0,0.0
+banophen,colds & flu,-1.0,0.0
+benadryl allergy plus cold,colds & flu,-1.0,0.0
+pseudoephedrine / triprolidine,colds & flu,7.8,11.0
+tussionex pennkinetic,colds & flu,7.6,14.0
+chlor-trimeton,colds & flu,-1.0,0.0
+diphedryl,colds & flu,-1.0,0.0
+diphen,colds & flu,-1.0,0.0
+complete allergy relief,colds & flu,-1.0,0.0
+tylenol cold,colds & flu,2.0,1.0
+allermax,colds & flu,-1.0,0.0
+bronkaid,colds & flu,9.1,13.0
+dicopanol,colds & flu,-1.0,0.0
+dytuss,colds & flu,-1.0,0.0
+mucinex fast-max night time cold & flu,colds & flu,5.0,1.0
+scot-tussin allergy,colds & flu,-1.0,0.0
+siladryl allergy,colds & flu,-1.0,0.0
+sudafed pe sinus & allergy,colds & flu,-1.0,0.0
+twilite,colds & flu,-1.0,0.0
+tylenol cold multi-symptom severe,colds & flu,-1.0,0.0
+valu-dryl,colds & flu,-1.0,0.0
+vanamine pd,colds & flu,-1.0,0.0
+virtussin dac,colds & flu,-1.0,0.0
+benadryl allergy plus sinus headache,colds & flu,-1.0,0.0
+primatene,colds & flu,9.4,5.0
+acetaminophen / dextromethorphan / doxylamine / pseudoephedrine,colds & flu,8.2,5.0
+acetaminophen / dextromethorphan / guaifenesin / phenylephrine,colds & flu,10.0,1.0
+acetaminophen / dextromethorphan / phenylephrine,colds & flu,3.0,1.0
+aller-chlor,colds & flu,-1.0,0.0
+allergy relief,colds & flu,-1.0,0.0
+brompheniramine,colds & flu,10.0,2.0
+mucinex fast-max severe cold,colds & flu,-1.0,0.0
+mucinex fast-max severe congestion & cold,colds & flu,-1.0,0.0
+sudafed pe pressure+pain+cold,colds & flu,-1.0,0.0
+sudafed pe severe cold,colds & flu,5.0,2.0
+tylenol cold max day,colds & flu,-1.0,0.0
+vicks nyquil cold & flu nighttime relief (alcohol free),colds & flu,-1.0,0.0
+wal-finate,colds & flu,-1.0,0.0
+acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine,colds & flu,2.0,1.0
+acetaminophen / chlorpheniramine,colds & flu,5.6,9.0
+actifed cold and allergy,colds & flu,-1.0,0.0
+advil allergy sinus,colds & flu,-1.0,0.0
+alka-seltzer plus cold formula sparkling original effervescent tablets,colds & flu,-1.0,0.0
+aprodine,colds & flu,-1.0,0.0
+aspirin / chlorpheniramine / phenylephrine,colds & flu,-1.0,0.0
+c.p.m.,colds & flu,-1.0,0.0
+camphor / eucalyptus / menthol,colds & flu,-1.0,0.0
+cheratussin dac,colds & flu,2.0,1.0
+chlo-amine,colds & flu,-1.0,0.0
+chlor-mal,colds & flu,-1.0,0.0
+chlorpheniramine / hydrocodone,colds & flu,7.9,16.0
+chlorpheniramine / phenylephrine,colds & flu,9.0,7.0
+chlortan,colds & flu,-1.0,0.0
+codeine / guaifenesin / pseudoephedrine,colds & flu,2.0,1.0
+coricidin hbp nighttime multi-symptom cold,colds & flu,-1.0,0.0
+dextromethorphan / promethazine,colds & flu,10.0,1.0
+diphenhydramine / phenylephrine,colds & flu,-1.0,0.0
+drixoral cold and allergy,colds & flu,10.0,9.0
+ed-chlortan,colds & flu,-1.0,0.0
+ed a-hist,colds & flu,10.0,1.0
+ed chlorped,colds & flu,-1.0,0.0
+ed chlor ped jr.,colds & flu,-1.0,0.0
+ephedrine / guaifenesin,colds & flu,9.2,21.0
+robitussin peak cold nighttime nasal relief,colds & flu,-1.0,0.0
+theraflu daytime severe cold & cough,colds & flu,-1.0,0.0
+tussicaps,colds & flu,-1.0,0.0
+tylenol cold multi-symptom nighttime,colds & flu,-1.0,0.0
+a-phedrin,colds & flu,-1.0,0.0
+acetaminophen / chlorpheniramine / dextromethorphan / phenylephrine,colds & flu,-1.0,0.0
+acetaminophen / dextromethorphan / doxylamine / phenylephrine,colds & flu,-1.0,0.0
+acetaminophen / dextromethorphan / doxylamine,colds & flu,4.0,1.0
+acetaminophen / dextromethorphan / guaifenesin / pseudoephedrine,colds & flu,10.0,1.0
+acetaminophen / dextromethorphan / pseudoephedrine,colds & flu,8.0,1.0
+acetaminophen / diphenhydramine / phenylephrine,colds & flu,5.2,5.0
+acetaminophen / pheniramine / phenylephrine,colds & flu,-1.0,0.0
+advil congestion relief,colds & flu,-1.0,0.0
+advil sinus congestion & pain,colds & flu,-1.0,0.0
+ala-hist pe,colds & flu,-1.0,0.0
+alka-seltzer plus-d multi-symptom sinus & cold liquid gels,colds & flu,-1.0,0.0
+allergy multi-symptom,colds & flu,-1.0,0.0
+biotussin dac,colds & flu,-1.0,0.0
+bromatan plus,colds & flu,-1.0,0.0
+bromax,colds & flu,-1.0,0.0
+camphor,colds & flu,-1.0,0.0
+capron dm,colds & flu,-1.0,0.0
+children's triacting night time,colds & flu,-1.0,0.0
+childrens tylenol cold plus cough,colds & flu,-1.0,0.0
+chlo hist,colds & flu,-1.0,0.0
+chlophedianol / pyrilamine,colds & flu,0.0,1.0
+chlorpheniramine / ibuprofen / pseudoephedrine,colds & flu,-1.0,0.0
+chlorpheniramine / phenylephrine / pyrilamine,colds & flu,-1.0,0.0
+cold multi-symptom (nighttime),colds & flu,-1.0,0.0
+comtrex cold and cough maximum strength,colds & flu,-1.0,0.0
+comtrex cold and flu maximum strength tablet,colds & flu,-1.0,0.0
+contac cold + flu (night formula),colds & flu,-1.0,0.0
+delsym cough+ cold day time,colds & flu,-1.0,0.0
+delsym cough+ cold night time,colds & flu,-1.0,0.0
+deltuss dmx,colds & flu,-1.0,0.0
+dexbrompheniramine / pseudoephedrine,colds & flu,10.0,11.0
+dextromethorphan / phenylephrine / pyrilamine,colds & flu,10.0,2.0
+dextromethorphan / phenylephrine / triprolidine,colds & flu,-1.0,0.0
+diabetic tussin night time formula,colds & flu,-1.0,0.0
+dologen,colds & flu,0.0,1.0
+doxylamine / phenylephrine,colds & flu,-1.0,0.0
+dristan cold multi symptom formula,colds & flu,-1.0,0.0
+flutabs,colds & flu,-1.0,0.0
+ibuprofen / phenylephrine,colds & flu,-1.0,0.0
+"mucinex children's cold, cough & sore throat",colds & flu,-1.0,0.0
+ninjacof,colds & flu,0.0,1.0
+norel ad,colds & flu,9.0,1.0
+phenylephrine / promethazine,colds & flu,-1.0,0.0
+poly-tussin ac,colds & flu,-1.0,0.0
+poly hist forte,colds & flu,-1.0,0.0
+robitussin peak cold nighttime cold + flu,colds & flu,-1.0,0.0
+ru-hist forte,colds & flu,-1.0,0.0
+sinus & allergy pe,colds & flu,-1.0,0.0
+sudafed pe head congestion + pain,colds & flu,-1.0,0.0
+sudafed pe pressure+pain+cough,colds & flu,-1.0,0.0
+theraflu flu & sore throat,colds & flu,-1.0,0.0
+theraflu nighttime severe cold & cough caplets,colds & flu,-1.0,0.0
+theraflu sinus & cold,colds & flu,-1.0,0.0
+theraflu warming relief daytime severe cold & cough,colds & flu,-1.0,0.0
+theraflu warming relief nighttime severe cold & cough,colds & flu,-1.0,0.0
+triaminic multi-symptom fever,colds & flu,-1.0,0.0
+tylenol children’s cold + cough + runny nose,colds & flu,-1.0,0.0
+tylenol children’s cold + flu,colds & flu,-1.0,0.0
+tylenol cold & cough nighttime,colds & flu,-1.0,0.0
+tylenol cold multi-symptom nighttime liquid,colds & flu,-1.0,0.0
+tylenol plus children's cold,colds & flu,-1.0,0.0
+tylenol sinus congestion & pain nighttime,colds & flu,-1.0,0.0
+vicks vaposteam,colds & flu,-1.0,0.0
+abatuss dmx,colds & flu,-1.0,0.0
+acetaminophen / caffeine,colds & flu,-1.0,0.0
+acetaminophen / chlorpheniramine / dextromethorphan / guaifenesin,colds & flu,-1.0,0.0
+acetaminophen / chlorpheniramine / dextromethorphan,colds & flu,-1.0,0.0
+acetaminophen / dexbrompheniramine,colds & flu,0.0,1.0
+acetaminophen / dextromethorphan / diphenhydramine,colds & flu,-1.0,0.0
+acetaminophen / dextromethorphan / triprolidine,colds & flu,-1.0,0.0
+acetaminophen / dextromethorphan,colds & flu,-1.0,0.0
+advil children's allergy sinus,colds & flu,-1.0,0.0
+alahist d,colds & flu,-1.0,0.0
+allan tannate pediatric,colds & flu,-1.0,0.0
+allerest pe,colds & flu,-1.0,0.0
+allerfrim,colds & flu,-1.0,0.0
+ambifed cd,colds & flu,-1.0,0.0
+aphedrid,colds & flu,-1.0,0.0
+avedana medicated chest rub,colds & flu,-1.0,0.0
+benadryl allergy plus congestion,colds & flu,-1.0,0.0
+bp allergy jr,colds & flu,-1.0,0.0
+brompheniramine / codeine / phenylephrine,colds & flu,-1.0,0.0
+c-tanna 12,colds & flu,-1.0,0.0
+camphor / menthol,colds & flu,-1.0,0.0
+capron dmt,colds & flu,-1.0,0.0
+carbetapentane / chlorpheniramine,colds & flu,-1.0,0.0
+children's triacting,colds & flu,-1.0,0.0
+chlophedianol / dexbrompheniramine,colds & flu,-1.0,0.0
+chlophedianol / dexchlorpheniramine / pseudoephedrine,colds & flu,-1.0,0.0
+chlorcyclizine / phenylephrine,colds & flu,-1.0,0.0
+chlorex-a 12,colds & flu,-1.0,0.0
+chlorex a,colds & flu,-1.0,0.0
+chlorpheniramine / codeine / pseudoephedrine,colds & flu,-1.0,0.0
+chlorpheniramine / codeine,colds & flu,-1.0,0.0
+chlorpheniramine / phenylephrine / phenyltoloxamine,colds & flu,-1.0,0.0
+chlortan d,colds & flu,-1.0,0.0
+clear cough pm multi-symptom,colds & flu,-1.0,0.0
+codar ar,colds & flu,-1.0,0.0
+codeine / phenylephrine / triprolidine,colds & flu,-1.0,0.0
+codimal dm,colds & flu,10.0,2.0
+coditussin dac,colds & flu,-1.0,0.0
+comtrex cold & cough,colds & flu,-1.0,0.0
+comtrex nighttime cold & cough,colds & flu,-1.0,0.0
+comtrex severe cold & sinus,colds & flu,-1.0,0.0
+conal,colds & flu,-1.0,0.0
+conex,colds & flu,-1.0,0.0
+contac cold + flu (night) cooling relief liquid,colds & flu,-1.0,0.0
+dallergy,colds & flu,-1.0,0.0
+dallergy drops,colds & flu,-1.0,0.0
+decorel forte plus,colds & flu,-1.0,0.0
+delsym cough & sore throat,colds & flu,-1.0,0.0
+delsym night time multi-symptom,colds & flu,-1.0,0.0
+dexbrompheniramine / phenylephrine,colds & flu,-1.0,0.0
+dexchlorpheniramine / dextromethorphan / pseudoephedrine,colds & flu,-1.0,0.0
+dextromethorphan / diphenhydramine / phenylephrine,colds & flu,-1.0,0.0
+dextromethorphan / pyrilamine,colds & flu,-1.0,0.0
+dixaphedrine,colds & flu,-1.0,0.0
+duraflu,colds & flu,-1.0,0.0
+dytan-d,colds & flu,-1.0,0.0
+dytan-dm,colds & flu,-1.0,0.0
+ed chlorped d,colds & flu,-1.0,0.0
+excedrin quick tab,colds & flu,-1.0,0.0
+excedrin tension headache,colds & flu,-1.0,0.0
+fast freeze,colds & flu,-1.0,0.0
+flu & severe cold & cough daytime powder,colds & flu,-1.0,0.0
+freeze it,colds & flu,-1.0,0.0
+gnp cold relief plus,colds & flu,-1.0,0.0
+guaifen dac,colds & flu,-1.0,0.0
+histafed,colds & flu,-1.0,0.0
+histex-ac,colds & flu,-1.0,0.0
+histex-dm,colds & flu,-1.0,0.0
+histex-pe,colds & flu,-1.0,0.0
+lortuss ex,colds & flu,-1.0,0.0
+m-end pe,colds & flu,-1.0,0.0
+medicidin-d,colds & flu,-1.0,0.0
+mucinex nightshift cold & flu,colds & flu,-1.0,0.0
+nalex-a,colds & flu,-1.0,0.0
+nalex a 12,colds & flu,-1.0,0.0
+nohist lq,colds & flu,-1.0,0.0
+novahistine,colds & flu,-1.0,0.0
+onset forte,colds & flu,-1.0,0.0
+panatuss ped,colds & flu,-1.0,0.0
+phena-plus,colds & flu,-1.0,0.0
+phenagil,colds & flu,-1.0,0.0
+pheniramine / phenylephrine,colds & flu,-1.0,0.0
+phenylephrine / triprolidine,colds & flu,-1.0,0.0
+robitussin peak cold daytime cold + flu,colds & flu,-1.0,0.0
+sutan-dm,colds & flu,-1.0,0.0
+tannic-12 s,colds & flu,-1.0,0.0
+theracaps multi-symptom cough & cold reliever,colds & flu,-1.0,0.0
+triaminic softchews cough & sore throat,colds & flu,-1.0,0.0
+tricode gf,colds & flu,-1.0,0.0
+tusnel c,colds & flu,-1.0,0.0
+tuzistra xr,colds & flu,-1.0,0.0
+tylenol allergy multi-symptom,colds & flu,-1.0,0.0
+tylenol children’s cold + cough + sore throat,colds & flu,-1.0,0.0
+tylenol cough & sore throat nightime,colds & flu,-1.0,0.0
+tylenol cough and sore throat daytime,colds & flu,-1.0,0.0
+vanacof,colds & flu,-1.0,0.0
+vi-sudo,colds & flu,-1.0,0.0
+vicks formula 44 custom care cough & cold pm,colds & flu,-1.0,0.0
+zodryl dac,colds & flu,-1.0,0.0
+docusate,constipation,5.8,34.0
+miralax,constipation,7.3,182.0
+colace,constipation,5.5,13.0
+dulcolax,constipation,5.2,960.0
+bisacodyl,constipation,5.2,1357.0
+polyethylene glycol 3350,constipation,7.3,243.0
+dulcolax stool softener,constipation,5.0,1.0
+milk of magnesia,constipation,8.7,38.0
+magnesium oxide,constipation,8.4,15.0
+magnesium citrate,constipation,8.7,473.0
+metamucil,constipation,6.1,28.0
+citrucel,constipation,10.0,1.0
+doc-q-lace,constipation,-1.0,0.0
+fibercon,constipation,9.0,1.0
+phillips' milk of magnesia,constipation,8.4,181.0
+dok,constipation,-1.0,0.0
+fleet enema,constipation,8.7,90.0
+glycolax,constipation,0.0,1.0
+psyllium,constipation,6.3,30.0
+magnesium hydroxide,constipation,8.5,225.0
+surfak,constipation,-1.0,0.0
+enemeez mini,constipation,9.0,1.0
+bisa-lax,constipation,-1.0,0.0
+clearlax,constipation,9.7,8.0
+colace micro-enema,constipation,-1.0,0.0
+correctol,constipation,5.3,36.0
+diocto,constipation,-1.0,0.0
+fleet bisacodyl,constipation,10.0,1.0
+phillips' cramp-free,constipation,-1.0,0.0
+citrate of magnesia,constipation,10.0,6.0
+gavilax,constipation,1.0,1.0
+gialax,constipation,-1.0,0.0
+mag-oxide,constipation,-1.0,0.0
+peg3350,constipation,5.0,2.0
+purelax,constipation,10.0,1.0
+sunmark clearlax,constipation,-1.0,0.0
+uro-mag,constipation,-1.0,0.0
+citroma,constipation,-1.0,0.0
+glycerin,constipation,7.5,24.0
+hydrocil,constipation,-1.0,0.0
+konsyl,constipation,9.0,2.0
+methylcellulose,constipation,5.7,7.0
+reguloid,constipation,-1.0,0.0
+sodium biphosphate / sodium phosphate,constipation,8.8,99.0
+disposable enema,constipation,10.0,1.0
+dulcolax milk of magnesia,constipation,10.0,1.0
+equalactin,constipation,-1.0,0.0
+ex-lax milk of magnesia,constipation,-1.0,0.0
+fiber lax,constipation,-1.0,0.0
+fiber laxative,constipation,-1.0,0.0
+fleet glycerin suppositories adult,constipation,7.7,8.0
+fleet phospho soda,constipation,10.0,2.0
+mineral oil,constipation,-1.0,0.0
+natural fiber therapy,constipation,-1.0,0.0
+osmoprep,constipation,-1.0,0.0
+pedia-lax chewable tablets,constipation,-1.0,0.0
+pedia-lax liquid glycerin suppositories,constipation,10.0,1.0
+polycarbophil,constipation,5.0,3.0
+sani-supp,constipation,-1.0,0.0
+sorbitol,constipation,9.0,1.0
+benzocaine / docusate,constipation,-1.0,0.0
+castor oil,constipation,-1.0,0.0
+fibertab,constipation,-1.0,0.0
+fleet glycerin suppositories pediatric,constipation,-1.0,0.0
+potassium phosphate,constipation,-1.0,0.0
+symbicort,copd,7.4,46.0
+trelegy ellipta,copd,5.8,106.0
+prednisone,copd,7.4,15.0
+montelukast,copd,7.5,10.0
+breztri aerosphere,copd,6.7,3.0
+fluticasone / umeclidinium / vilanterol,copd,5.7,107.0
+anoro ellipta,copd,6.8,56.0
+breo ellipta,copd,6.9,36.0
+daliresp,copd,7.7,45.0
+budesonide / formoterol,copd,7.5,47.0
+tudorza pressair,copd,9.0,14.0
+incruse ellipta,copd,2.9,20.0
+stiolto respimat,copd,6.3,31.0
+rayos,copd,10.0,1.0
+aclidinium,copd,9.0,14.0
+fluticasone / vilanterol,copd,6.9,36.0
+levalbuterol,copd,8.5,4.0
+roflumilast,copd,7.8,48.0
+umeclidinium / vilanterol,copd,6.8,57.0
+bevespi aerosphere,copd,7.5,5.0
+xopenex,copd,10.0,2.0
+olodaterol / tiotropium,copd,6.1,33.0
+striverdi respimat,copd,5.5,4.0
+xopenex hfa,copd,-1.0,0.0
+olodaterol,copd,5.5,4.0
+revefenacin,copd,10.0,2.0
+umeclidinium,copd,2.8,21.0
+xopenex concentrate,copd,-1.0,0.0
+yupelri,copd,10.0,2.0
+aclidinium / formoterol,copd,-1.0,0.0
+breyna,copd,-1.0,0.0
+budesonide / formoterol / glycopyrrolate,copd,6.7,3.0
+duaklir pressair,copd,-1.0,0.0
+formoterol / glycopyrrolate,copd,7.5,5.0
+ivermectin,covid 19,7.8,17.0
+remdesivir,covid 19,5.2,34.0
+pfizer-biontech covid-19 vaccine,covid 19,7.4,11.0
+paxlovid,covid 19,6.8,282.0
+actemra,covid 19,-1.0,0.0
+tocilizumab,covid 19,-1.0,0.0
+anakinra,covid 19,-1.0,0.0
+kineret,covid 19,-1.0,0.0
+moderna covid-19 vaccine,covid 19,5.2,27.0
+olumiant,covid 19,1.0,2.0
+veklury,covid 19,-1.0,0.0
+molnupiravir,covid 19,4.7,4.0
+regen-cov,covid 19,5.5,2.0
+sotrovimab,covid 19,-1.0,0.0
+bamlanivimab / etesevimab,covid 19,1.0,1.0
+lagevrio,covid 19,-1.0,0.0
+"sars-cov-2 (covid-19) ad26 vaccine, recombinant",covid 19,6.5,4.0
+sars-cov-2 mrna (tozinameran) vaccine,covid 19,7.4,11.0
+bamlanivimab and etesevimab,covid 19,1.0,1.0
+baricitinib,covid 19,1.0,2.0
+bebtelovimab,covid 19,2.0,2.0
+comirnaty,covid 19,-1.0,0.0
+nirmatrelvir / ritonavir,covid 19,6.8,285.0
+sars-cov-2 (covid-19) mrna-1273 vaccine,covid 19,5.2,27.0
+pfizer-biontech covid-19 (5y-11y) bivalent booster vaccine pf,covid 19,-1.0,0.0
+pfizer-biontech covid-19 (12y+) bivalent booster vaccine pf,covid 19,-1.0,0.0
+sars-cov-2 (covid-19) mrna (tozinameran 5y-11y) bivalent booster vaccine,covid 19,-1.0,0.0
+sars-cov-2 (covid-19) mrna (tozinameran 12y+) bivalent booster vaccine,covid 19,-1.0,0.0
+sars-cov-2 (covid-19) mrna-1273 (bivalent booster) vaccine,covid 19,-1.0,0.0
+"sars-cov-2 (covid-19) nvx-cov2373 vaccine, recombinant",covid 19,-1.0,0.0
+sars-cov-2 mrna (tozinameran 6m-4y) vaccine,covid 19,-1.0,0.0
+sars-cov-2 mrna-1273 (6m-5y) vaccine,covid 19,-1.0,0.0
+sars-cov-2 mrna-1273 (booster only) vaccine,covid 19,-1.0,0.0
+spikevax,covid 19,-1.0,0.0
+bupropion,depression,7.0,1334.0
+cymbalta,depression,6.3,588.0
+sertraline,depression,6.8,1209.0
+zoloft,depression,6.8,612.0
+lexapro,depression,7.2,607.0
+citalopram,depression,7.2,717.0
+prozac,depression,7.0,423.0
+fluoxetine,depression,7.0,699.0
+wellbutrin xl,depression,7.4,301.0
+celexa,depression,7.2,364.0
+escitalopram,depression,7.2,895.0
+venlafaxine,depression,6.0,1004.0
+trintellix,depression,6.0,603.0
+abilify,depression,6.4,324.0
+duloxetine,depression,6.2,712.0
+effexor xr,depression,6.5,353.0
+rexulti,depression,6.9,133.0
+vortioxetine,depression,5.9,885.0
+brexpiprazole,depression,7.0,146.0
+lisdexamfetamine,depression,8.4,19.0
+trazodone,depression,6.6,131.0
+mirtazapine,depression,6.7,621.0
+pristiq,depression,6.9,773.0
+effexor,depression,5.5,341.0
+paxil,depression,6.4,192.0
+paroxetine,depression,6.5,287.0
+remeron,depression,7.0,168.0
+wellbutrin sr,depression,6.8,104.0
+amitriptyline,depression,8.1,126.0
+viibryd,depression,6.0,586.0
+alprazolam,depression,8.7,102.0
+lamotrigine,depression,7.2,172.0
+tramadol,depression,9.2,198.0
+seroquel xr,depression,7.1,52.0
+aripiprazole,depression,6.3,352.0
+quetiapine,depression,6.4,189.0
+deplin,depression,7.3,92.0
+nortriptyline,depression,6.3,60.0
+zyprexa,depression,5.3,77.0
+desyrel,depression,7.0,4.0
+forfivo xl,depression,10.0,1.0
+budeprion sr,depression,7.6,12.0
+desvenlafaxine,depression,6.8,839.0
+methylphenidate,depression,8.7,63.0
+aplenzin,depression,6.5,14.0
+desyrel dividose,depression,-1.0,0.0
+doxepin,depression,7.1,27.0
+fetzima,depression,4.7,91.0
+lithium,depression,6.1,57.0
+olanzapine,depression,5.0,171.0
+risperidone,depression,5.1,52.0
+desipramine,depression,9.1,16.0
+irenka,depression,-1.0,0.0
+modafinil,depression,8.7,66.0
+nefazodone,depression,9.4,77.0
+fluvoxamine,depression,6.6,35.0
+imipramine,depression,6.5,31.0
+l-methylfolate,depression,7.6,136.0
+methylin er,depression,9.5,2.0
+niacin,depression,8.7,55.0
+parnate,depression,8.5,89.0
+paxil cr,depression,7.4,14.0
+remeron soltab,depression,8.0,6.0
+symbyax,depression,9.1,18.0
+abilify mycite,depression,-1.0,0.0
+amitriptyline / chlordiazepoxide,depression,9.6,5.0
+amoxapine,depression,9.6,6.0
+aventyl hydrochloride,depression,9.0,1.0
+clomipramine,depression,6.8,42.0
+emsam,depression,7.9,32.0
+fluoxetine / olanzapine,depression,7.8,25.0
+ketamine,depression,7.6,17.0
+nardil,depression,8.4,103.0
+norpramin,depression,9.8,5.0
+pamelor,depression,4.4,11.0
+pexeva,depression,-1.0,0.0
+phenelzine,depression,8.6,130.0
+tranylcypromine,depression,8.3,108.0
+vilazodone,depression,6.0,606.0
+zyprexa zydis,depression,-1.0,0.0
+amitriptyline / perphenazine,depression,9.0,1.0
+armodafinil,depression,8.3,40.0
+atomoxetine,depression,6.8,7.0
+isocarboxazid,depression,9.0,6.0
+levomilnacipran,depression,4.9,102.0
+marplan,depression,9.0,6.0
+paliperidone,depression,3.9,12.0
+selegiline,depression,8.1,41.0
+tofranil,depression,5.8,6.0
+trimipramine,depression,9.0,2.0
+vivactil,depression,9.0,2.0
+xaquil xr,depression,9.0,3.0
+esketamine,depression,5.6,63.0
+l-methylfolate forte,depression,-1.0,0.0
+protriptyline,depression,9.0,2.0
+spravato,depression,5.6,57.0
+surmontil,depression,0.0,1.0
+thyroid desiccated,depression,-1.0,0.0
+humalog,diabetes (type 1),6.8,8.0
+lantus,diabetes (type 1),7.4,12.0
+novolog,diabetes (type 1),5.9,10.0
+insulin lispro,diabetes (type 1),3.2,49.0
+insulin aspart,diabetes (type 1),6.1,14.0
+lantus solostar,diabetes (type 1),1.0,1.0
+lyumjev,diabetes (type 1),-1.0,0.0
+insulin detemir,diabetes (type 1),5.8,7.0
+levemir,diabetes (type 1),5.8,7.0
+insulin aspart/insulin aspart protamine,diabetes (type 1),10.0,2.0
+humalog kwikpen,diabetes (type 1),3.3,18.0
+novolog flexpen,diabetes (type 1),-1.0,0.0
+apidra,diabetes (type 1),-1.0,0.0
+insulin glargine,diabetes (type 1),2.9,92.0
+basaglar,diabetes (type 1),1.8,58.0
+tresiba,diabetes (type 1),3.9,74.0
+toujeo solostar,diabetes (type 1),2.3,16.0
+humulin n,diabetes (type 1),10.0,1.0
+humulin r,diabetes (type 1),-1.0,0.0
+afrezza,diabetes (type 1),5.9,19.0
+novolin r,diabetes (type 1),6.5,3.0
+symlin,diabetes (type 1),10.0,3.0
+humulin 70/30,diabetes (type 1),-1.0,0.0
+insulin regular,diabetes (type 1),8.5,8.0
+novolin n,diabetes (type 1),0.0,1.0
+admelog,diabetes (type 1),2.0,17.0
+fiasp,diabetes (type 1),8.3,3.0
+novolin 70/30,diabetes (type 1),10.0,1.0
+humalog mix 75/25,diabetes (type 1),9.0,2.0
+insulin glulisine,diabetes (type 1),9.0,1.0
+rezvoglar,diabetes (type 1),-1.0,0.0
+semglee,diabetes (type 1),1.0,1.0
+toujeo max solostar,diabetes (type 1),-1.0,0.0
+humulin r u-500 (concentrated),diabetes (type 1),10.0,2.0
+novolog mix 70/30,diabetes (type 1),10.0,2.0
+novolog penfill,diabetes (type 1),-1.0,0.0
+octreotide,diabetes (type 1),9.0,2.0
+pramlintide,diabetes (type 1),10.0,5.0
+"insulin inhalation, rapid acting",diabetes (type 1),5.9,19.0
+insulin isophane,diabetes (type 1),10.0,4.0
+novolog mix 70/30 flexpen,diabetes (type 1),-1.0,0.0
+humulin n pen,diabetes (type 1),-1.0,0.0
+humulin r u-500 kwikpen,diabetes (type 1),-1.0,0.0
+insulin degludec,diabetes (type 1),3.9,75.0
+insulin isophane / insulin regular,diabetes (type 1),9.3,3.0
+myxredlin,diabetes (type 1),-1.0,0.0
+humalog mix 50/50,diabetes (type 1),-1.0,0.0
+humalog mix 75/25 kwikpen,diabetes (type 1),-1.0,0.0
+insulin lispro/insulin lispro protamine,diabetes (type 1),9.0,2.0
+symlin pen,diabetes (type 1),-1.0,0.0
+symlinpen 60,diabetes (type 1),10.0,1.0
+symlinpen 120,diabetes (type 1),10.0,1.0
+humalog mix 50/50 kwikpen,diabetes (type 1),-1.0,0.0
+humulin 50/50,diabetes (type 1),-1.0,0.0
+humulin 70/30 pen,diabetes (type 1),-1.0,0.0
+relion/novolin 70/30,diabetes (type 1),9.0,1.0
+tzield,diabetes (type 1),-1.0,0.0
+metformin,diabetes (type 2),5.9,253.0
+farxiga,diabetes (type 2),4.5,125.0
+trulicity,diabetes (type 2),5.1,891.0
+rybelsus,diabetes (type 2),5.7,153.0
+dapagliflozin,diabetes (type 2),4.6,155.0
+dulaglutide,diabetes (type 2),5.2,914.0
+insulin aspart,diabetes (type 2),5.7,21.0
+insulin detemir,diabetes (type 2),5.7,40.0
+insulin lispro,diabetes (type 2),4.4,37.0
+lyumjev,diabetes (type 2),-1.0,0.0
+semaglutide,diabetes (type 2),5.7,723.0
+soliqua,diabetes (type 2),4.3,15.0
+insulin aspart/insulin aspart protamine,diabetes (type 2),10.0,2.0
+insulin glargine / lixisenatide,diabetes (type 2),4.3,15.0
+januvia,diabetes (type 2),4.6,125.0
+mounjaro,diabetes (type 2),5.6,42.0
+victoza,diabetes (type 2),7.6,507.0
+glipizide,diabetes (type 2),6.1,66.0
+glimepiride,diabetes (type 2),6.6,70.0
+amaryl,diabetes (type 2),7.2,20.0
+invokana,diabetes (type 2),5.8,257.0
+lantus,diabetes (type 2),6.2,28.0
+actos,diabetes (type 2),4.9,40.0
+jardiance,diabetes (type 2),5.3,278.0
+levemir,diabetes (type 2),5.5,35.0
+janumet,diabetes (type 2),6.0,64.0
+glucotrol,diabetes (type 2),7.4,9.0
+byetta,diabetes (type 2),7.9,81.0
+ozempic,diabetes (type 2),5.6,551.0
+glumetza,diabetes (type 2),9.5,4.0
+liraglutide,diabetes (type 2),7.6,516.0
+pioglitazone,diabetes (type 2),4.6,50.0
+tradjenta,diabetes (type 2),3.1,60.0
+bydureon,diabetes (type 2),6.4,265.0
+humalog,diabetes (type 2),6.8,11.0
+lantus solostar,diabetes (type 2),7.6,29.0
+sitagliptin,diabetes (type 2),4.6,134.0
+novolog,diabetes (type 2),4.9,15.0
+glyburide,diabetes (type 2),7.2,9.0
+metformin / sitagliptin,diabetes (type 2),6.0,73.0
+onglyza,diabetes (type 2),5.9,15.0
+riomet,diabetes (type 2),4.5,2.0
+glipizide xl,diabetes (type 2),5.3,10.0
+insulin glargine,diabetes (type 2),4.6,181.0
+novolog flexpen,diabetes (type 2),9.7,3.0
+prandin,diabetes (type 2),8.0,7.0
+tresiba,diabetes (type 2),4.3,62.0
+canagliflozin,diabetes (type 2),5.9,265.0
+chromium picolinate,diabetes (type 2),9.0,14.0
+empagliflozin,diabetes (type 2),5.3,290.0
+exenatide,diabetes (type 2),6.4,406.0
+humulin r,diabetes (type 2),9.0,1.0
+repaglinide,diabetes (type 2),7.6,11.0
+acarbose,diabetes (type 2),4.5,2.0
+alogliptin,diabetes (type 2),3.4,8.0
+avandia,diabetes (type 2),4.3,8.0
+basaglar,diabetes (type 2),2.8,85.0
+glimepiride / pioglitazone,diabetes (type 2),5.5,2.0
+glucotrol xl,diabetes (type 2),-1.0,0.0
+glyburide / metformin,diabetes (type 2),4.3,5.0
+humalog kwikpen,diabetes (type 2),3.5,16.0
+humulin n,diabetes (type 2),9.0,2.0
+kombiglyze xr,diabetes (type 2),4.7,16.0
+linagliptin,diabetes (type 2),3.6,66.0
+toujeo solostar,diabetes (type 2),4.8,28.0
+welchol,diabetes (type 2),4.0,4.0
+xigduo xr,diabetes (type 2),7.3,16.0
+adlyxin,diabetes (type 2),-1.0,0.0
+admelog,diabetes (type 2),3.0,4.0
+apidra,diabetes (type 2),6.0,3.0
+bromocriptine,diabetes (type 2),-1.0,0.0
+colesevelam,diabetes (type 2),4.8,5.0
+cycloset,diabetes (type 2),-1.0,0.0
+dapagliflozin / metformin,diabetes (type 2),7.3,16.0
+diabeta,diabetes (type 2),-1.0,0.0
+empagliflozin / metformin,diabetes (type 2),6.0,35.0
+glipizide / metformin,diabetes (type 2),3.5,2.0
+glucovance,diabetes (type 2),8.0,2.0
+glycron,diabetes (type 2),-1.0,0.0
+glynase,diabetes (type 2),-1.0,0.0
+glyset,diabetes (type 2),10.0,1.0
+humulin 70/30,diabetes (type 2),6.0,1.0
+insulin regular,diabetes (type 2),6.8,12.0
+janumet xr,diabetes (type 2),7.0,2.0
+jentadueto,diabetes (type 2),6.0,16.0
+lixisenatide,diabetes (type 2),-1.0,0.0
+metformin / pioglitazone,diabetes (type 2),7.2,6.0
+metformin / saxagliptin,diabetes (type 2),4.7,16.0
+miglitol,diabetes (type 2),10.0,1.0
+nesina,diabetes (type 2),3.0,4.0
+novolin 70/30,diabetes (type 2),7.7,3.0
+novolin n,diabetes (type 2),7.8,6.0
+novolin r,diabetes (type 2),9.0,3.0
+pramlintide,diabetes (type 2),9.0,1.0
+saxagliptin,diabetes (type 2),6.0,16.0
+synjardy,diabetes (type 2),6.6,23.0
+toujeo max solostar,diabetes (type 2),-1.0,0.0
+xultophy,diabetes (type 2),9.3,3.0
+actoplus met,diabetes (type 2),7.2,6.0
+afrezza,diabetes (type 2),3.7,13.0
+albiglutide,diabetes (type 2),4.6,11.0
+alogliptin / metformin,diabetes (type 2),1.0,1.0
+alogliptin / pioglitazone,diabetes (type 2),1.0,2.0
+bydureon bcise,diabetes (type 2),4.0,53.0
+canagliflozin / metformin,diabetes (type 2),5.0,3.0
+cr-gtf,diabetes (type 2),-1.0,0.0
+crm,diabetes (type 2),-1.0,0.0
+dapagliflozin / saxagliptin,diabetes (type 2),-1.0,0.0
+duetact,diabetes (type 2),-1.0,0.0
+empagliflozin / linagliptin / metformin,diabetes (type 2),-1.0,0.0
+empagliflozin / linagliptin,diabetes (type 2),6.5,22.0
+ertugliflozin / metformin,diabetes (type 2),-1.0,0.0
+ertugliflozin / sitagliptin,diabetes (type 2),9.0,1.0
+ertugliflozin,diabetes (type 2),5.5,12.0
+fiasp,diabetes (type 2),-1.0,0.0
+glynase prestab,diabetes (type 2),-1.0,0.0
+glyxambi,diabetes (type 2),6.5,22.0
+humalog mix 50/50,diabetes (type 2),-1.0,0.0
+humalog mix 50/50 kwikpen,diabetes (type 2),-1.0,0.0
+humalog mix 75/25,diabetes (type 2),10.0,1.0
+humalog mix 75/25 kwikpen,diabetes (type 2),-1.0,0.0
+humulin 50/50,diabetes (type 2),-1.0,0.0
+humulin 70/30 pen,diabetes (type 2),-1.0,0.0
+humulin n pen,diabetes (type 2),6.0,1.0
+humulin r u-500 (concentrated),diabetes (type 2),5.0,4.0
+humulin r u-500 kwikpen,diabetes (type 2),7.0,3.0
+insulin degludec / liraglutide,diabetes (type 2),9.3,3.0
+insulin degludec,diabetes (type 2),4.3,63.0
+insulin glulisine,diabetes (type 2),7.8,5.0
+"insulin inhalation, rapid acting",diabetes (type 2),5.1,16.0
+insulin isophane / insulin regular,diabetes (type 2),7.3,4.0
+insulin isophane,diabetes (type 2),7.3,10.0
+insulin lispro/insulin lispro protamine,diabetes (type 2),7.5,2.0
+invokamet,diabetes (type 2),2.5,2.0
+invokamet xr,diabetes (type 2),10.0,1.0
+jentadueto xr,diabetes (type 2),9.0,2.0
+kazano,diabetes (type 2),1.0,1.0
+linagliptin / metformin,diabetes (type 2),6.4,18.0
+myxredlin,diabetes (type 2),-1.0,0.0
+nateglinide,diabetes (type 2),4.0,4.0
+novolog mix 70/30,diabetes (type 2),10.0,1.0
+novolog mix 70/30 flexpen,diabetes (type 2),0.0,1.0
+novolog penfill,diabetes (type 2),-1.0,0.0
+oseni,diabetes (type 2),1.0,2.0
+qtern,diabetes (type 2),-1.0,0.0
+relion/novolin 70/30,diabetes (type 2),-1.0,0.0
+rezvoglar,diabetes (type 2),-1.0,0.0
+rosiglitazone,diabetes (type 2),4.3,8.0
+segluromet,diabetes (type 2),-1.0,0.0
+semglee,diabetes (type 2),5.0,5.0
+starlix,diabetes (type 2),0.0,1.0
+steglatro,diabetes (type 2),6.0,10.0
+steglujan,diabetes (type 2),9.0,1.0
+symlin,diabetes (type 2),9.0,1.0
+symlin pen,diabetes (type 2),-1.0,0.0
+symlinpen 60,diabetes (type 2),-1.0,0.0
+symlinpen 120,diabetes (type 2),-1.0,0.0
+synjardy xr,diabetes (type 2),5.1,10.0
+tanzeum,diabetes (type 2),4.6,11.0
+tirzepatide,diabetes (type 2),5.6,43.0
+trijardy xr,diabetes (type 2),-1.0,0.0
+loperamide,diarrhea,8.1,33.0
+lomotil,diarrhea,7.9,45.0
+imodium,diarrhea,6.8,8.0
+atropine / diphenoxylate,diarrhea,8.0,62.0
+imodium a-d,diarrhea,7.8,8.0
+anti-diarrheal,diarrhea,10.0,2.0
+pepto-bismol,diarrhea,9.3,7.0
+florastor,diarrhea,6.6,13.0
+codeine,diarrhea,9.1,12.0
+bismuth subsalicylate,diarrhea,9.4,8.0
+diamode,diarrhea,-1.0,0.0
+kaopectate,diarrhea,-1.0,0.0
+rifaximin,diarrhea,8.2,6.0
+up and up anti-diarrheal solution,diarrhea,-1.0,0.0
+neomycin,diarrhea,1.0,1.0
+saccharomyces boulardii lyo,diarrhea,6.3,22.0
+bismatrol,diarrhea,-1.0,0.0
+opium,diarrhea,9.6,28.0
+octreotide,diarrhea,7.5,2.0
+bismarex,diarrhea,-1.0,0.0
+bismatrol maximum strength,diarrhea,-1.0,0.0
+crofelemer,diarrhea,10.0,1.0
+florastor kids,diarrhea,1.0,1.0
+mytesi,diarrhea,-1.0,0.0
+pedialyte,diarrhea,1.0,1.0
+peptic relief,diarrhea,-1.0,0.0
+pink bismuth,diarrhea,-1.0,0.0
+saccharomyces boulardii+mos,diarrhea,9.0,1.0
+soothe caplets,diarrhea,-1.0,0.0
+atropine / difenoxin,diarrhea,-1.0,0.0
+ceralyte,diarrhea,-1.0,0.0
+electrolyte replacement solutions,diarrhea,2.0,4.0
+enfalyte,diarrhea,-1.0,0.0
+equalyte,diarrhea,-1.0,0.0
+medi-lyte,diarrhea,-1.0,0.0
+motofen,diarrhea,-1.0,0.0
+oralyte,diarrhea,-1.0,0.0
+rehydralyte,diarrhea,-1.0,0.0
+revital,diarrhea,3.0,2.0
+triamcinolone,eczema,6.8,19.0
+mometasone,eczema,9.0,47.0
+dupixent,eczema,6.6,178.0
+hydrocortisone,eczema,8.9,12.0
+methotrexate,eczema,8.5,6.0
+clobetasol,eczema,4.4,6.0
+dupilumab,eczema,6.6,186.0
+elidel,eczema,7.4,46.0
+fluocinonide,eczema,8.7,8.0
+desonide,eczema,9.1,20.0
+prednisone,eczema,7.5,37.0
+elocon,eczema,9.0,36.0
+desoximetasone,eczema,8.3,10.0
+pimecrolimus,eczema,7.4,49.0
+cortizone-10,eczema,9.3,3.0
+dexamethasone,eczema,10.0,6.0
+halobetasol,eczema,8.4,8.0
+kenalog,eczema,6.0,2.0
+topicort,eczema,8.0,2.0
+fluocinolone,eczema,9.0,1.0
+dexamethasone intensol,eczema,-1.0,0.0
+fluocinolone,eczema,-1.0,0.0
+fluticasone,eczema,-1.0,0.0
+alclometasone,eczema,-1.0,0.0
+azathioprine,eczema,9.0,1.0
+cloderm,eczema,10.0,2.0
+cutivate,eczema,-1.0,0.0
+cyclosporine,eczema,8.0,6.0
+dermotic oil,eczema,-1.0,0.0
+locoid lipocream,eczema,8.0,2.0
+aristocort a,eczema,-1.0,0.0
+aristocort r,eczema,-1.0,0.0
+beser,eczema,-1.0,0.0
+beta hc,eczema,-1.0,0.0
+cinolar,eczema,-1.0,0.0
+cordran tape,eczema,10.0,3.0
+de-sone la,eczema,-1.0,0.0
+dermacinrx trizapak,eczema,-1.0,0.0
+dermasorb ta,eczema,-1.0,0.0
+desowen,eczema,9.8,5.0
+dxevo,eczema,-1.0,0.0
+flurandrenolide,eczema,10.0,3.0
+halog,eczema,8.0,1.0
+hidex,eczema,-1.0,0.0
+juulissa pharmapak,eczema,-1.0,0.0
+locoid,eczema,-1.0,0.0
+oralone,eczema,-1.0,0.0
+silalite pak,eczema,-1.0,0.0
+treziopak,eczema,-1.0,0.0
+trianex,eczema,-1.0,0.0
+triderm,eczema,-1.0,0.0
+tritocin,eczema,-1.0,0.0
+ultravate,eczema,9.5,4.0
+ala-cort,eczema,-1.0,0.0
+ala-scalp,eczema,-1.0,0.0
+ala-scalp hp,eczema,-1.0,0.0
+amcinonide,eczema,-1.0,0.0
+apexicon e,eczema,-1.0,0.0
+aquanil hc,eczema,-1.0,0.0
+aquax-h,eczema,-1.0,0.0
+caldecort,eczema,-1.0,0.0
+clioquinol / hydrocortisone,eczema,-1.0,0.0
+clobex,eczema,10.0,2.0
+clocortolone,eczema,10.0,3.0
+cordran,eczema,-1.0,0.0
+cortizone-5,eczema,-1.0,0.0
+derma-smoothe / fs (scalp),eczema,-1.0,0.0
+dermarest plus anti-itch,eczema,-1.0,0.0
+dermovate,eczema,-1.0,0.0
+dermtex hc,eczema,-1.0,0.0
+desonate,eczema,6.0,2.0
+doxepin,eczema,-1.0,0.0
+fluocinonide-e,eczema,-1.0,0.0
+hydrocortisone / iodoquinol,eczema,-1.0,0.0
+itch-x lotion,eczema,-1.0,0.0
+nucort,eczema,-1.0,0.0
+pandel,eczema,-1.0,0.0
+prudoxin,eczema,-1.0,0.0
+sarnol-hc,eczema,-1.0,0.0
+temovate,eczema,1.0,1.0
+texacort,eczema,-1.0,0.0
+u-cort,eczema,-1.0,0.0
+vanos,eczema,-1.0,0.0
+verdeso,eczema,9.5,2.0
+zonalon,eczema,-1.0,0.0
+ala-quin,eczema,-1.0,0.0
+alcortin a,eczema,-1.0,0.0
+aloe polysaccharides / iodoquinol,eczema,-1.0,0.0
+aloe vera / hydrocortisone / iodoquinol,eczema,-1.0,0.0
+aloquin,eczema,-1.0,0.0
+ammonium lactate / halobetasol,eczema,-1.0,0.0
+ammonium lactate/urea,eczema,-1.0,0.0
+apexicon,eczema,-1.0,0.0
+capex,eczema,-1.0,0.0
+carb-o-lac5,eczema,-1.0,0.0
+carb-o-lac hp,eczema,-1.0,0.0
+clobevate,eczema,-1.0,0.0
+clodan,eczema,-1.0,0.0
+cordran sp,eczema,-1.0,0.0
+cormax,eczema,-1.0,0.0
+cormax scalp,eczema,-1.0,0.0
+corti-sav,eczema,-1.0,0.0
+cyclocort,eczema,-1.0,0.0
+derma-smoothe / fs,eczema,-1.0,0.0
+derma-smoothe / fs (body oil),eczema,-1.0,0.0
+dermatop,eczema,9.5,2.0
+dermazene,eczema,-1.0,0.0
+desrx,eczema,-1.0,0.0
+diflorasone,eczema,9.5,2.0
+embeline,eczema,-1.0,0.0
+embeline e,eczema,-1.0,0.0
+flac,eczema,-1.0,0.0
+halcinonide,eczema,9.0,2.0
+halonate,eczema,-1.0,0.0
+kerasal ultra 20,eczema,-1.0,0.0
+lokara,eczema,-1.0,0.0
+nolix,eczema,-1.0,0.0
+olux,eczema,-1.0,0.0
+olux-e,eczema,-1.0,0.0
+prednicarbate,eczema,9.5,2.0
+quinja,eczema,-1.0,0.0
+r a acne,eczema,-1.0,0.0
+resinol,eczema,-1.0,0.0
+resorcinol,eczema,-1.0,0.0
+synalar,eczema,-1.0,0.0
+synalar ointment,eczema,-1.0,0.0
+tovet,eczema,-1.0,0.0
+ultralytic,eczema,-1.0,0.0
+ultralytic 2,eczema,-1.0,0.0
+vytone,eczema,-1.0,0.0
+cialis,erectile dysfunction,8.6,448.0
+sildenafil,erectile dysfunction,8.2,423.0
+viagra,erectile dysfunction,8.5,227.0
+tadalafil,erectile dysfunction,8.4,601.0
+caverject impulse,erectile dysfunction,9.5,9.0
+staxyn,erectile dysfunction,8.7,24.0
+vardenafil,erectile dysfunction,8.0,170.0
+alprostadil,erectile dysfunction,7.1,174.0
+edex,erectile dysfunction,7.6,47.0
+stendra,erectile dysfunction,5.6,60.0
+caverject,erectile dysfunction,6.7,23.0
+muse,erectile dysfunction,5.3,55.0
+avanafil,erectile dysfunction,5.7,62.0
+entereg,gastrointestinal,-1.0,0.0
+lidocaine viscous,gastrointestinal,-1.0,0.0
+alvimopan,gastrointestinal,-1.0,0.0
+lidocaine,gastrointestinal,-1.0,0.0
+glydo,gastrointestinal,-1.0,0.0
+xylocaine jelly,gastrointestinal,-1.0,0.0
+lta ii kit,gastrointestinal,-1.0,0.0
+omeprazole,gerd (heartburn),4.7,257.0
+pantoprazole,gerd (heartburn),4.6,254.0
+nexium,gerd (heartburn),5.5,154.0
+famotidine,gerd (heartburn),3.7,93.0
+protonix,gerd (heartburn),6.5,50.0
+prilosec,gerd (heartburn),6.7,37.0
+dexilant,gerd (heartburn),6.2,162.0
+aciphex,gerd (heartburn),9.3,36.0
+prilosec otc,gerd (heartburn),8.5,14.0
+esomeprazole,gerd (heartburn),5.5,186.0
+lansoprazole,gerd (heartburn),6.5,95.0
+prevacid,gerd (heartburn),7.8,44.0
+pepcid,gerd (heartburn),6.8,4.0
+rabeprazole,gerd (heartburn),8.1,52.0
+sucralfate,gerd (heartburn),6.3,86.0
+pepcid ac,gerd (heartburn),-1.0,0.0
+carafate,gerd (heartburn),6.1,24.0
+nexium 24hr,gerd (heartburn),9.7,4.0
+protonix iv,gerd (heartburn),9.0,1.0
+acid controller maximum strength,gerd (heartburn),-1.0,0.0
+acid controller original strength,gerd (heartburn),-1.0,0.0
+acid reducer maximum strength,gerd (heartburn),-1.0,0.0
+cimetidine,gerd (heartburn),7.5,8.0
+dexlansoprazole,gerd (heartburn),6.4,194.0
+heartburn relief,gerd (heartburn),-1.0,0.0
+heartburn relief maximum strength,gerd (heartburn),-1.0,0.0
+metoclopramide,gerd (heartburn),4.1,41.0
+omeprazole / sodium bicarbonate,gerd (heartburn),8.2,27.0
+pepcid ac chewable tablets,gerd (heartburn),10.0,1.0
+pepcid oral suspension,gerd (heartburn),-1.0,0.0
+mylanta,gerd (heartburn),10.0,1.0
+reglan,gerd (heartburn),4.1,22.0
+zegerid,gerd (heartburn),8.3,19.0
+calcium carbonate,gerd (heartburn),4.0,6.0
+magnesium oxide,gerd (heartburn),-1.0,0.0
+nexium iv,gerd (heartburn),8.0,1.0
+nizatidine,gerd (heartburn),8.6,8.0
+aluminum hydroxide / magnesium hydroxide / simethicone,gerd (heartburn),9.7,3.0
+bethanechol,gerd (heartburn),5.5,2.0
+calci-chew,gerd (heartburn),-1.0,0.0
+mag-oxide,gerd (heartburn),-1.0,0.0
+pepcid complete,gerd (heartburn),5.5,2.0
+phillips' cramp-free,gerd (heartburn),-1.0,0.0
+prevacid otc,gerd (heartburn),8.0,1.0
+prevacid solutab,gerd (heartburn),6.7,3.0
+tagamet hb,gerd (heartburn),10.0,2.0
+titralac,gerd (heartburn),-1.0,0.0
+tums regular strength,gerd (heartburn),1.0,1.0
+tums smoothies,gerd (heartburn),-1.0,0.0
+uro-mag,gerd (heartburn),-1.0,0.0
+zegerid otc,gerd (heartburn),8.0,5.0
+aciphex sprinkle,gerd (heartburn),-1.0,0.0
+alamag,gerd (heartburn),-1.0,0.0
+alka-seltzer heartburn + gas,gerd (heartburn),10.0,1.0
+almacone,gerd (heartburn),-1.0,0.0
+aluminum hydroxide / magnesium carbonate,gerd (heartburn),-1.0,0.0
+aluminum hydroxide / magnesium hydroxide,gerd (heartburn),8.0,1.0
+aluminum hydroxide,gerd (heartburn),-1.0,0.0
+amphojel,gerd (heartburn),-1.0,0.0
+axid ar,gerd (heartburn),10.0,2.0
+belladonna,gerd (heartburn),-1.0,0.0
+calcium carbonate / famotidine / magnesium hydroxide,gerd (heartburn),5.5,2.0
+calcium carbonate / magnesium hydroxide / simethicone,gerd (heartburn),-1.0,0.0
+calcium carbonate / simethicone,gerd (heartburn),10.0,5.0
+di-gel,gerd (heartburn),-1.0,0.0
+dual action complete,gerd (heartburn),-1.0,0.0
+duo fusion,gerd (heartburn),-1.0,0.0
+gas-x with maalox extra strength,gerd (heartburn),-1.0,0.0
+gelusil,gerd (heartburn),9.0,1.0
+mi-acid,gerd (heartburn),-1.0,0.0
+milantex,gerd (heartburn),-1.0,0.0
+mintox,gerd (heartburn),-1.0,0.0
+mintox plus,gerd (heartburn),-1.0,0.0
+mylanta coat & cool,gerd (heartburn),-1.0,0.0
+mylanta maximum strength,gerd (heartburn),10.0,1.0
+mylanta tonight,gerd (heartburn),-1.0,0.0
+rulox,gerd (heartburn),-1.0,0.0
+sodium citrate,gerd (heartburn),-1.0,0.0
+tricitrasol,gerd (heartburn),-1.0,0.0
+tums chewy bites with gas relief (lemon & strawberry),gerd (heartburn),-1.0,0.0
+zegerid with magnesium hydroxide,gerd (heartburn),-1.0,0.0
+allopurinol,gout,7.4,77.0
+uloric,gout,8.1,46.0
+zyloprim,gout,9.0,1.0
+aloprim,gout,9.5,2.0
+febuxostat,gout,8.1,61.0
+krystexxa,gout,8.4,10.0
+probenecid,gout,9.7,6.0
+pegloticase,gout,8.0,13.0
+rilonacept,gout,-1.0,0.0
+spironolactone,hair loss,6.9,63.0
+minoxidil,hair loss,5.3,140.0
+azulfidine,hair loss,-1.0,0.0
+sulfasalazine,hair loss,-1.0,0.0
+olumiant,hair loss,-1.0,0.0
+aldactone,hair loss,4.0,4.0
+rogaine,hair loss,4.6,40.0
+kenalog-10,hair loss,8.8,13.0
+triamcinolone,hair loss,8.7,15.0
+aristospan,hair loss,-1.0,0.0
+rogaine men's extra strength,hair loss,3.7,4.0
+rogaine women's,hair loss,8.3,6.0
+hair regrowth treatment for women,hair loss,-1.0,0.0
+kenalog-40,hair loss,-1.0,0.0
+hair regrowth treatment for men,hair loss,1.0,1.0
+azulfidine en-tabs,hair loss,-1.0,0.0
+baricitinib,hair loss,-1.0,0.0
+zyrtec,hayfever,5.2,133.0
+cetirizine,hayfever,5.4,196.0
+fluticasone,hayfever,4.5,157.0
+loratadine,hayfever,4.7,88.0
+flonase,hayfever,4.5,100.0
+allegra,hayfever,5.9,61.0
+montelukast,hayfever,5.0,204.0
+claritin,hayfever,3.5,40.0
+singulair,hayfever,6.0,87.0
+fexofenadine,hayfever,5.6,108.0
+astelin,hayfever,8.9,20.0
+azelastine,hayfever,6.8,155.0
+benadryl,hayfever,6.9,12.0
+xyzal,hayfever,6.0,54.0
+prednisone,hayfever,2.0,2.0
+allegra allergy,hayfever,1.8,8.0
+astepro,hayfever,7.7,21.0
+diphenhydramine,hayfever,6.8,20.0
+flonase allergy relief,hayfever,1.0,2.0
+levocetirizine,hayfever,6.1,61.0
+dymista,hayfever,5.7,135.0
+medrol,hayfever,1.0,1.0
+clarinex,hayfever,6.8,4.0
+nasacort allergy 24hr,hayfever,7.5,13.0
+aller-tec,hayfever,10.0,1.0
+chlorpheniramine,hayfever,9.0,21.0
+desloratadine,hayfever,4.9,27.0
+mometasone,hayfever,5.8,64.0
+phenergan,hayfever,5.0,3.0
+triamcinolone,hayfever,5.8,93.0
+alavert,hayfever,9.5,2.0
+allegra-d 12 hour,hayfever,8.6,11.0
+allegra-d 24 hour,hayfever,6.0,31.0
+allergy relief tablets,hayfever,-1.0,0.0
+benadryl allergy,hayfever,6.0,5.0
+budesonide,hayfever,8.3,14.0
+claritin reditabs,hayfever,-1.0,0.0
+dexamethasone,hayfever,4.0,3.0
+flonase sensimist,hayfever,2.5,8.0
+methylprednisolone dose pack,hayfever,8.0,2.0
+methylprednisolone,hayfever,5.1,28.0
+promethazine,hayfever,6.3,4.0
+zyrtec-d,hayfever,9.7,3.0
+all day allergy,hayfever,9.0,1.0
+all day allergy children's,hayfever,-1.0,0.0
+allegra odt,hayfever,10.0,1.0
+aller-tec children's,hayfever,-1.0,0.0
+allergy relief 24 hour,hayfever,-1.0,0.0
+antinaus 50,hayfever,-1.0,0.0
+beclomethasone,hayfever,7.5,30.0
+cetirizine / pseudoephedrine,hayfever,9.4,5.0
+children's claritin allergy,hayfever,8.3,3.0
+claritin-d,hayfever,3.7,21.0
+claritin-d 24 hour,hayfever,4.7,6.0
+clinacort,hayfever,-1.0,0.0
+cyproheptadine,hayfever,10.0,1.0
+de-sone la,hayfever,-1.0,0.0
+depo-medrol,hayfever,-1.0,0.0
+dexamethasone intensol,hayfever,-1.0,0.0
+dxevo,hayfever,-1.0,0.0
+flunisolide,hayfever,8.7,3.0
+hidex,hayfever,-1.0,0.0
+kenalog-40,hayfever,7.3,11.0
+loratadine-d 24 hour,hayfever,-1.0,0.0
+medrol dosepak,hayfever,4.5,4.0
+ohm allergy relief,hayfever,-1.0,0.0
+omnaris,hayfever,6.1,16.0
+patanase,hayfever,8.2,11.0
+phenadoz,hayfever,-1.0,0.0
+promethegan,hayfever,-1.0,0.0
+qnasl,hayfever,7.5,22.0
+solu-medrol,hayfever,1.0,1.0
+tavist nd,hayfever,-1.0,0.0
+ticanase,hayfever,7.0,1.0
+triamcinolone,hayfever,7.3,11.0
+wal-itin,hayfever,6.0,2.0
+zodex,hayfever,-1.0,0.0
+zyrtec-d 12 hour,hayfever,10.0,1.0
+acrivastine / pseudoephedrine,hayfever,10.0,10.0
+aller-chlor,hayfever,-1.0,0.0
+aller-ease,hayfever,-1.0,0.0
+allergy relief,hayfever,-1.0,0.0
+allermax,hayfever,-1.0,0.0
+astepro allergy,hayfever,-1.0,0.0
+azelastine / fluticasone,hayfever,5.7,137.0
+banophen,hayfever,-1.0,0.0
+beconase aq,hayfever,5.0,2.0
+c.p.m.,hayfever,-1.0,0.0
+chlo-amine,hayfever,-1.0,0.0
+chlor-mal,hayfever,-1.0,0.0
+chlor-trimeton,hayfever,9.2,9.0
+chlorpheniramine / phenylephrine,hayfever,10.0,4.0
+chlortan,hayfever,-1.0,0.0
+claritin-d 12 hour,hayfever,1.7,3.0
+complete allergy relief,hayfever,-1.0,0.0
+dexbrompheniramine / pseudoephedrine,hayfever,9.9,19.0
+dicopanol,hayfever,-1.0,0.0
+diphedryl,hayfever,-1.0,0.0
+diphen,hayfever,-1.0,0.0
+dytuss,hayfever,-1.0,0.0
+ed-chlortan,hayfever,-1.0,0.0
+ed chlorped,hayfever,-1.0,0.0
+ed chlor ped jr.,hayfever,-1.0,0.0
+fexofenadine / pseudoephedrine,hayfever,6.6,56.0
+loratadine / pseudoephedrine,hayfever,3.6,35.0
+mucinex allergy,hayfever,-1.0,0.0
+nasalcrom,hayfever,7.5,4.0
+olopatadine,hayfever,8.2,11.0
+promethazine dm,hayfever,1.0,1.0
+rhinocort allergy,hayfever,9.0,1.0
+scot-tussin allergy,hayfever,-1.0,0.0
+siladryl allergy,hayfever,-1.0,0.0
+twilite,hayfever,-1.0,0.0
+valu-dryl,hayfever,-1.0,0.0
+vanamine pd,hayfever,-1.0,0.0
+wal-finate,hayfever,9.0,1.0
+a-phedrin,hayfever,-1.0,0.0
+abatuss dmx,hayfever,-1.0,0.0
+acetaminophen / chlorpheniramine,hayfever,1.0,1.0
+actifed cold and allergy,hayfever,-1.0,0.0
+advil allergy sinus,hayfever,-1.0,0.0
+advil children's allergy sinus,hayfever,-1.0,0.0
+alahist d,hayfever,-1.0,0.0
+alavert d-12 hour allergy and sinus,hayfever,1.0,1.0
+allan tannate pediatric,hayfever,-1.0,0.0
+all day allergy-d,hayfever,-1.0,0.0
+allerest maximum strength,hayfever,-1.0,0.0
+allerest pe,hayfever,-1.0,0.0
+allerfrim,hayfever,-1.0,0.0
+allergy & congestion relief,hayfever,-1.0,0.0
+allergy relief d,hayfever,-1.0,0.0
+aphedrid,hayfever,-1.0,0.0
+aprodine,hayfever,10.0,1.0
+arbinoxa,hayfever,-1.0,0.0
+benadryl allergy plus congestion,hayfever,-1.0,0.0
+bp allergy jr,hayfever,-1.0,0.0
+brohist d,hayfever,-1.0,0.0
+bromaline,hayfever,-1.0,0.0
+bromatan plus,hayfever,-1.0,0.0
+bromax,hayfever,-1.0,0.0
+brompheniramine / phenylephrine,hayfever,-1.0,0.0
+brompheniramine / pseudoephedrine,hayfever,10.0,3.0
+brompheniramine,hayfever,9.5,4.0
+brotapp,hayfever,-1.0,0.0
+capron dm,hayfever,-1.0,0.0
+capron dmt,hayfever,-1.0,0.0
+carbinoxamine,hayfever,9.3,3.0
+carboxine,hayfever,-1.0,0.0
+children's triacting night time,hayfever,-1.0,0.0
+chlorex-a 12,hayfever,-1.0,0.0
+chlorpheniramine / codeine,hayfever,-1.0,0.0
+chlorpheniramine / ibuprofen / pseudoephedrine,hayfever,-1.0,0.0
+chlorpheniramine / phenylephrine / pyrilamine,hayfever,-1.0,0.0
+chlorpheniramine / pseudoephedrine,hayfever,8.9,9.0
+chlortan d,hayfever,-1.0,0.0
+ciclesonide,hayfever,6.4,17.0
+clarinex-d 12 hour,hayfever,9.0,1.0
+clarinex-d 24 hour,hayfever,-1.0,0.0
+clarinex reditabs,hayfever,-1.0,0.0
+clear-atadine-d,hayfever,-1.0,0.0
+clemastine,hayfever,10.0,1.0
+codar ar,hayfever,-1.0,0.0
+codimal dm,hayfever,-1.0,0.0
+conal,hayfever,-1.0,0.0
+conex,hayfever,-1.0,0.0
+coricidin hbp cold & flu,hayfever,1.0,1.0
+cromolyn,hayfever,7.5,5.0
+dallergy drops,hayfever,-1.0,0.0
+decon-a,hayfever,-1.0,0.0
+deconamine,hayfever,10.0,3.0
+deltuss dmx,hayfever,-1.0,0.0
+desloratadine / pseudoephedrine,hayfever,9.0,1.0
+dexchlorpheniramine / dextromethorphan / pseudoephedrine,hayfever,-1.0,0.0
+dexchlorpheniramine / phenylephrine,hayfever,-1.0,0.0
+dexchlorpheniramine,hayfever,6.8,4.0
+dextromethorphan / diphenhydramine / phenylephrine,hayfever,-1.0,0.0
+dextromethorphan / phenylephrine / pyrilamine,hayfever,-1.0,0.0
+dextromethorphan / promethazine,hayfever,1.0,1.0
+dextromethorphan / pyrilamine,hayfever,-1.0,0.0
+dicel,hayfever,-1.0,0.0
+dimetane decongestant,hayfever,-1.0,0.0
+dimetapp children's cold & allergy,hayfever,-1.0,0.0
+diphenhydramine / phenylephrine,hayfever,10.0,1.0
+dixaphedrine,hayfever,-1.0,0.0
+doxylamine,hayfever,9.0,1.0
+drixoral cold and allergy,hayfever,9.9,17.0
+dytan-d,hayfever,-1.0,0.0
+dytan-dm,hayfever,-1.0,0.0
+ed a-hist,hayfever,-1.0,0.0
+ed chlorped d,hayfever,-1.0,0.0
+equaline sleep aid,hayfever,-1.0,0.0
+equate sleep aid,hayfever,-1.0,0.0
+grastek,hayfever,-1.0,0.0
+histafed,hayfever,-1.0,0.0
+histex ct,hayfever,-1.0,0.0
+histex ie,hayfever,-1.0,0.0
+histex pd,hayfever,-1.0,0.0
+house dust mite allergen extract,hayfever,-1.0,0.0
+karbinal er,hayfever,-1.0,0.0
+leader allergy relief d-24,hayfever,-1.0,0.0
+lodrane d,hayfever,-1.0,0.0
+lohist-d,hayfever,-1.0,0.0
+loratadine-d 12 hour,hayfever,-1.0,0.0
+mixed grass pollens allergen extract,hayfever,-1.0,0.0
+mometasone / olopatadine,hayfever,-1.0,0.0
+nalex a 12,hayfever,-1.0,0.0
+nasonex 24hr allergy,hayfever,-1.0,0.0
+nohist lq,hayfever,-1.0,0.0
+novahistine,hayfever,-1.0,0.0
+odactra,hayfever,-1.0,0.0
+oralair,hayfever,-1.0,0.0
+phena-plus,hayfever,-1.0,0.0
+phenagil,hayfever,-1.0,0.0
+pheniramine / phenylephrine,hayfever,-1.0,0.0
+phenylephrine / promethazine,hayfever,-1.0,0.0
+polmon,hayfever,-1.0,0.0
+pseudoephedrine / triprolidine,hayfever,8.7,7.0
+ragweed pollen allergen extract,hayfever,-1.0,0.0
+ragwitek,hayfever,-1.0,0.0
+ru-hist d,hayfever,-1.0,0.0
+ru-hist forte,hayfever,-1.0,0.0
+ryaltris,hayfever,-1.0,0.0
+ryclora,hayfever,-1.0,0.0
+rymed,hayfever,-1.0,0.0
+rynex pe,hayfever,-1.0,0.0
+ryvent,hayfever,-1.0,0.0
+semprex-d,hayfever,10.0,10.0
+sinus & allergy pe,hayfever,-1.0,0.0
+sudafed pe sinus & allergy,hayfever,-1.0,0.0
+sudogest sinus & allergy,hayfever,-1.0,0.0
+sutan-dm,hayfever,-1.0,0.0
+timothy grass pollen allergen extract,hayfever,-1.0,0.0
+tuzistra xr,hayfever,-1.0,0.0
+vi-sudo,hayfever,-1.0,0.0
+zetonna,hayfever,-1.0,0.0
+acyclovir,herpes,8.0,94.0
+valacyclovir,herpes,5.8,9.0
+zovirax cream,herpes,9.3,4.0
+abreva,herpes,4.5,422.0
+acyclovir,herpes,8.6,14.0
+zovirax ointment,herpes,8.7,3.0
+zovirax,herpes,7.4,7.0
+docosanol,herpes,4.6,433.0
+blistex ointment,herpes,10.0,1.0
+allantoin / camphor / phenol,herpes,10.0,1.0
+lisinopril,hypertension,4.9,540.0
+amlodipine,hypertension,3.7,658.0
+losartan,hypertension,4.5,527.0
+hydrochlorothiazide,hypertension,5.0,151.0
+metoprolol,hypertension,5.1,271.0
+atenolol,hypertension,6.6,126.0
+norvasc,hypertension,4.0,92.0
+carvedilol,hypertension,4.1,99.0
+benicar,hypertension,7.2,109.0
+furosemide,hypertension,4.4,15.0
+clonidine,hypertension,5.8,109.0
+cozaar,hypertension,6.1,56.0
+hydrochlorothiazide / lisinopril,hypertension,5.6,75.0
+bystolic,hypertension,6.2,212.0
+diovan,hypertension,6.6,62.0
+lopressor,hypertension,6.2,10.0
+toprol-xl,hypertension,6.3,37.0
+spironolactone,hypertension,4.9,47.0
+valsartan,hypertension,5.5,132.0
+avapro,hypertension,5.2,38.0
+enalapril,hypertension,4.8,20.0
+hydralazine,hypertension,2.7,77.0
+lasix,hypertension,4.2,10.0
+nifedipine,hypertension,3.9,96.0
+prinivil,hypertension,5.5,10.0
+propranolol,hypertension,5.5,50.0
+ramipril,hypertension,5.8,97.0
+zestril,hypertension,6.7,12.0
+diltiazem,hypertension,5.1,69.0
+hydrochlorothiazide / losartan,hypertension,6.3,57.0
+irbesartan,hypertension,4.4,93.0
+olmesartan,hypertension,6.4,177.0
+vasotec,hypertension,2.0,1.0
+chlorthalidone,hypertension,3.8,33.0
+coreg,hypertension,5.5,15.0
+hydrochlorothiazide / triamterene,hypertension,5.6,45.0
+katerzia,hypertension,-1.0,0.0
+norliqva,hypertension,-1.0,0.0
+verapamil,hypertension,5.0,22.0
+amlodipine / benazepril,hypertension,5.8,50.0
+benazepril,hypertension,5.4,20.0
+bisoprolol,hypertension,6.8,48.0
+diovan hct,hypertension,6.7,20.0
+doxazosin,hypertension,4.5,31.0
+maxzide,hypertension,9.3,5.0
+tenormin,hypertension,7.1,9.0
+benicar hct,hypertension,6.5,28.0
+candesartan,hypertension,4.4,81.0
+cartia xt,hypertension,5.5,14.0
+coreg cr,hypertension,6.7,3.0
+exforge,hypertension,5.8,56.0
+kapspargo sprinkle,hypertension,-1.0,0.0
+labetalol,hypertension,5.9,20.0
+perindopril,hypertension,4.8,40.0
+qbrelis,hypertension,-1.0,0.0
+telmisartan,hypertension,5.3,79.0
+aldactone,hypertension,5.0,5.0
+altace,hypertension,6.8,8.0
+amlodipine / valsartan,hypertension,5.8,59.0
+aquazide h,hypertension,-1.0,0.0
+atenolol / chlorthalidone,hypertension,8.6,6.0
+azor,hypertension,8.5,59.0
+captopril,hypertension,7.4,7.0
+cardizem cd,hypertension,1.5,2.0
+carospir,hypertension,-1.0,0.0
+catapres,hypertension,-1.0,0.0
+catapres-tts,hypertension,8.0,8.0
+dyazide,hypertension,4.7,7.0
+esidrix,hypertension,-1.0,0.0
+felodipine,hypertension,4.5,15.0
+hydrochlorothiazide / valsartan,hypertension,6.8,24.0
+hyzaar,hypertension,6.6,21.0
+indapamide,hypertension,4.2,18.0
+inderal la,hypertension,9.0,3.0
+innopran xl,hypertension,-1.0,0.0
+lotrel,hypertension,5.9,29.0
+micardis,hypertension,5.6,38.0
+microzide,hypertension,8.0,2.0
+nebivolol,hypertension,6.0,243.0
+nitroglycerin,hypertension,1.0,2.0
+prazosin,hypertension,4.0,11.0
+procardia xl,hypertension,5.7,3.0
+quinapril,hypertension,5.6,10.0
+terazosin,hypertension,5.1,13.0
+accupril,hypertension,0.0,2.0
+adalat cc,hypertension,7.5,2.0
+afeditab cr,hypertension,8.0,1.0
+amlodipine / atorvastatin,hypertension,6.0,5.0
+amlodipine / hydrochlorothiazide / valsartan,hypertension,9.7,7.0
+amlodipine / olmesartan,hypertension,8.4,60.0
+apresoline,hypertension,5.0,3.0
+atacand,hypertension,5.6,7.0
+avalide,hypertension,9.6,5.0
+benazepril / hydrochlorothiazide,hypertension,5.5,4.0
+bendroflumethiazide / nadolol,hypertension,10.0,1.0
+bendroflumethiazide,hypertension,4.0,2.0
+bisoprolol / hydrochlorothiazide,hypertension,5.9,34.0
+caduet,hypertension,9.5,3.0
+calan sr,hypertension,4.0,1.0
+cardizem la,hypertension,2.0,1.0
+cardura,hypertension,5.0,1.0
+dilacor xr,hypertension,8.0,1.0
+dilt-xr,hypertension,9.0,1.0
+diltia xt,hypertension,-1.0,0.0
+diltzac,hypertension,-1.0,0.0
+epaned,hypertension,-1.0,0.0
+eplerenone,hypertension,5.9,8.0
+exforge hct,hypertension,9.6,5.0
+fosinopril,hypertension,8.3,3.0
+guanfacine,hypertension,6.5,12.0
+hydrochlorothiazide / irbesartan,hypertension,9.3,6.0
+hydrochlorothiazide / olmesartan,hypertension,6.1,30.0
+hydrochlorothiazide / telmisartan,hypertension,6.7,17.0
+lotensin,hypertension,5.5,4.0
+matzim la,hypertension,-1.0,0.0
+methyldopa,hypertension,6.9,11.0
+metolazone,hypertension,-1.0,0.0
+micardis hct,hypertension,6.9,15.0
+minitran,hypertension,-1.0,0.0
+minoxidil,hypertension,6.8,5.0
+nadolol,hypertension,7.0,3.0
+nexiclon xr,hypertension,-1.0,0.0
+nitro-bid,hypertension,-1.0,0.0
+nitro-dur,hypertension,1.0,1.0
+nitro-time,hypertension,-1.0,0.0
+nitrolingual pumpspray,hypertension,-1.0,0.0
+nitromist,hypertension,-1.0,0.0
+nitrostat,hypertension,-1.0,0.0
+nitro td patch-a,hypertension,-1.0,0.0
+taztia xt,hypertension,-1.0,0.0
+tekturna,hypertension,7.2,27.0
+tiadylt er,hypertension,-1.0,0.0
+tiazac,hypertension,0.0,2.0
+torsemide,hypertension,2.5,2.0
+verelan,hypertension,-1.0,0.0
+verelan pm,hypertension,5.5,2.0
+zestoretic,hypertension,8.3,5.0
+ziac,hypertension,5.6,19.0
+accuretic,hypertension,4.0,1.0
+acebutolol,hypertension,9.7,3.0
+aldactazide,hypertension,10.0,1.0
+aldoril,hypertension,-1.0,0.0
+aliskiren / hydrochlorothiazide,hypertension,8.5,4.0
+aliskiren,hypertension,6.9,29.0
+amiloride / hydrochlorothiazide,hypertension,-1.0,0.0
+amiloride,hypertension,5.5,2.0
+amlodipine / celecoxib,hypertension,-1.0,0.0
+amlodipine / hydrochlorothiazide / olmesartan,hypertension,7.5,20.0
+amlodipine / perindopril,hypertension,2.0,2.0
+amlodipine / telmisartan,hypertension,8.5,13.0
+atacand hct,hypertension,-1.0,0.0
+azilsartan medoxomil / chlorthalidone,hypertension,7.4,25.0
+azilsartan medoxomil,hypertension,5.0,44.0
+betaxolol,hypertension,10.0,1.0
+brevibloc,hypertension,-1.0,0.0
+candesartan / hydrochlorothiazide,hypertension,5.5,2.0
+captopril / hydrochlorothiazide,hypertension,0.0,1.0
+cardene iv,hypertension,-1.0,0.0
+chlorothiazide,hypertension,-1.0,0.0
+clevidipine,hypertension,-1.0,0.0
+cleviprex,hypertension,-1.0,0.0
+conjupri,hypertension,-1.0,0.0
+consensi,hypertension,-1.0,0.0
+corgard,hypertension,10.0,1.0
+corzide,hypertension,-1.0,0.0
+corzide 40/5,hypertension,-1.0,0.0
+corzide 80/5,hypertension,10.0,1.0
+demadex,hypertension,-1.0,0.0
+diuril,hypertension,-1.0,0.0
+diuril sodium,hypertension,-1.0,0.0
+dutoprol,hypertension,-1.0,0.0
+edarbi,hypertension,4.9,41.0
+edarbyclor,hypertension,7.4,25.0
+enalapril / hydrochlorothiazide,hypertension,-1.0,0.0
+eprosartan,hypertension,-1.0,0.0
+esmolol,hypertension,-1.0,0.0
+fosinopril / hydrochlorothiazide,hypertension,-1.0,0.0
+guanabenz,hypertension,0.0,1.0
+hydrochlorothiazide / methyldopa,hypertension,-1.0,0.0
+hydrochlorothiazide / metoprolol,hypertension,0.0,1.0
+hydrochlorothiazide / moexipril,hypertension,8.0,1.0
+hydrochlorothiazide / quinapril,hypertension,4.0,1.0
+hydrochlorothiazide / spironolactone,hypertension,10.0,1.0
+hytrin,hypertension,8.0,3.0
+inspra,hypertension,10.0,1.0
+isradipine,hypertension,-1.0,0.0
+levamlodipine,hypertension,-1.0,0.0
+lopressor hct,hypertension,-1.0,0.0
+lotensin hct,hypertension,-1.0,0.0
+maxzide-25,hypertension,-1.0,0.0
+mecamylamine,hypertension,-1.0,0.0
+midamor,hypertension,1.0,1.0
+minipress,hypertension,7.5,3.0
+moexipril,hypertension,8.0,2.0
+nebivolol / valsartan,hypertension,-1.0,0.0
+nicardipine,hypertension,-1.0,0.0
+nisoldipine,hypertension,0.0,1.0
+pindolol,hypertension,6.0,3.0
+prestalia,hypertension,-1.0,0.0
+sular,hypertension,0.0,1.0
+tarka,hypertension,9.0,4.0
+tekturna hct,hypertension,8.5,4.0
+tenoretic,hypertension,-1.0,0.0
+tenoretic 50,hypertension,9.0,1.0
+tenoretic 100,hypertension,-1.0,0.0
+timolol,hypertension,-1.0,0.0
+trandate,hypertension,4.0,1.0
+trandolapril / verapamil,hypertension,9.0,4.0
+trandolapril,hypertension,-1.0,0.0
+tribenzor,hypertension,7.5,20.0
+twynsta,hypertension,8.4,11.0
+vaseretic,hypertension,-1.0,0.0
+vecamyl,hypertension,-1.0,0.0
+zaroxolyn,hypertension,-1.0,0.0
+levothyroxine,hypothyroidism,5.1,468.0
+synthroid,hypothyroidism,6.3,89.0
+armour thyroid,hypothyroidism,6.6,124.0
+levoxyl,hypothyroidism,6.6,17.0
+cytomel,hypothyroidism,6.9,39.0
+tirosint,hypothyroidism,6.7,50.0
+euthyrox,hypothyroidism,1.1,92.0
+liothyronine,hypothyroidism,6.3,69.0
+nature-throid,hypothyroidism,6.3,28.0
+unithroid,hypothyroidism,7.3,3.0
+westhroid,hypothyroidism,10.0,2.0
+levo-t,hypothyroidism,0.0,1.0
+thyquidity,hypothyroidism,10.0,1.0
+thyroid desiccated,hypothyroidism,5.0,317.0
+tirosint-sol,hypothyroidism,1.0,3.0
+np thyroid,hypothyroidism,3.0,129.0
+triostat,hypothyroidism,-1.0,0.0
+wp thyroid,hypothyroidism,5.2,15.0
+budesonide,ibd (bowel),7.6,31.0
+prednisone,ibd (bowel),6.0,4.0
+mesalamine,ibd (bowel),7.3,14.0
+sulfasalazine,ibd (bowel),7.0,3.0
+lialda,ibd (bowel),5.5,2.0
+asacol,ibd (bowel),9.0,1.0
+pentasa,ibd (bowel),8.5,4.0
+apriso,ibd (bowel),9.5,2.0
+remicade,ibd (bowel),-1.0,0.0
+infliximab,ibd (bowel),-1.0,0.0
+asacol hd,ibd (bowel),-1.0,0.0
+azulfidine,ibd (bowel),-1.0,0.0
+delzicol,ibd (bowel),10.0,1.0
+rowasa,ibd (bowel),-1.0,0.0
+entocort ec,ibd (bowel),7.9,12.0
+hydrocortisone,ibd (bowel),-1.0,0.0
+azathioprine,ibd (bowel),5.0,2.0
+dexamethasone,ibd (bowel),-1.0,0.0
+mercaptopurine,ibd (bowel),-1.0,0.0
+imuran,ibd (bowel),1.0,1.0
+cromolyn,ibd (bowel),7.0,3.0
+cyclosporine,ibd (bowel),-1.0,0.0
+dexamethasone intensol,ibd (bowel),-1.0,0.0
+gastrocrom,ibd (bowel),-1.0,0.0
+acthar,ibd (bowel),-1.0,0.0
+cortef,ibd (bowel),-1.0,0.0
+corticotropin,ibd (bowel),-1.0,0.0
+cortifoam,ibd (bowel),-1.0,0.0
+mycophenolate mofetil,ibd (bowel),-1.0,0.0
+cortenema,ibd (bowel),-1.0,0.0
+de-sone la,ibd (bowel),-1.0,0.0
+dxevo,ibd (bowel),-1.0,0.0
+solu-cortef,ibd (bowel),-1.0,0.0
+zodex,ibd (bowel),-1.0,0.0
+azasan,ibd (bowel),-1.0,0.0
+azulfidine en-tabs,ibd (bowel),-1.0,0.0
+h.p. acthar gel,ibd (bowel),-1.0,0.0
+oxybutynin,incontinence,5.7,74.0
+myrbetriq,incontinence,4.3,80.0
+vesicare,incontinence,6.6,41.0
+detrol la,incontinence,6.1,7.0
+tolterodine,incontinence,5.8,18.0
+toviaz,incontinence,6.5,15.0
+amitriptyline,incontinence,7.0,3.0
+solifenacin,incontinence,6.5,49.0
+oxytrol,incontinence,8.4,18.0
+detrol,incontinence,5.5,2.0
+ditropan xl,incontinence,-1.0,0.0
+hyoscyamine,incontinence,8.0,5.0
+mirabegron,incontinence,4.4,93.0
+duloxetine,incontinence,6.2,5.0
+trospium,incontinence,6.7,21.0
+gelnique,incontinence,2.0,1.0
+botox,incontinence,4.4,22.0
+fesoterodine,incontinence,6.6,16.0
+darifenacin,incontinence,5.0,8.0
+flavoxate,incontinence,-1.0,0.0
+onabotulinumtoxina,incontinence,4.4,22.0
+trazodone,insomnia,6.2,867.0
+ambien,insomnia,7.0,543.0
+zolpidem,insomnia,6.9,1008.0
+belsomra,insomnia,3.6,505.0
+suvorexant,insomnia,3.7,530.0
+dayvigo,insomnia,4.2,170.0
+temazepam,insomnia,6.4,423.0
+daridorexant,insomnia,3.0,29.0
+lemborexant,insomnia,4.2,180.0
+quviviq,insomnia,3.0,29.0
+amitriptyline,insomnia,7.1,267.0
+lunesta,insomnia,5.8,313.0
+quetiapine,insomnia,7.6,507.0
+restoril,insomnia,6.8,104.0
+ativan,insomnia,7.4,36.0
+mirtazapine,insomnia,7.0,453.0
+lorazepam,insomnia,7.2,123.0
+clonazepam,insomnia,7.2,187.0
+gabapentin,insomnia,7.5,130.0
+doxepin,insomnia,5.7,303.0
+estazolam,insomnia,8.6,24.0
+flurazepam,insomnia,8.1,97.0
+halcion,insomnia,7.9,30.0
+ambien cr,insomnia,6.5,98.0
+diphenhydramine,insomnia,4.9,362.0
+eszopiclone,insomnia,5.6,407.0
+rozerem,insomnia,4.3,102.0
+silenor,insomnia,6.2,122.0
+sonata,insomnia,5.7,71.0
+advil pm,insomnia,6.9,12.0
+doxylamine,insomnia,6.5,210.0
+triazolam,insomnia,8.2,60.0
+quazepam,insomnia,9.8,12.0
+edluar,insomnia,9.2,12.0
+olanzapine,insomnia,5.8,96.0
+tylenol pm,insomnia,5.9,26.0
+unisom sleeptabs,insomnia,5.6,75.0
+zaleplon,insomnia,5.2,132.0
+compoz nighttime sleep aid,insomnia,9.0,2.0
+doral,insomnia,9.7,6.0
+ramelteon,insomnia,4.0,144.0
+chloral hydrate,insomnia,8.1,18.0
+dimenhydrinate,insomnia,8.4,9.0
+diphenhydramine / ibuprofen,insomnia,7.1,14.0
+nytol,insomnia,4.0,126.0
+oxazepam,insomnia,6.6,13.0
+pentobarbital,insomnia,10.0,1.0
+simply sleep,insomnia,5.2,20.0
+sominex,insomnia,6.4,61.0
+unisom sleepgels,insomnia,5.1,20.0
+unisom sleepmelts,insomnia,9.0,1.0
+zolpimist,insomnia,7.4,8.0
+zzzquil,insomnia,3.1,57.0
+acetaminophen / diphenhydramine,insomnia,6.3,31.0
+amobarbital,insomnia,10.0,1.0
+ibuprofen pm,insomnia,8.5,2.0
+nighttime sleepaid,insomnia,10.0,1.0
+nytol quickcaps,insomnia,-1.0,0.0
+phenobarbital,insomnia,9.0,3.0
+sleep aid,insomnia,8.4,7.0
+sleepinal,insomnia,-1.0,0.0
+twilite,insomnia,-1.0,0.0
+z-sleep,insomnia,7.0,1.0
+aleve pm,insomnia,6.9,23.0
+diphenhydramine / magnesium salicylate,insomnia,-1.0,0.0
+diphenhydramine / naproxen,insomnia,6.9,23.0
+doans pm,insomnia,-1.0,0.0
+equaline sleep aid,insomnia,-1.0,0.0
+equate sleep aid,insomnia,5.0,9.0
+headache relief pm,insomnia,6.0,1.0
+legatrin pm,insomnia,-1.0,0.0
+midol pm,insomnia,-1.0,0.0
+motrin pm,insomnia,-1.0,0.0
+percogesic extra strength,insomnia,-1.0,0.0
+percogesic original strength,insomnia,-1.0,0.0
+zopiclone,insomnia,9.5,2.0
+esterified estrogens / methyltestosterone,menopause,9.2,13.0
+eemt hs,menopause,-1.0,0.0
+covaryx,menopause,-1.0,0.0
+eemt,menopause,-1.0,0.0
+bijuva,menopause,5.6,10.0
+estradiol / progesterone,menopause,5.6,10.0
+covaryx hs,menopause,-1.0,0.0
+sumatriptan,migraine,7.6,434.0
+imitrex,migraine,7.7,170.0
+zomig,migraine,7.0,95.0
+cambia,migraine,7.0,52.0
+nurtec odt,migraine,5.2,171.0
+zolmitriptan,migraine,7.4,153.0
+rizatriptan,migraine,8.3,314.0
+maxalt,migraine,8.7,120.0
+reyvow,migraine,4.5,17.0
+elyxyb,migraine,-1.0,0.0
+lasmiditan,migraine,4.5,19.0
+rimegepant,migraine,5.3,174.0
+tosymra,migraine,-1.0,0.0
+gabapentin,migraine,7.9,118.0
+relpax,migraine,8.6,148.0
+excedrin migraine,migraine,7.6,110.0
+amerge,migraine,8.4,29.0
+cyclobenzaprine,migraine,7.7,42.0
+fiorinal,migraine,8.5,48.0
+treximet,migraine,9.1,89.0
+maxalt-mlt,migraine,8.7,71.0
+diclofenac,migraine,7.3,62.0
+ubrelvy,migraine,5.4,176.0
+naratriptan,migraine,8.4,49.0
+aspirin / butalbital / caffeine,migraine,8.8,82.0
+frova,migraine,9.0,41.0
+botox,migraine,6.1,23.0
+eletriptan,migraine,8.3,176.0
+excedrin,migraine,6.6,28.0
+reglan,migraine,3.0,131.0
+metoclopramide,migraine,3.4,188.0
+almotriptan,migraine,9.0,33.0
+naproxen / sumatriptan,migraine,9.0,96.0
+venlafaxine,migraine,4.9,19.0
+acetaminophen / aspirin / caffeine,migraine,7.0,220.0
+cyproheptadine,migraine,6.8,35.0
+imitrex statdose,migraine,8.4,18.0
+methergine,migraine,9.7,8.0
+migranal,migraine,7.4,20.0
+acetaminophen / aspirin / caffeine / salicylamide,migraine,9.9,9.0
+cafergot,migraine,8.5,13.0
+dihydroergotamine,migraine,6.8,33.0
+frovatriptan,migraine,9.1,51.0
+memantine,migraine,6.7,7.0
+migergot,migraine,10.0,6.0
+orphenadrine,migraine,6.4,11.0
+zembrace symtouch,migraine,-1.0,0.0
+zomig-zmt,migraine,8.4,16.0
+caffeine / ergotamine,migraine,9.1,23.0
+celecoxib,migraine,-1.0,0.0
+d.h.e. 45,migraine,6.9,7.0
+ergomar,migraine,9.0,1.0
+ergotamine,migraine,5.0,4.0
+methylergonovine,migraine,9.8,10.0
+onabotulinumtoxina,migraine,6.1,23.0
+onzetra xsail,migraine,6.2,5.0
+painaid,migraine,9.5,2.0
+prochlorperazine,migraine,1.0,1.0
+vanquish,migraine,9.0,3.0
+zomig nasal spray,migraine,6.0,2.0
+anacin advanced headache formula,migraine,-1.0,0.0
+backaid inflammatory pain formula,migraine,-1.0,0.0
+fortabs,migraine,-1.0,0.0
+genace,migraine,-1.0,0.0
+goody's extra-strength headache powders,migraine,5.3,54.0
+goody's extra strength,migraine,10.0,2.0
+goody's headache powders,migraine,6.0,8.0
+migraine relief,migraine,-1.0,0.0
+trudhesa,migraine,-1.0,0.0
+ubrogepant,migraine,5.4,176.0
+meloxicam,osteoarthritis,6.8,198.0
+celebrex,osteoarthritis,7.1,79.0
+diclofenac,osteoarthritis,7.6,113.0
+mobic,osteoarthritis,8.1,57.0
+naproxen,osteoarthritis,6.7,51.0
+celecoxib,osteoarthritis,7.1,91.0
+ibuprofen,osteoarthritis,7.5,5.0
+voltaren,osteoarthritis,7.4,41.0
+chondroitin / glucosamine,osteoarthritis,5.9,32.0
+voltaren arthritis pain gel,osteoarthritis,7.0,101.0
+cymbalta,osteoarthritis,6.3,34.0
+diclofenac,osteoarthritis,7.1,174.0
+prednisone,osteoarthritis,8.3,16.0
+aleve,osteoarthritis,5.9,8.0
+arthrotec,osteoarthritis,8.3,24.0
+cataflam,osteoarthritis,9.5,2.0
+aspirin,osteoarthritis,8.3,4.0
+medrol dosepak,osteoarthritis,10.0,2.0
+nabumetone,osteoarthritis,6.2,18.0
+duloxetine,osteoarthritis,5.9,40.0
+etodolac,osteoarthritis,6.8,24.0
+advil,osteoarthritis,1.0,1.0
+motrin,osteoarthritis,10.0,1.0
+vimovo,osteoarthritis,5.2,27.0
+naprosyn,osteoarthritis,6.0,5.0
+pennsaid,osteoarthritis,7.7,47.0
+arthritis pain,osteoarthritis,-1.0,0.0
+ecotrin,osteoarthritis,-1.0,0.0
+zorvolex,osteoarthritis,9.4,7.0
+aspergum,osteoarthritis,-1.0,0.0
+aspiritab,osteoarthritis,-1.0,0.0
+aspirtab,osteoarthritis,-1.0,0.0
+bayer aspirin,osteoarthritis,-1.0,0.0
+bayer aspirin extra strength plus,osteoarthritis,-1.0,0.0
+easprin,osteoarthritis,-1.0,0.0
+ecpirin,osteoarthritis,-1.0,0.0
+entercote,osteoarthritis,-1.0,0.0
+genacote,osteoarthritis,-1.0,0.0
+halfprin,osteoarthritis,-1.0,0.0
+methylprednisolone,osteoarthritis,7.8,15.0
+norwich aspirin,osteoarthritis,-1.0,0.0
+vazalore,osteoarthritis,-1.0,0.0
+depo-medrol,osteoarthritis,10.0,4.0
+indocin,osteoarthritis,9.5,2.0
+indomethacin,osteoarthritis,7.8,5.0
+proprinal,osteoarthritis,-1.0,0.0
+a-g profen,osteoarthritis,-1.0,0.0
+acetaminophen / codeine,osteoarthritis,7.0,10.0
+actiprofen,osteoarthritis,-1.0,0.0
+addaprin,osteoarthritis,-1.0,0.0
+advil liqui-gels,osteoarthritis,-1.0,0.0
+chondroitin / glucosamine / methylsulfonylmethane,osteoarthritis,7.9,13.0
+diclofenac / misoprostol,osteoarthritis,8.0,32.0
+duexis,osteoarthritis,6.8,25.0
+genpril,osteoarthritis,-1.0,0.0
+ibu-200,osteoarthritis,-1.0,0.0
+medrol,osteoarthritis,-1.0,0.0
+midol ib,osteoarthritis,-1.0,0.0
+motrin ib,osteoarthritis,-1.0,0.0
+naprelan,osteoarthritis,9.4,5.0
+nuprin,osteoarthritis,-1.0,0.0
+osteo bi-flex,osteoarthritis,7.0,9.0
+piroxicam,osteoarthritis,8.0,8.0
+aflaxen,osteoarthritis,-1.0,0.0
+all day pain relief,osteoarthritis,-1.0,0.0
+all day relief,osteoarthritis,-1.0,0.0
+anaprox,osteoarthritis,2.0,1.0
+anaprox-ds,osteoarthritis,-1.0,0.0
+cosamin ds,osteoarthritis,5.0,2.0
+diclozor,osteoarthritis,-1.0,0.0
+diflunisal,osteoarthritis,9.7,3.0
+dolobid,osteoarthritis,10.0,1.0
+ec-naprosyn,osteoarthritis,-1.0,0.0
+feldene,osteoarthritis,9.0,4.0
+flanax pain reliever,osteoarthritis,-1.0,0.0
+kenalog-40,osteoarthritis,4.8,17.0
+ketoprofen,osteoarthritis,8.2,5.0
+lofena,osteoarthritis,-1.0,0.0
+methylprednisolone dose pack,osteoarthritis,4.5,2.0
+oxaprozin,osteoarthritis,7.3,4.0
+profinac,osteoarthritis,-1.0,0.0
+salsalate,osteoarthritis,5.5,2.0
+schiff move free,osteoarthritis,5.6,9.0
+solu-medrol,osteoarthritis,-1.0,0.0
+sulindac,osteoarthritis,5.8,4.0
+triamcinolone,osteoarthritis,5.5,72.0
+xrylix,osteoarthritis,-1.0,0.0
+amlodipine / celecoxib,osteoarthritis,9.7,3.0
+aristospan,osteoarthritis,-1.0,0.0
+betamethasone,osteoarthritis,-1.0,0.0
+bioflavonoids,osteoarthritis,7.5,10.0
+capsaicin,osteoarthritis,5.1,30.0
+celestone soluspan,osteoarthritis,-1.0,0.0
+clinacort,osteoarthritis,-1.0,0.0
+clinoril,osteoarthritis,-1.0,0.0
+consensi,osteoarthritis,9.7,3.0
+cortisone,osteoarthritis,0.0,1.0
+daypro,osteoarthritis,8.0,1.0
+esomeprazole / naproxen,osteoarthritis,4.8,31.0
+euflexxa,osteoarthritis,6.2,242.0
+excedrin,osteoarthritis,8.7,4.0
+hyaluronan,osteoarthritis,6.0,275.0
+indocin sr,osteoarthritis,-1.0,0.0
+kenalog-10,osteoarthritis,1.0,3.0
+limbrel,osteoarthritis,7.5,9.0
+orthovisc,osteoarthritis,6.3,185.0
+osteo bi-flex advanced,osteoarthritis,-1.0,0.0
+sodium hyaluronate,osteoarthritis,5.3,574.0
+supartz,osteoarthritis,6.2,49.0
+synvisc,osteoarthritis,6.3,60.0
+synvisc-one,osteoarthritis,6.0,163.0
+zilretta,osteoarthritis,5.7,49.0
+zostrix,osteoarthritis,9.0,3.0
+acetaminophen / aspirin / caffeine,osteoarthritis,8.5,7.0
+acetaminophen / aspirin,osteoarthritis,-1.0,0.0
+acetaminophen / caffeine,osteoarthritis,-1.0,0.0
+arthricream,osteoarthritis,-1.0,0.0
+asper-flex,osteoarthritis,-1.0,0.0
+axsain,osteoarthritis,-1.0,0.0
+backaid inflammatory pain formula,osteoarthritis,-1.0,0.0
+boroleum,osteoarthritis,-1.0,0.0
+capsin,osteoarthritis,-1.0,0.0
+capzasin,osteoarthritis,-1.0,0.0
+capzasin-hp,osteoarthritis,5.0,3.0
+capzasin-p,osteoarthritis,1.0,2.0
+castiva cooling,osteoarthritis,-1.0,0.0
+castiva warming,osteoarthritis,-1.0,0.0
+choline magnesium trisalicylate,osteoarthritis,-1.0,0.0
+cidaflex,osteoarthritis,-1.0,0.0
+cosmegen,osteoarthritis,-1.0,0.0
+dactinomycin,osteoarthritis,-1.0,0.0
+diclofenac / menthol,osteoarthritis,-1.0,0.0
+diclopr,osteoarthritis,-1.0,0.0
+diclostream,osteoarthritis,-1.0,0.0
+durolane,osteoarthritis,4.2,217.0
+eucalyptamint,osteoarthritis,-1.0,0.0
+excedrin quick tab,osteoarthritis,-1.0,0.0
+excedrin tension headache,osteoarthritis,-1.0,0.0
+exocaine plus,osteoarthritis,-1.0,0.0
+famotidine / ibuprofen,osteoarthritis,7.0,30.0
+fenoprofen,osteoarthritis,-1.0,0.0
+fenortho,osteoarthritis,-1.0,0.0
+fenovar,osteoarthritis,-1.0,0.0
+flurbiprofen,osteoarthritis,-1.0,0.0
+gelsyn-3,osteoarthritis,4.4,32.0
+genace,osteoarthritis,-1.0,0.0
+glucoten,osteoarthritis,-1.0,0.0
+goody's extra strength,osteoarthritis,6.0,1.0
+gordogesic,osteoarthritis,-1.0,0.0
+heet triple action,osteoarthritis,-1.0,0.0
+hyalgan,osteoarthritis,4.9,10.0
+hylan g-f 20,osteoarthritis,6.2,230.0
+hymovis,osteoarthritis,3.9,13.0
+meclofenamate,osteoarthritis,-1.0,0.0
+menthac arthritis cream with capsaicin,osteoarthritis,-1.0,0.0
+mentholatum deep heating,osteoarthritis,-1.0,0.0
+methyl salicylate,osteoarthritis,6.2,39.0
+monovisc,osteoarthritis,5.8,60.0
+myoflex,osteoarthritis,-1.0,0.0
+nalfon,osteoarthritis,-1.0,0.0
+optiflex complete,osteoarthritis,-1.0,0.0
+pryflex,osteoarthritis,-1.0,0.0
+relafen ds,osteoarthritis,-1.0,0.0
+relamine,osteoarthritis,-1.0,0.0
+salonpas pain patch,osteoarthritis,6.1,38.0
+satogesic,osteoarthritis,-1.0,0.0
+sloan's liniment,osteoarthritis,9.0,1.0
+supartz fx,osteoarthritis,6.1,7.0
+tolmetin,osteoarthritis,10.0,1.0
+trolamine salicylate,osteoarthritis,9.0,7.0
+zostrix diabetic foot pain,osteoarthritis,-1.0,0.0
+zostrix sports,osteoarthritis,-1.0,0.0
+alendronate,osteoporosis,2.5,106.0
+prolia,osteoporosis,2.7,332.0
+fosamax,osteoporosis,2.4,55.0
+calcium / vitamin d,osteoporosis,9.0,5.0
+denosumab,osteoporosis,2.7,337.0
+boniva,osteoporosis,3.3,73.0
+actonel,osteoporosis,3.1,19.0
+calcium carbonate,osteoporosis,8.0,2.0
+evenity,osteoporosis,4.8,5.0
+forteo,osteoporosis,5.2,145.0
+reclast,osteoporosis,5.1,174.0
+evista,osteoporosis,6.3,8.0
+caltrate 600+d,osteoporosis,9.0,2.0
+citracal + d,osteoporosis,-1.0,0.0
+risedronate,osteoporosis,2.9,56.0
+caltrate,osteoporosis,-1.0,0.0
+hydrochlorothiazide,osteoporosis,-1.0,0.0
+calcium citrate,osteoporosis,-1.0,0.0
+ibandronate,osteoporosis,3.3,87.0
+raloxifene,osteoporosis,4.9,12.0
+premarin,osteoporosis,10.0,3.0
+atelvia,osteoporosis,4.7,3.0
+calcitonin,osteoporosis,4.1,9.0
+zometa,osteoporosis,3.3,13.0
+microzide,osteoporosis,-1.0,0.0
+teriparatide,osteoporosis,5.1,149.0
+aquazide h,osteoporosis,-1.0,0.0
+esidrix,osteoporosis,-1.0,0.0
+zoledronic acid,osteoporosis,4.8,244.0
+alendronate / cholecalciferol,osteoporosis,-1.0,0.0
+fosamax plus d,osteoporosis,-1.0,0.0
+binosto,osteoporosis,-1.0,0.0
+miacalcin,osteoporosis,1.0,1.0
+tymlos,osteoporosis,4.2,81.0
+aclasta,osteoporosis,4.3,25.0
+calci-chew,osteoporosis,8.0,1.0
+prempro,osteoporosis,9.0,1.0
+abaloparatide,osteoporosis,4.1,84.0
+calcitrate with d,osteoporosis,-1.0,0.0
+calcium gluconate,osteoporosis,-1.0,0.0
+calcium lactate,osteoporosis,-1.0,0.0
+"calcium phosphate, tribasic",osteoporosis,-1.0,0.0
+conjugated estrogens,osteoporosis,10.0,4.0
+os-cal calcium+d3,osteoporosis,0.0,1.0
+tums smoothies,osteoporosis,-1.0,0.0
+bazedoxifene / conjugated estrogens,osteoporosis,5.5,2.0
+cal-glu,osteoporosis,-1.0,0.0
+cal-lac,osteoporosis,-1.0,0.0
+calcitrate,osteoporosis,-1.0,0.0
+conjugated estrogens / medroxyprogesterone,osteoporosis,9.0,1.0
+duavee,osteoporosis,5.5,2.0
+esterified estrogens,osteoporosis,-1.0,0.0
+estropipate,osteoporosis,-1.0,0.0
+menest,osteoporosis,-1.0,0.0
+ogen,osteoporosis,-1.0,0.0
+os-cal 500 chewable,osteoporosis,-1.0,0.0
+os-cal extra d3,osteoporosis,-1.0,0.0
+oystercal-d,osteoporosis,-1.0,0.0
+posture,osteoporosis,-1.0,0.0
+premarin intravenous,osteoporosis,-1.0,0.0
+premphase,osteoporosis,-1.0,0.0
+romosozumab,osteoporosis,5.8,6.0
+upcal d,osteoporosis,-1.0,0.0
+tramadol,pain,5.9,668.0
+gabapentin,pain,6.0,387.0
+ibuprofen,pain,7.6,51.0
+oxycodone,pain,8.4,456.0
+acetaminophen,pain,6.1,58.0
+hydrocodone,pain,5.5,188.0
+tylenol,pain,6.6,16.0
+methadone,pain,8.7,166.0
+acetaminophen / hydrocodone,pain,6.2,743.0
+dilaudid,pain,8.2,245.0
+buprenorphine,pain,6.3,139.0
+oxycontin,pain,8.8,194.0
+buprenex,pain,10.0,4.0
+percocet,pain,8.7,186.0
+paracetamol,pain,4.6,9.0
+celebrex,pain,6.9,99.0
+naproxen,pain,6.2,103.0
+diclofenac,pain,7.1,190.0
+ketorolac,pain,6.5,389.0
+ultram,pain,6.0,121.0
+amitriptyline,pain,7.7,244.0
+acetaminophen / oxycodone,pain,8.2,438.0
+demerol,pain,9.6,70.0
+nucynta,pain,6.2,270.0
+voltaren arthritis pain gel,pain,7.1,154.0
+aspirin,pain,6.7,12.0
+hydromorphone,pain,8.0,292.0
+roxicodone,pain,9.0,28.0
+aleve,pain,6.3,27.0
+celecoxib,pain,6.7,116.0
+diclofenac,pain,6.9,274.0
+tylenol arthritis pain,pain,5.0,4.0
+acetaminophen / codeine,pain,4.4,193.0
+advil,pain,6.5,6.0
+codeine,pain,7.2,43.0
+meloxicam,pain,4.3,34.0
+morphine,pain,8.0,170.0
+voltaren,pain,7.5,51.0
+motrin,pain,7.5,4.0
+fentanyl transdermal system,pain,8.1,29.0
+hydroxyzine,pain,6.7,27.0
+lidocaine,pain,4.6,139.0
+nortriptyline,pain,6.7,119.0
+pregabalin,pain,6.6,160.0
+acetaminophen / tramadol,pain,6.9,54.0
+etodolac,pain,7.6,49.0
+hydrocodone / ibuprofen,pain,8.6,74.0
+arthritis pain,pain,-1.0,0.0
+bayer aspirin,pain,1.0,1.0
+duloxetine,pain,7.2,84.0
+fentanyl,pain,8.2,179.0
+oxymorphone,pain,7.9,216.0
+tapentadol,pain,6.2,413.0
+tylenol 8 hour,pain,8.0,8.0
+advil liqui-gels,pain,8.0,5.0
+altenol,pain,-1.0,0.0
+arthritis pain relief,pain,-1.0,0.0
+ascriptin,pain,-1.0,0.0
+aspergum,pain,-1.0,0.0
+aspiritab,pain,-1.0,0.0
+aspirtab,pain,-1.0,0.0
+bayer aspirin extra strength plus,pain,3.0,2.0
+easprin,pain,-1.0,0.0
+ecotrin,pain,-1.0,0.0
+ecpirin,pain,-1.0,0.0
+entercote,pain,-1.0,0.0
+feverall,pain,10.0,1.0
+flector patch,pain,7.2,83.0
+genacote,pain,-1.0,0.0
+halfprin,pain,-1.0,0.0
+mapap,pain,-1.0,0.0
+meperidine,pain,9.5,93.0
+motrin ib,pain,10.0,2.0
+ms contin,pain,8.3,43.0
+naprosyn,pain,7.2,7.0
+norwich aspirin,pain,-1.0,0.0
+vazalore,pain,6.0,1.0
+7t gummy es chewable tablets,pain,-1.0,0.0
+a-g profen,pain,-1.0,0.0
+abenol,pain,-1.0,0.0
+acephen,pain,-1.0,0.0
+actamin,pain,-1.0,0.0
+actimol children's,pain,-1.0,0.0
+actimol infant,pain,-1.0,0.0
+actiprofen,pain,-1.0,0.0
+addaprin,pain,-1.0,0.0
+advil children's,pain,-1.0,0.0
+advil infant's concentrated drops,pain,-1.0,0.0
+advil migraine,pain,-1.0,0.0
+aminofen,pain,-1.0,0.0
+anacin aspirin free,pain,-1.0,0.0
+apra,pain,-1.0,0.0
+atasol,pain,-1.0,0.0
+aurophen,pain,-1.0,0.0
+caldolor,pain,-1.0,0.0
+cataflam,pain,8.6,10.0
+cetafen,pain,-1.0,0.0
+children's motrin,pain,6.7,3.0
+children's silapap,pain,-1.0,0.0
+children's tylenol,pain,-1.0,0.0
+clonidine,pain,8.5,2.0
+conzip,pain,9.0,1.0
+dolono,pain,-1.0,0.0
+duragesic,pain,8.3,40.0
+febrol solution,pain,-1.0,0.0
+genapap,pain,-1.0,0.0
+genebs,pain,-1.0,0.0
+genpril,pain,-1.0,0.0
+ibu-200,pain,-1.0,0.0
+indomethacin,pain,7.0,23.0
+infant's tylenol,pain,-1.0,0.0
+jr. tylenol,pain,-1.0,0.0
+kadian,pain,8.0,29.0
+lidocaine viscous,pain,5.6,8.0
+m-pap,pain,-1.0,0.0
+mapap arthritis pain,pain,-1.0,0.0
+midol ib,pain,-1.0,0.0
+motrin childrens,pain,-1.0,0.0
+motrin junior strength,pain,-1.0,0.0
+nortemp children's,pain,-1.0,0.0
+nucynta er,pain,7.1,73.0
+nuprin,pain,-1.0,0.0
+ofirmev,pain,-1.0,0.0
+pharbetol,pain,-1.0,0.0
+proprinal,pain,-1.0,0.0
+qdolo,pain,-1.0,0.0
+silapap childrens,pain,-1.0,0.0
+tactinal,pain,-1.0,0.0
+tempra quicklets,pain,-1.0,0.0
+tycolene,pain,-1.0,0.0
+tylophen,pain,-1.0,0.0
+ultracet,pain,7.5,30.0
+vitapap,pain,10.0,2.0
+actiq,pain,9.6,6.0
+aflaxen,pain,-1.0,0.0
+all day pain relief,pain,-1.0,0.0
+all day relief,pain,-1.0,0.0
+anaprox,pain,-1.0,0.0
+anaprox-ds,pain,10.0,1.0
+anjeso,pain,-1.0,0.0
+dazidox,pain,-1.0,0.0
+ec-naprosyn,pain,-1.0,0.0
+eth-oxydose,pain,-1.0,0.0
+flanax pain reliever,pain,-1.0,0.0
+hysingla er,pain,4.1,95.0
+ketamine,pain,6.0,38.0
+lofena,pain,-1.0,0.0
+naprelan,pain,10.0,2.0
+oxaydo,pain,6.5,2.0
+oxydose,pain,8.0,1.0
+oxyfast,pain,10.0,1.0
+piroxicam,pain,7.4,8.0
+roxybond,pain,-1.0,0.0
+tylenol pm,pain,5.0,4.0
+xrylix,pain,-1.0,0.0
+xtampza er,pain,2.7,19.0
+zipsor,pain,7.5,20.0
+zorvolex,pain,7.9,15.0
+advil pm,pain,-1.0,0.0
+aleve pm,pain,6.3,15.0
+aloe vera burn relief spray with lidocaine,pain,-1.0,0.0
+anecream,pain,10.0,1.0
+anestacon,pain,-1.0,0.0
+astero,pain,-1.0,0.0
+astramorph pf,pain,-1.0,0.0
+bactine,pain,10.0,1.0
+belbuca,pain,4.4,19.0
+biofreeze,pain,9.0,1.0
+butorphanol,pain,8.4,51.0
+butrans,pain,6.7,75.0
+capsaicin,pain,4.8,64.0
+cidaleaze,pain,-1.0,0.0
+dermacinrx lidotral﻿,pain,-1.0,0.0
+dermacinrx lido v pak,pain,-1.0,0.0
+diphenhydramine,pain,-1.0,0.0
+duraclon,pain,-1.0,0.0
+duramorph,pain,1.0,2.0
+duramorph pf,pain,-1.0,0.0
+eha lotion,pain,-1.0,0.0
+fentora,pain,9.0,5.0
+glydo,pain,-1.0,0.0
+ibuprofen pm,pain,-1.0,0.0
+imipramine,pain,8.5,6.0
+infumorph,pain,-1.0,0.0
+itch relief,pain,-1.0,0.0
+ketoprofen,pain,9.9,15.0
+levorphanol,pain,7.5,21.0
+lidamantle,pain,-1.0,0.0
+lidopac,pain,-1.0,0.0
+lidorx,pain,-1.0,0.0
+lidotrans 5 pak,pain,-1.0,0.0
+lidozion,pain,-1.0,0.0
+lmx 4,pain,-1.0,0.0
+lmx 5,pain,-1.0,0.0
+lta ii kit,pain,-1.0,0.0
+lydexa,pain,-1.0,0.0
+medi-quik spray,pain,10.0,1.0
+mefenamic acid,pain,3.3,4.0
+methadone diskets,pain,9.0,4.0
+methadose,pain,8.8,12.0
+mitigo,pain,-1.0,0.0
+moxicaine,pain,-1.0,0.0
+nalbuphine,pain,7.3,32.0
+radiaguard,pain,-1.0,0.0
+recticare,pain,-1.0,0.0
+regenecare ha spray,pain,-1.0,0.0
+sprix,pain,7.3,53.0
+sulindac,pain,5.6,13.0
+topicaine,pain,-1.0,0.0
+tranzarel,pain,-1.0,0.0
+xylocaine jelly,pain,10.0,1.0
+xylocaine topical,pain,-1.0,0.0
+zionodil,pain,-1.0,0.0
+acetaminophen / aspirin / caffeine / salicylamide,pain,8.0,3.0
+acetaminophen / aspirin,pain,9.0,1.0
+acetaminophen / benzhydrocodone,pain,-1.0,0.0
+acetaminophen / caffeine / dihydrocodeine,pain,7.1,24.0
+acetaminophen / caffeine,pain,-1.0,0.0
+acetaminophen / diphenhydramine,pain,8.4,17.0
+acetaminophen / ibuprofen,pain,-1.0,0.0
+acetaminophen / phenyltoloxamine / salicylamide,pain,-1.0,0.0
+activice,pain,-1.0,0.0
+alfentanil,pain,10.0,1.0
+alka-seltzer wake-up call!,pain,-1.0,0.0
+anacin,pain,10.0,4.0
+anbesol,pain,-1.0,0.0
+apadaz,pain,-1.0,0.0
+arctic relief,pain,-1.0,0.0
+arthricream,pain,-1.0,0.0
+asper-flex,pain,-1.0,0.0
+aspercreme max no mess roll-on,pain,-1.0,0.0
+aspercreme pain relieving heat gel,pain,3.3,4.0
+aspirin / butalbital / caffeine,pain,9.6,9.0
+aspirin / caffeine / dihydrocodeine,pain,10.0,1.0
+aspirin / caffeine,pain,5.8,86.0
+aspirin / carisoprodol / codeine,pain,9.5,3.0
+aspirin / oxycodone,pain,4.3,4.0
+axsain,pain,1.0,1.0
+back & body extra strength,pain,-1.0,0.0
+bayer back & body,pain,-1.0,0.0
+bayer extra strength back & body,pain,-1.0,0.0
+bc arthritis,pain,5.0,6.0
+bc fast pain relief,pain,7.5,3.0
+bengay cold therapy gel,pain,-1.0,0.0
+bengay ultra strength pain relieving patch,pain,-1.0,0.0
+bengay vanishing scent,pain,-1.0,0.0
+bengay zero degrees,pain,-1.0,0.0
+benzo-jel,pain,-1.0,0.0
+benzocaine,pain,8.0,2.0
+bio-therm pain relieving lotion,pain,-1.0,0.0
+"blue-emu maximum strength arthritis, muscle & joint pain relief",pain,6.3,3.0
+blue gel,pain,-1.0,0.0
+bupivacaine liposome,pain,5.8,64.0
+camphor / menthol,pain,7.1,37.0
+capsagel extra strength,pain,-1.0,0.0
+capsaicin / diclofenac,pain,-1.0,0.0
+capsaicin / lidocaine / menthol / methyl salicylate,pain,10.0,2.0
+capsaicin / menthol / methyl salicylate,pain,4.5,3.0
+capsin,pain,1.0,1.0
+capsinac,pain,-1.0,0.0
+capzasin,pain,2.0,3.0
+capzasin-hp,pain,1.0,2.0
+capzasin-p,pain,1.0,2.0
+castiva warming,pain,-1.0,0.0
+celecoxib / tramadol,pain,-1.0,0.0
+cepacol fizzlers,pain,-1.0,0.0
+chiggerex,pain,-1.0,0.0
+choline magnesium trisalicylate,pain,-1.0,0.0
+clinoril,pain,5.0,2.0
+cool 'n heat patch,pain,-1.0,0.0
+cope,pain,-1.0,0.0
+dendracin neurodendraxcin,pain,8.0,1.0
+denti-care denti-freeze,pain,-1.0,0.0
+dermacinrx lexitral,pain,-1.0,0.0
+dermacinrx lexitral pharmapak,pain,-1.0,0.0
+dermoplast,pain,-1.0,0.0
+diclofex dc,pain,-1.0,0.0
+dicloheal-60,pain,-1.0,0.0
+diclosaicin,pain,-1.0,0.0
+diclotral pak,pain,-1.0,0.0
+diflunisal,pain,4.0,4.0
+diphenhydramine / ibuprofen,pain,-1.0,0.0
+diphenhydramine / magnesium salicylate,pain,-1.0,0.0
+diphenhydramine / naproxen,pain,6.0,16.0
+doan's pills,pain,6.0,2.0
+doans pills extra strength,pain,9.7,8.0
+doans pm,pain,-1.0,0.0
+dolobid,pain,1.0,2.0
+dsuvia,pain,-1.0,0.0
+duraxin,pain,-1.0,0.0
+dvorah,pain,-1.0,0.0
+dyclonine,pain,-1.0,0.0
+ed-flex,pain,-1.0,0.0
+endodan,pain,-1.0,0.0
+excedrin quick tab,pain,-1.0,0.0
+excedrin tension headache,pain,-1.0,0.0
+exoten-c pain relief,pain,-1.0,0.0
+exparel,pain,5.6,57.0
+fast freeze,pain,8.0,1.0
+feldene,pain,8.0,4.0
+fenoprofen,pain,-1.0,0.0
+fenortho,pain,-1.0,0.0
+fiorinal,pain,9.6,5.0
+flexall,pain,-1.0,0.0
+flurbiprofen,pain,5.3,3.0
+fortabs,pain,-1.0,0.0
+freeze it,pain,-1.0,0.0
+gebauer's spray and stretch,pain,-1.0,0.0
+gold bond medicated maximum strength foot,pain,-1.0,0.0
+headache relief pm,pain,-1.0,0.0
+icy hot advanced relief pain relief patch,pain,-1.0,0.0
+icy hot extra strength,pain,-1.0,0.0
+icy hot medicated spray,pain,1.0,1.0
+icy hot vanishing scent pain relieving gel,pain,-1.0,0.0
+inavix,pain,-1.0,0.0
+indocin,pain,6.6,5.0
+indocin sr,pain,5.5,2.0
+kank-a,pain,-1.0,0.0
+lanacane,pain,6.0,1.0
+laryngesic,pain,-1.0,0.0
+legatrin pm,pain,10.0,2.0
+lidopro,pain,10.0,2.0
+magnesium salicylate,pain,9.3,17.0
+max-freeze,pain,-1.0,0.0
+meclofenamate,pain,10.0,1.0
+medi-derm rx,pain,-1.0,0.0
+medicone,pain,-1.0,0.0
+medrox,pain,-1.0,0.0
+medrox-rx,pain,-1.0,0.0
+menthac arthritis cream with capsaicin,pain,-1.0,0.0
+menthol,pain,5.2,20.0
+meperitab,pain,9.7,3.0
+midol pm,pain,8.5,2.0
+mineral ice,pain,-1.0,0.0
+motrin pm,pain,-1.0,0.0
+mst,pain,-1.0,0.0
+myoflex,pain,-1.0,0.0
+nalfon,pain,-1.0,0.0
+nalocet,pain,-1.0,0.0
+naloxone / pentazocine,pain,7.0,15.0
+new terocin,pain,-1.0,0.0
+nudiclo solupak,pain,-1.0,0.0
+nuprin backache,pain,-1.0,0.0
+oliceridine,pain,-1.0,0.0
+olinvyk,pain,-1.0,0.0
+p-a-c,pain,-1.0,0.0
+p-a-c analgesic,pain,-1.0,0.0
+painaid,pain,-1.0,0.0
+pentafluoropropane / tetrafluoroethane,pain,-1.0,0.0
+percodan,pain,5.3,3.0
+percogesic extra strength,pain,10.0,1.0
+percogesic original strength,pain,9.5,8.0
+pramox,pain,-1.0,0.0
+pramoxine,pain,4.0,3.0
+prax,pain,-1.0,0.0
+precaine b,pain,-1.0,0.0
+prialt,pain,1.0,1.0
+primlev,pain,9.0,1.0
+prolate,pain,-1.0,0.0
+qutenza,pain,-1.0,0.0
+rematex,pain,-1.0,0.0
+salonpas-hot,pain,-1.0,0.0
+sarna sensitive,pain,-1.0,0.0
+seglentis,pain,-1.0,0.0
+sloan's liniment,pain,8.0,1.0
+solarcaine first aid medicated spray,pain,-1.0,0.0
+soltice quick-rub,pain,-1.0,0.0
+sombra cool therapy,pain,-1.0,0.0
+sombra warm therapy,pain,-1.0,0.0
+stopain,pain,-1.0,0.0
+sufentanil,pain,-1.0,0.0
+sure result dss premium pak,pain,-1.0,0.0
+theragen hp,pain,-1.0,0.0
+therapeutic ice,pain,-1.0,0.0
+tiger balm,pain,7.3,27.0
+tiger balm pain relieving patch,pain,10.0,1.0
+tivorbex,pain,0.0,1.0
+tofranil,pain,-1.0,0.0
+tolmetin,pain,-1.0,0.0
+topical anesthetic dental gel,pain,-1.0,0.0
+transderm-iq,pain,-1.0,0.0
+trezix,pain,5.3,13.0
+trolamine salicylate,pain,6.6,36.0
+tru-micin,pain,-1.0,0.0
+ultracin t,pain,-1.0,0.0
+xodol,pain,10.0,1.0
+xolox,pain,0.0,1.0
+ziclopro,pain,-1.0,0.0
+ziconotide,pain,1.0,1.0
+zostrix,pain,3.5,4.0
+zostrix diabetic foot pain,pain,-1.0,0.0
+zostrix sports,pain,-1.0,0.0
+zyfrel,pain,-1.0,0.0
+levofloxacin,pneumonia,5.5,148.0
+clarithromycin,pneumonia,7.1,54.0
+ceftriaxone,pneumonia,8.4,19.0
+levaquin,pneumonia,5.4,77.0
+azithromycin,pneumonia,6.0,38.0
+doxycycline,pneumonia,6.5,56.0
+amoxicillin,pneumonia,9.0,4.0
+amoxil,pneumonia,9.0,2.0
+azithromycin dose pack,pneumonia,3.3,3.0
+augmentin,pneumonia,5.2,6.0
+ciprofloxacin,pneumonia,3.6,5.0
+avelox,pneumonia,8.2,39.0
+cefdinir,pneumonia,5.6,14.0
+zithromax,pneumonia,5.5,3.0
+amoxicillin / clavulanate,pneumonia,5.3,12.0
+clindamycin,pneumonia,5.8,4.0
+cipro,pneumonia,1.0,2.0
+cefotaxime,pneumonia,-1.0,0.0
+metronidazole,pneumonia,8.0,1.0
+cefuroxime,pneumonia,6.8,14.0
+moxifloxacin,pneumonia,8.2,48.0
+sulfamethoxazole / trimethoprim,pneumonia,3.0,1.0
+vancomycin,pneumonia,9.0,2.0
+bactrim,pneumonia,-1.0,0.0
+bactrim ds,pneumonia,-1.0,0.0
+cefepime,pneumonia,-1.0,0.0
+ceftazidime,pneumonia,-1.0,0.0
+ceftin,pneumonia,7.4,6.0
+apo-amoxi,pneumonia,-1.0,0.0
+flagyl,pneumonia,8.0,1.0
+amikacin,pneumonia,-1.0,0.0
+ancef,pneumonia,-1.0,0.0
+cefpodoxime,pneumonia,5.0,3.0
+doxy 100,pneumonia,-1.0,0.0
+erythromycin,pneumonia,-1.0,0.0
+vibramycin,pneumonia,-1.0,0.0
+zyvox,pneumonia,10.0,1.0
+cefixime,pneumonia,5.5,2.0
+cilastatin / imipenem,pneumonia,-1.0,0.0
+cipro i.v.,pneumonia,-1.0,0.0
+cipro xr,pneumonia,-1.0,0.0
+cleocin,pneumonia,-1.0,0.0
+doryx,pneumonia,-1.0,0.0
+doryx mpc,pneumonia,-1.0,0.0
+flagyl iv,pneumonia,-1.0,0.0
+linezolid,pneumonia,10.0,1.0
+monodox,pneumonia,-1.0,0.0
+morgidox,pneumonia,-1.0,0.0
+oraxyl,pneumonia,-1.0,0.0
+piperacillin / tazobactam,pneumonia,6.5,2.0
+zosyn,pneumonia,-1.0,0.0
+biaxin xl,pneumonia,9.8,4.0
+cefazolin,pneumonia,-1.0,0.0
+cleocin hcl,pneumonia,-1.0,0.0
+cleocin pediatric,pneumonia,-1.0,0.0
+cleocin phosphate,pneumonia,-1.0,0.0
+co-trimoxazole,pneumonia,-1.0,0.0
+flagyl 375,pneumonia,-1.0,0.0
+septra,pneumonia,-1.0,0.0
+tobramycin,pneumonia,-1.0,0.0
+achromycin v,pneumonia,-1.0,0.0
+ala-tet,pneumonia,-1.0,0.0
+amoclan,pneumonia,-1.0,0.0
+ampicillin,pneumonia,-1.0,0.0
+augmentin xr,pneumonia,-1.0,0.0
+avelox i.v.,pneumonia,10.0,1.0
+aztreonam,pneumonia,-1.0,0.0
+brodspec,pneumonia,-1.0,0.0
+cefaclor,pneumonia,-1.0,0.0
+cefzil,pneumonia,10.0,1.0
+dicloxacillin,pneumonia,-1.0,0.0
+e.e.s. granules,pneumonia,-1.0,0.0
+ertapenem,pneumonia,-1.0,0.0
+ery-tab,pneumonia,-1.0,0.0
+eryc,pneumonia,-1.0,0.0
+eryped,pneumonia,-1.0,0.0
+erythrocin,pneumonia,-1.0,0.0
+erythrocin lactobionate,pneumonia,-1.0,0.0
+floxin,pneumonia,-1.0,0.0
+garamycin,pneumonia,-1.0,0.0
+gentamicin,pneumonia,-1.0,0.0
+invanz,pneumonia,-1.0,0.0
+maxipime,pneumonia,-1.0,0.0
+ofloxacin,pneumonia,-1.0,0.0
+pce dispertab,pneumonia,-1.0,0.0
+penicillin vk,pneumonia,5.5,2.0
+penicillin v potassium,pneumonia,5.5,2.0
+primaxin iv,pneumonia,-1.0,0.0
+septra ds,pneumonia,-1.0,0.0
+sulfatrim pediatric,pneumonia,-1.0,0.0
+suprax,pneumonia,-1.0,0.0
+teflaro,pneumonia,-1.0,0.0
+tetracycline,pneumonia,10.0,1.0
+tigecycline,pneumonia,-1.0,0.0
+tygacil,pneumonia,-1.0,0.0
+vancocin,pneumonia,-1.0,0.0
+vancocin hcl,pneumonia,-1.0,0.0
+vancocin hcl pulvules,pneumonia,-1.0,0.0
+zinacef,pneumonia,-1.0,0.0
+amikin,pneumonia,-1.0,0.0
+amikin pediatric,pneumonia,-1.0,0.0
+ampicillin / sulbactam,pneumonia,-1.0,0.0
+avibactam / ceftazidime,pneumonia,-1.0,0.0
+avycaz,pneumonia,-1.0,0.0
+azactam,pneumonia,-1.0,0.0
+baciim,pneumonia,-1.0,0.0
+bacitracin,pneumonia,-1.0,0.0
+baxdela,pneumonia,-1.0,0.0
+bicillin c-r,pneumonia,-1.0,0.0
+bicillin c-r 900/300,pneumonia,-1.0,0.0
+cefotan,pneumonia,-1.0,0.0
+cefotetan,pneumonia,-1.0,0.0
+cefoxitin,pneumonia,-1.0,0.0
+cefprozil,pneumonia,7.0,2.0
+ceftaroline,pneumonia,-1.0,0.0
+ceftolozane / tazobactam,pneumonia,-1.0,0.0
+claforan,pneumonia,-1.0,0.0
+delafloxacin,pneumonia,-1.0,0.0
+dycill,pneumonia,-1.0,0.0
+dynapen,pneumonia,-1.0,0.0
+factive,pneumonia,2.7,4.0
+fortaz,pneumonia,-1.0,0.0
+gemifloxacin,pneumonia,2.7,4.0
+lefamulin,pneumonia,10.0,1.0
+nafcillin,pneumonia,-1.0,0.0
+nuzyra,pneumonia,-1.0,0.0
+omadacycline,pneumonia,-1.0,0.0
+oxacillin,pneumonia,-1.0,0.0
+penicillin g benzathine / procaine penicillin,pneumonia,-1.0,0.0
+penicillin g potassium,pneumonia,-1.0,0.0
+penicillin g sodium,pneumonia,-1.0,0.0
+pfizerpen,pneumonia,-1.0,0.0
+piperacillin,pneumonia,-1.0,0.0
+procaine penicillin,pneumonia,-1.0,0.0
+tazicef,pneumonia,-1.0,0.0
+telavancin,pneumonia,-1.0,0.0
+tobi,pneumonia,-1.0,0.0
+unasyn,pneumonia,-1.0,0.0
+vibativ,pneumonia,-1.0,0.0
+xenleta,pneumonia,10.0,1.0
+zerbaxa,pneumonia,-1.0,0.0
+clobetasol,psoriasis,8.8,66.0
+methotrexate,psoriasis,8.0,87.0
+humira,psoriasis,6.9,114.0
+stelara,psoriasis,8.3,135.0
+triamcinolone,psoriasis,8.4,25.0
+ustekinumab,psoriasis,8.2,137.0
+adalimumab,psoriasis,6.9,116.0
+cosentyx,psoriasis,7.5,11.0
+remicade,psoriasis,7.8,5.0
+taltz,psoriasis,7.9,20.0
+skyrizi,psoriasis,6.6,9.0
+tremfya,psoriasis,6.5,14.0
+etanercept,psoriasis,8.1,29.0
+ilumya,psoriasis,3.7,3.0
+infliximab,psoriasis,8.2,6.0
+avsola,psoriasis,-1.0,0.0
+duobrii,psoriasis,9.5,2.0
+guselkumab,psoriasis,6.8,15.0
+halobetasol / tazarotene,psoriasis,9.5,2.0
+inflectra,psoriasis,-1.0,0.0
+ixekizumab,psoriasis,8.0,21.0
+renflexis,psoriasis,-1.0,0.0
+risankizumab,psoriasis,6.6,9.0
+secukinumab,psoriasis,7.5,11.0
+tildrakizumab,psoriasis,3.7,3.0
+fluocinonide,psoriasis,7.6,16.0
+triamcinolone,psoriasis,9.9,7.0
+elocon,psoriasis,9.4,14.0
+calcipotriene,psoriasis,6.5,34.0
+mometasone,psoriasis,9.3,19.0
+prednisone,psoriasis,5.3,13.0
+clobex,psoriasis,8.6,29.0
+dovonex,psoriasis,6.2,24.0
+hydrocortisone,psoriasis,3.5,4.0
+desonide,psoriasis,9.0,4.0
+acitretin,psoriasis,5.6,35.0
+betamethasone,psoriasis,6.0,1.0
+cyclosporine,psoriasis,9.6,8.0
+soriatane,psoriasis,7.6,8.0
+taclonex,psoriasis,7.8,39.0
+tazorac,psoriasis,8.7,3.0
+temovate,psoriasis,10.0,2.0
+betamethasone / calcipotriene,psoriasis,7.0,71.0
+halobetasol,psoriasis,8.0,14.0
+kenalog-40,psoriasis,9.8,4.0
+desoximetasone,psoriasis,8.4,8.0
+kenalog,psoriasis,8.8,14.0
+neoral,psoriasis,10.0,1.0
+otrexup,psoriasis,-1.0,0.0
+trexall,psoriasis,-1.0,0.0
+dexamethasone,psoriasis,-1.0,0.0
+enstilar,psoriasis,5.3,23.0
+fluocinolone,psoriasis,-1.0,0.0
+fluocinonide-e,psoriasis,-1.0,0.0
+methylprednisolone,psoriasis,5.0,2.0
+rasuvo,psoriasis,-1.0,0.0
+tacrolimus,psoriasis,8.0,1.0
+topicort,psoriasis,9.3,3.0
+aristocort a,psoriasis,-1.0,0.0
+aristocort r,psoriasis,-1.0,0.0
+aristospan,psoriasis,-1.0,0.0
+calcitriol,psoriasis,8.3,4.0
+cinolar,psoriasis,-1.0,0.0
+clinacort,psoriasis,-1.0,0.0
+coal tar,psoriasis,7.9,20.0
+cortizone-10,psoriasis,1.0,1.0
+kenalog-10,psoriasis,10.0,1.0
+locoid,psoriasis,-1.0,0.0
+prednisolone,psoriasis,-1.0,0.0
+reditrex,psoriasis,-1.0,0.0
+taclonex scalp,psoriasis,9.0,2.0
+tazarotene,psoriasis,8.7,3.0
+trianex,psoriasis,-1.0,0.0
+triderm,psoriasis,-1.0,0.0
+tritocin,psoriasis,-1.0,0.0
+vectical,psoriasis,8.3,4.0
+acthar,psoriasis,-1.0,0.0
+ala-cort,psoriasis,-1.0,0.0
+ala-scalp,psoriasis,-1.0,0.0
+ala-scalp hp,psoriasis,-1.0,0.0
+alclometasone,psoriasis,8.0,1.0
+ammonium lactate / halobetasol,psoriasis,10.0,1.0
+aquanil hc,psoriasis,-1.0,0.0
+beta hc,psoriasis,-1.0,0.0
+caldecort,psoriasis,-1.0,0.0
+cloderm,psoriasis,9.0,1.0
+cordran,psoriasis,-1.0,0.0
+cordran tape,psoriasis,10.0,4.0
+cortizone-5,psoriasis,-1.0,0.0
+derma-smoothe / fs (scalp),psoriasis,-1.0,0.0
+dermarest plus anti-itch,psoriasis,-1.0,0.0
+dermovate,psoriasis,0.0,1.0
+dermtex hc,psoriasis,-1.0,0.0
+diflorasone,psoriasis,-1.0,0.0
+flurandrenolide,psoriasis,10.0,5.0
+gengraf,psoriasis,-1.0,0.0
+halog,psoriasis,-1.0,0.0
+itch-x lotion,psoriasis,-1.0,0.0
+locoid lipocream,psoriasis,-1.0,0.0
+nucort,psoriasis,-1.0,0.0
+olux,psoriasis,9.1,8.0
+olux-e,psoriasis,-1.0,0.0
+oxsoralen-ultra,psoriasis,-1.0,0.0
+pandel,psoriasis,-1.0,0.0
+psoriasin,psoriasis,7.1,12.0
+sarnol-hc,psoriasis,-1.0,0.0
+sernivo,psoriasis,-1.0,0.0
+synalar,psoriasis,-1.0,0.0
+texacort,psoriasis,-1.0,0.0
+u-cort,psoriasis,-1.0,0.0
+vanos,psoriasis,-1.0,0.0
+abrilada,psoriasis,-1.0,0.0
+amcinonide,psoriasis,-1.0,0.0
+amjevita,psoriasis,-1.0,0.0
+ammonium lactate/urea,psoriasis,-1.0,0.0
+analpram-hc,psoriasis,-1.0,0.0
+analpram e,psoriasis,-1.0,0.0
+anthraforte,psoriasis,-1.0,0.0
+anthralin,psoriasis,-1.0,0.0
+anthrascalp,psoriasis,-1.0,0.0
+apexicon,psoriasis,-1.0,0.0
+apexicon e,psoriasis,-1.0,0.0
+balnetar,psoriasis,-1.0,0.0
+betatar gel,psoriasis,-1.0,0.0
+brodalumab,psoriasis,6.0,4.0
+bryhali,psoriasis,-1.0,0.0
+calcitrene,psoriasis,-1.0,0.0
+capex,psoriasis,-1.0,0.0
+carb-o-lac5,psoriasis,-1.0,0.0
+carb-o-lac hp,psoriasis,-1.0,0.0
+clobevate,psoriasis,-1.0,0.0
+clocortolone,psoriasis,9.0,1.0
+clodan,psoriasis,-1.0,0.0
+coal tar/salicylic acid/sulfur,psoriasis,9.0,1.0
+coal tar/salicylic acid,psoriasis,-1.0,0.0
+cordran sp,psoriasis,-1.0,0.0
+cormax,psoriasis,-1.0,0.0
+cormax scalp,psoriasis,-1.0,0.0
+corticotropin,psoriasis,-1.0,0.0
+cutar,psoriasis,-1.0,0.0
+cyclocort,psoriasis,-1.0,0.0
+cyltezo,psoriasis,-1.0,0.0
+derma-smoothe / fs,psoriasis,-1.0,0.0
+derma-smoothe / fs (body oil),psoriasis,-1.0,0.0
+dermatop,psoriasis,-1.0,0.0
+desonate,psoriasis,-1.0,0.0
+desowen,psoriasis,8.0,1.0
+dhs tar shampoo,psoriasis,-1.0,0.0
+doak tar,psoriasis,-1.0,0.0
+dritho-scalp,psoriasis,-1.0,0.0
+drithocreme,psoriasis,-1.0,0.0
+elta tar,psoriasis,-1.0,0.0
+embeline,psoriasis,8.0,1.0
+embeline e,psoriasis,-1.0,0.0
+epifoam,psoriasis,-1.0,0.0
+estar,psoriasis,-1.0,0.0
+fototar,psoriasis,-1.0,0.0
+h.p. acthar gel,psoriasis,-1.0,0.0
+hadlima,psoriasis,-1.0,0.0
+halcinonide,psoriasis,-1.0,0.0
+halonate,psoriasis,-1.0,0.0
+hulio,psoriasis,-1.0,0.0
+hydrocortisone / pramoxine,psoriasis,8.0,1.0
+hydroxyurea,psoriasis,-1.0,0.0
+hyrimoz,psoriasis,-1.0,0.0
+impoyz,psoriasis,-1.0,0.0
+ionil t,psoriasis,10.0,1.0
+ixifi,psoriasis,-1.0,0.0
+kalosar,psoriasis,-1.0,0.0
+kerasal ultra 20,psoriasis,-1.0,0.0
+lokara,psoriasis,-1.0,0.0
+medotar,psoriasis,-1.0,0.0
+methoxsalen,psoriasis,-1.0,0.0
+mg217 medicated tar,psoriasis,9.0,3.0
+neutrogena t/derm,psoriasis,-1.0,0.0
+neutrogena t/gel,psoriasis,-1.0,0.0
+nolix,psoriasis,-1.0,0.0
+novacort,psoriasis,-1.0,0.0
+oxipor vhc,psoriasis,-1.0,0.0
+pramosone,psoriasis,8.0,1.0
+prednicarbate,psoriasis,-1.0,0.0
+proctofoam hc,psoriasis,-1.0,0.0
+r a acne,psoriasis,-1.0,0.0
+resinol,psoriasis,-1.0,0.0
+resorcinol,psoriasis,-1.0,0.0
+scytera,psoriasis,10.0,1.0
+siliq,psoriasis,6.0,4.0
+sorilux,psoriasis,1.0,1.0
+synalar ointment,psoriasis,-1.0,0.0
+tarsum,psoriasis,-1.0,0.0
+theraplex t,psoriasis,-1.0,0.0
+tovet,psoriasis,-1.0,0.0
+ultralytic,psoriasis,-1.0,0.0
+ultralytic 2,psoriasis,-1.0,0.0
+ultravate,psoriasis,9.0,1.0
+verdeso,psoriasis,-1.0,0.0
+wynzora,psoriasis,-1.0,0.0
+yusimry,psoriasis,-1.0,0.0
+zithranol,psoriasis,-1.0,0.0
+zithranol-rr,psoriasis,-1.0,0.0
+methotrexate,rheumatoid arthritis,6.0,122.0
+enbrel,rheumatoid arthritis,7.8,130.0
+humira,rheumatoid arthritis,6.0,135.0
+sulfasalazine,rheumatoid arthritis,4.6,69.0
+prednisone,rheumatoid arthritis,8.1,42.0
+actemra,rheumatoid arthritis,6.9,30.0
+hydroxychloroquine,rheumatoid arthritis,6.1,144.0
+meloxicam,rheumatoid arthritis,5.7,56.0
+celebrex,rheumatoid arthritis,8.0,21.0
+remicade,rheumatoid arthritis,7.3,34.0
+plaquenil,rheumatoid arthritis,6.8,71.0
+cimzia,rheumatoid arthritis,7.8,29.0
+etanercept,rheumatoid arthritis,7.8,134.0
+simponi,rheumatoid arthritis,6.7,42.0
+adalimumab,rheumatoid arthritis,6.1,141.0
+azulfidine,rheumatoid arthritis,10.0,1.0
+rinvoq,rheumatoid arthritis,5.9,66.0
+rituximab,rheumatoid arthritis,7.2,80.0
+tocilizumab,rheumatoid arthritis,6.8,32.0
+infliximab,rheumatoid arthritis,7.2,37.0
+anakinra,rheumatoid arthritis,8.0,1.0
+avsola,rheumatoid arthritis,-1.0,0.0
+certolizumab,rheumatoid arthritis,7.8,29.0
+golimumab,rheumatoid arthritis,6.7,59.0
+inflectra,rheumatoid arthritis,-1.0,0.0
+kineret,rheumatoid arthritis,-1.0,0.0
+olumiant,rheumatoid arthritis,8.0,1.0
+renflexis,rheumatoid arthritis,-1.0,0.0
+upadacitinib,rheumatoid arthritis,5.9,69.0
+leflunomide,rheumatoid arthritis,5.2,86.0
+diclofenac,rheumatoid arthritis,6.6,44.0
+arava,rheumatoid arthritis,6.1,31.0
+mobic,rheumatoid arthritis,6.4,21.0
+naproxen,rheumatoid arthritis,6.9,25.0
+celecoxib,rheumatoid arthritis,7.4,28.0
+orencia,rheumatoid arthritis,6.0,53.0
+ibuprofen,rheumatoid arthritis,10.0,6.0
+rituxan,rheumatoid arthritis,7.2,19.0
+xeljanz,rheumatoid arthritis,5.0,97.0
+acetaminophen / hydrocodone,rheumatoid arthritis,4.6,82.0
+aspirin,rheumatoid arthritis,10.0,2.0
+atorvastatin,rheumatoid arthritis,-1.0,0.0
+aleve,rheumatoid arthritis,7.3,7.0
+arthritis pain,rheumatoid arthritis,-1.0,0.0
+aspergum,rheumatoid arthritis,-1.0,0.0
+aspiritab,rheumatoid arthritis,-1.0,0.0
+aspirtab,rheumatoid arthritis,-1.0,0.0
+bayer aspirin,rheumatoid arthritis,-1.0,0.0
+bayer aspirin extra strength plus,rheumatoid arthritis,-1.0,0.0
+easprin,rheumatoid arthritis,-1.0,0.0
+ecotrin,rheumatoid arthritis,-1.0,0.0
+ecpirin,rheumatoid arthritis,-1.0,0.0
+entercote,rheumatoid arthritis,-1.0,0.0
+genacote,rheumatoid arthritis,-1.0,0.0
+halfprin,rheumatoid arthritis,-1.0,0.0
+methylprednisolone,rheumatoid arthritis,8.8,16.0
+nabumetone,rheumatoid arthritis,5.2,14.0
+norwich aspirin,rheumatoid arthritis,-1.0,0.0
+rayos,rheumatoid arthritis,-1.0,0.0
+vazalore,rheumatoid arthritis,-1.0,0.0
+vimovo,rheumatoid arthritis,8.1,9.0
+voltaren,rheumatoid arthritis,5.5,15.0
+advil,rheumatoid arthritis,10.0,1.0
+doxycycline,rheumatoid arthritis,8.0,5.0
+etodolac,rheumatoid arthritis,8.0,4.0
+motrin,rheumatoid arthritis,10.0,2.0
+naprosyn,rheumatoid arthritis,6.5,2.0
+proprinal,rheumatoid arthritis,-1.0,0.0
+a-g profen,rheumatoid arthritis,-1.0,0.0
+actiprofen,rheumatoid arthritis,-1.0,0.0
+addaprin,rheumatoid arthritis,-1.0,0.0
+azathioprine,rheumatoid arthritis,3.4,9.0
+cataflam,rheumatoid arthritis,-1.0,0.0
+duexis,rheumatoid arthritis,5.0,5.0
+genpril,rheumatoid arthritis,-1.0,0.0
+ibu-200,rheumatoid arthritis,-1.0,0.0
+medrol,rheumatoid arthritis,7.0,1.0
+midol ib,rheumatoid arthritis,-1.0,0.0
+motrin ib,rheumatoid arthritis,-1.0,0.0
+nuprin,rheumatoid arthritis,-1.0,0.0
+rasuvo,rheumatoid arthritis,-1.0,0.0
+xeljanz xr,rheumatoid arthritis,6.3,13.0
+aflaxen,rheumatoid arthritis,-1.0,0.0
+all day pain relief,rheumatoid arthritis,-1.0,0.0
+all day relief,rheumatoid arthritis,-1.0,0.0
+anaprox,rheumatoid arthritis,-1.0,0.0
+anaprox-ds,rheumatoid arthritis,-1.0,0.0
+arthrotec,rheumatoid arthritis,8.1,11.0
+depo-medrol,rheumatoid arthritis,9.0,1.0
+dexamethasone,rheumatoid arthritis,4.3,3.0
+ec-naprosyn,rheumatoid arthritis,-1.0,0.0
+flanax pain reliever,rheumatoid arthritis,-1.0,0.0
+imuran,rheumatoid arthritis,3.8,4.0
+indomethacin,rheumatoid arthritis,8.3,3.0
+lofena,rheumatoid arthritis,-1.0,0.0
+medrol dosepak,rheumatoid arthritis,9.0,1.0
+methylprednisolone dose pack,rheumatoid arthritis,-1.0,0.0
+naprelan,rheumatoid arthritis,-1.0,0.0
+otrexup,rheumatoid arthritis,9.5,2.0
+piroxicam,rheumatoid arthritis,8.0,5.0
+reditrex,rheumatoid arthritis,-1.0,0.0
+simponi aria,rheumatoid arthritis,6.3,12.0
+sulindac,rheumatoid arthritis,5.7,3.0
+trexall,rheumatoid arthritis,-1.0,0.0
+triamcinolone,rheumatoid arthritis,6.5,11.0
+abatacept,rheumatoid arthritis,6.2,55.0
+acetaminophen / tramadol,rheumatoid arthritis,8.7,3.0
+aristospan,rheumatoid arthritis,9.0,1.0
+auranofin,rheumatoid arthritis,10.0,2.0
+azulfidine en-tabs,rheumatoid arthritis,-1.0,0.0
+clinacort,rheumatoid arthritis,-1.0,0.0
+cortisone,rheumatoid arthritis,-1.0,0.0
+cyclosporine,rheumatoid arthritis,-1.0,0.0
+daypro,rheumatoid arthritis,5.0,3.0
+de-sone la,rheumatoid arthritis,-1.0,0.0
+dexamethasone intensol,rheumatoid arthritis,-1.0,0.0
+diclofenac / misoprostol,rheumatoid arthritis,8.1,11.0
+dxevo,rheumatoid arthritis,-1.0,0.0
+esomeprazole / naproxen,rheumatoid arthritis,8.1,9.0
+feldene,rheumatoid arthritis,7.5,4.0
+indocin,rheumatoid arthritis,8.0,1.0
+indocin sr,rheumatoid arthritis,-1.0,0.0
+kenalog-10,rheumatoid arthritis,-1.0,0.0
+kenalog-40,rheumatoid arthritis,6.3,10.0
+ketoprofen,rheumatoid arthritis,8.5,2.0
+kevzara,rheumatoid arthritis,5.5,20.0
+minocycline,rheumatoid arthritis,7.9,11.0
+mycophenolate mofetil,rheumatoid arthritis,6.5,4.0
+oxaprozin,rheumatoid arthritis,5.5,4.0
+phenytoin,rheumatoid arthritis,-1.0,0.0
+ridaura,rheumatoid arthritis,10.0,2.0
+salsalate,rheumatoid arthritis,8.0,2.0
+solu-medrol,rheumatoid arthritis,-1.0,0.0
+tofacitinib,rheumatoid arthritis,5.2,114.0
+abrilada,rheumatoid arthritis,-1.0,0.0
+acetaminophen / aspirin,rheumatoid arthritis,-1.0,0.0
+acthar,rheumatoid arthritis,10.0,1.0
+alemtuzumab,rheumatoid arthritis,-1.0,0.0
+amjevita,rheumatoid arthritis,-1.0,0.0
+arthricream,rheumatoid arthritis,-1.0,0.0
+asper-flex,rheumatoid arthritis,-1.0,0.0
+azasan,rheumatoid arthritis,-1.0,0.0
+baricitinib,rheumatoid arthritis,9.0,2.0
+boroleum,rheumatoid arthritis,-1.0,0.0
+camphor / menthol / methyl salicylate,rheumatoid arthritis,9.0,1.0
+castiva cooling,rheumatoid arthritis,-1.0,0.0
+clinoril,rheumatoid arthritis,8.0,1.0
+corticotropin,rheumatoid arthritis,9.5,2.0
+cuprimine,rheumatoid arthritis,-1.0,0.0
+cyclophosphamide,rheumatoid arthritis,-1.0,0.0
+cyltezo,rheumatoid arthritis,-1.0,0.0
+d-penamine,rheumatoid arthritis,-1.0,0.0
+depen,rheumatoid arthritis,-1.0,0.0
+diflunisal,rheumatoid arthritis,6.5,2.0
+dolobid,rheumatoid arthritis,5.0,1.0
+erelzi,rheumatoid arthritis,-1.0,0.0
+eticovo,rheumatoid arthritis,-1.0,0.0
+eucalyptamint,rheumatoid arthritis,-1.0,0.0
+exocaine plus,rheumatoid arthritis,-1.0,0.0
+famotidine / ibuprofen,rheumatoid arthritis,4.0,6.0
+fenoprofen,rheumatoid arthritis,9.0,1.0
+fenortho,rheumatoid arthritis,-1.0,0.0
+flurbiprofen,rheumatoid arthritis,6.0,1.0
+gengraf,rheumatoid arthritis,-1.0,0.0
+gordogesic,rheumatoid arthritis,-1.0,0.0
+h.p. acthar gel,rheumatoid arthritis,-1.0,0.0
+hadlima,rheumatoid arthritis,-1.0,0.0
+heet triple action,rheumatoid arthritis,-1.0,0.0
+hulio,rheumatoid arthritis,-1.0,0.0
+hyrimoz,rheumatoid arthritis,-1.0,0.0
+interferon gamma-1b,rheumatoid arthritis,-1.0,0.0
+ixifi,rheumatoid arthritis,-1.0,0.0
+meclofenamate,rheumatoid arthritis,-1.0,0.0
+mentholatum deep heating,rheumatoid arthritis,-1.0,0.0
+methyl salicylate,rheumatoid arthritis,7.7,9.0
+myoflex,rheumatoid arthritis,-1.0,0.0
+nalfon,rheumatoid arthritis,-1.0,0.0
+neoral,rheumatoid arthritis,-1.0,0.0
+penicillamine,rheumatoid arthritis,-1.0,0.0
+relafen ds,rheumatoid arthritis,-1.0,0.0
+riabni,rheumatoid arthritis,-1.0,0.0
+salonpas pain patch,rheumatoid arthritis,6.8,6.0
+sarilumab,rheumatoid arthritis,5.5,20.0
+satogesic,rheumatoid arthritis,-1.0,0.0
+tetracycline,rheumatoid arthritis,-1.0,0.0
+tolmetin,rheumatoid arthritis,9.0,1.0
+trolamine salicylate,rheumatoid arthritis,5.0,5.0
+ximino,rheumatoid arthritis,-1.0,0.0
+xodol,rheumatoid arthritis,-1.0,0.0
+yusimry,rheumatoid arthritis,-1.0,0.0
+seroquel,schizophrenia,6.5,44.0
+latuda,schizophrenia,6.3,122.0
+abilify,schizophrenia,6.1,104.0
+risperidone,schizophrenia,5.3,137.0
+clozapine,schizophrenia,7.8,54.0
+olanzapine,schizophrenia,5.2,132.0
+zyprexa,schizophrenia,5.6,67.0
+vraylar,schizophrenia,6.0,55.0
+risperdal,schizophrenia,5.4,54.0
+abilify maintena,schizophrenia,6.1,32.0
+quetiapine,schizophrenia,6.9,77.0
+rexulti,schizophrenia,5.1,37.0
+fanapt,schizophrenia,6.3,18.0
+aristada,schizophrenia,3.6,12.0
+clozaril,schizophrenia,9.0,13.0
+caplyta,schizophrenia,4.7,39.0
+lurasidone,schizophrenia,6.3,127.0
+cariprazine,schizophrenia,6.1,65.0
+brexpiprazole,schizophrenia,5.6,41.0
+geodon,schizophrenia,6.3,46.0
+aripiprazole,schizophrenia,5.8,162.0
+lumateperone,schizophrenia,4.8,40.0
+lybalvi,schizophrenia,-1.0,0.0
+invega,schizophrenia,4.5,96.0
+seroquel xr,schizophrenia,8.0,10.0
+chlorpromazine,schizophrenia,9.1,11.0
+saphris,schizophrenia,7.5,44.0
+invega sustenna,schizophrenia,3.6,93.0
+ziprasidone,schizophrenia,6.0,56.0
+risperdal consta,schizophrenia,7.1,9.0
+loxapine,schizophrenia,6.0,14.0
+paliperidone,schizophrenia,4.1,283.0
+zyprexa zydis,schizophrenia,4.4,6.0
+trifluoperazine,schizophrenia,8.3,12.0
+zyprexa relprevv,schizophrenia,-1.0,0.0
+invega trinza,schizophrenia,6.2,26.0
+thioridazine,schizophrenia,9.5,4.0
+abilify mycite,schizophrenia,-1.0,0.0
+aristada initio,schizophrenia,-1.0,0.0
+fazaclo,schizophrenia,-1.0,0.0
+perseris,schizophrenia,-1.0,0.0
+thiothixene,schizophrenia,10.0,3.0
+amisulpride,schizophrenia,7.3,4.0
+asenapine,schizophrenia,7.2,47.0
+zyprexa intramuscular,schizophrenia,-1.0,0.0
+versacloz,schizophrenia,-1.0,0.0
+adasuve,schizophrenia,-1.0,0.0
+iloperidone,schizophrenia,6.1,19.0
+secuado,schizophrenia,-1.0,0.0
+invega hafyera,schizophrenia,1.0,1.0
+olanzapine / samidorphan,schizophrenia,8.0,1.0
+keppra,seizures,5.7,182.0
+levetiracetam,seizures,5.9,230.0
+diazepam,seizures,9.1,14.0
+topiramate,seizures,6.2,21.0
+diastat,seizures,7.0,1.0
+dilantin,seizures,7.4,40.0
+trokendi xr,seizures,-1.0,0.0
+valtoco,seizures,-1.0,0.0
+vimpat,seizures,6.7,135.0
+midazolam,seizures,0.0,1.0
+nayzilam,seizures,0.0,1.0
+sabril,seizures,9.0,1.0
+vigabatrin,seizures,9.0,1.0
+phenobarbital,seizures,8.9,24.0
+trileptal,seizures,7.3,21.0
+zonisamide,seizures,5.2,84.0
+phenytoin,seizures,7.3,54.0
+oxcarbazepine,seizures,7.5,34.0
+zonegran,seizures,6.3,41.0
+keppra xr,seizures,7.8,8.0
+valium,seizures,9.8,4.0
+topamax,seizures,4.3,7.0
+valproic acid,seizures,7.8,4.0
+primidone,seizures,8.4,12.0
+mysoline,seizures,9.3,6.0
+aptiom,seizures,6.7,26.0
+diastat acudial,seizures,7.5,2.0
+zarontin,seizures,9.4,7.0
+lacosamide,seizures,6.7,145.0
+phenytoin sodium,seizures,-1.0,0.0
+diazepam intensol,seizures,-1.0,0.0
+gabitril,seizures,6.0,4.0
+oxtellar xr,seizures,10.0,1.0
+diastat pediatric,seizures,-1.0,0.0
+qudexy xr,seizures,10.0,2.0
+vitamin b6,seizures,-1.0,0.0
+briviact,seizures,6.1,14.0
+elepsia xr,seizures,-1.0,0.0
+eprontia,seizures,-1.0,0.0
+ethosuximide,seizures,8.1,12.0
+roweepra,seizures,-1.0,0.0
+spritam,seizures,-1.0,0.0
+fycompa,seizures,4.7,16.0
+phenytek,seizures,9.5,2.0
+roweepra xr,seizures,-1.0,0.0
+xcopri,seizures,10.0,4.0
+progesterone,seizures,10.0,1.0
+pyridoxine,seizures,-1.0,0.0
+aminoxin,seizures,-1.0,0.0
+brivaracetam,seizures,5.7,17.0
+celontin,seizures,-1.0,0.0
+cenobamate,seizures,8.6,5.0
+eslicarbazepine,seizures,6.7,27.0
+methsuximide,seizures,-1.0,0.0
+perampanel,seizures,4.7,16.0
+tiagabine,seizures,6.0,4.0
+zonisade,seizures,-1.0,0.0
+ganaxolone,seizures,-1.0,0.0
+vigadrone,seizures,-1.0,0.0
+ztalmy,seizures,-1.0,0.0
+plavix,stroke,6.4,12.0
+clopidogrel,stroke,7.2,15.0
+aspirin,stroke,9.0,1.0
+activase,stroke,-1.0,0.0
+bayer aspirin,stroke,-1.0,0.0
+easprin,stroke,-1.0,0.0
+ecotrin,stroke,-1.0,0.0
+alteplase,stroke,-1.0,0.0
+arthritis pain,stroke,-1.0,0.0
+ascriptin,stroke,-1.0,0.0
+aspergum,stroke,-1.0,0.0
+aspir-low,stroke,-1.0,0.0
+bayer aspirin regimen,stroke,-1.0,0.0
+genacote,stroke,-1.0,0.0
+halfprin,stroke,-1.0,0.0
+aspiritab,stroke,-1.0,0.0
+aspirtab,stroke,-1.0,0.0
+ecpirin,stroke,-1.0,0.0
+entercote,stroke,-1.0,0.0
+nimodipine,stroke,10.0,1.0
+norwich aspirin,stroke,-1.0,0.0
+vazalore,stroke,-1.0,0.0
+bayer aspirin extra strength plus,stroke,-1.0,0.0
+tamiflu,swine flu,7.3,18.0
+oseltamivir,swine flu,7.3,18.0
+relenza,swine flu,10.0,1.0
+zanamivir,swine flu,10.0,1.0
+peramivir,swine flu,-1.0,0.0
+ciprofloxacin,uti,4.8,388.0
+nitrofurantoin,uti,4.2,1242.0
+macrobid,uti,4.3,552.0
+cipro,uti,5.6,167.0
+sulfamethoxazole / trimethoprim,uti,4.3,743.0
+bactrim,uti,4.4,257.0
+amoxicillin,uti,6.8,40.0
+amoxil,uti,10.0,1.0
+doxycycline,uti,6.6,38.0
+bactrim ds,uti,5.1,185.0
+augmentin,uti,5.1,18.0
+levofloxacin,uti,4.9,70.0
+levaquin,uti,5.6,39.0
+amoxicillin / clavulanate,uti,5.7,60.0
+ceftriaxone,uti,9.2,52.0
+macrodantin,uti,4.3,29.0
+cefuroxime,uti,6.8,20.0
+methenamine,uti,8.3,27.0
+ceftin,uti,9.5,2.0
+trimethoprim,uti,3.0,134.0
+vibramycin,uti,10.0,2.0
+ampicillin,uti,10.0,2.0
+apo-amoxi,uti,-1.0,0.0
+septra,uti,5.4,9.0
+septra ds,uti,7.5,10.0
+uribel,uti,6.3,35.0
+doxy 100,uti,-1.0,0.0
+cefixime,uti,5.7,7.0
+cipro i.v.,uti,2.0,2.0
+cipro xr,uti,1.0,2.0
+doryx,uti,4.0,1.0
+doryx mpc,uti,-1.0,0.0
+hiprex,uti,8.0,21.0
+monodox,uti,-1.0,0.0
+morgidox,uti,-1.0,0.0
+oraxyl,uti,-1.0,0.0
+suprax,uti,10.0,1.0
+ancef,uti,-1.0,0.0
+cefepime,uti,9.0,1.0
+cefotaxime,uti,-1.0,0.0
+co-trimoxazole,uti,-1.0,0.0
+furadantin,uti,-1.0,0.0
+ofloxacin,uti,5.2,6.0
+zosyn,uti,-1.0,0.0
+amikacin,uti,4.0,2.0
+amoclan,uti,-1.0,0.0
+ampicillin / sulbactam,uti,7.0,1.0
+augmentin xr,uti,-1.0,0.0
+cefadroxil,uti,10.0,1.0
+cefazolin,uti,1.0,1.0
+ceftazidime,uti,-1.0,0.0
+cilastatin / imipenem,uti,-1.0,0.0
+duricef,uti,10.0,1.0
+ertapenem,uti,1.0,1.0
+floxin,uti,1.0,1.0
+hyophen,uti,-1.0,0.0
+invanz,uti,1.0,1.0
+maxipime,uti,-1.0,0.0
+piperacillin / tazobactam,uti,-1.0,0.0
+sulfatrim pediatric,uti,-1.0,0.0
+unasyn,uti,7.0,1.0
+urelle,uti,0.0,1.0
+uro-mp,uti,2.0,1.0
+urogesic blue,uti,8.8,6.0
+ustell,uti,-1.0,0.0
+uta,uti,10.0,3.0
+utira-c,uti,-1.0,0.0
+zinacef,uti,-1.0,0.0
+acetohydroxamic acid,uti,9.0,1.0
+amikin,uti,-1.0,0.0
+amikin pediatric,uti,-1.0,0.0
+avibactam / ceftazidime,uti,-1.0,0.0
+avycaz,uti,-1.0,0.0
+azactam,uti,-1.0,0.0
+aztreonam,uti,-1.0,0.0
+azuphen mb,uti,-1.0,0.0
+benzoic acid / hyoscyamine / methenamine / methylene blue / phenyl salicylate,uti,7.8,6.0
+cefaclor,uti,-1.0,0.0
+cefiderocol,uti,-1.0,0.0
+cefotan,uti,-1.0,0.0
+cefotetan,uti,-1.0,0.0
+cefoxitin,uti,-1.0,0.0
+ceftolozane / tazobactam,uti,-1.0,0.0
+cilastatin / imipenem / relebactam,uti,-1.0,0.0
+claforan,uti,-1.0,0.0
+fetroja,uti,-1.0,0.0
+fortaz,uti,-1.0,0.0
+hyolev mb,uti,-1.0,0.0
+hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate,uti,6.3,39.0
+hyoscyamine / methenamine / methylene blue / sodium biphosphate,uti,8.7,11.0
+lithostat,uti,9.0,1.0
+meropenem / vaborbactam,uti,-1.0,0.0
+phosphasal,uti,8.5,2.0
+piperacillin,uti,-1.0,0.0
+plazomicin,uti,-1.0,0.0
+primaxin iv,uti,-1.0,0.0
+primsol,uti,-1.0,0.0
+recarbrio,uti,-1.0,0.0
+tazicef,uti,-1.0,0.0
+uretron ds,uti,-1.0,0.0
+urimar-t,uti,-1.0,0.0
+urin d/s,uti,-1.0,0.0
+urised,uti,9.0,1.0
+uro-458,uti,-1.0,0.0
+uro-sp,uti,-1.0,0.0
+uroav-81,uti,-1.0,0.0
+uroav-b,uti,-1.0,0.0
+uticap,uti,-1.0,0.0
+utrona-c,uti,-1.0,0.0
+vabomere,uti,-1.0,0.0
+vilamit mb,uti,-1.0,0.0
+vilevev mb,uti,-1.0,0.0
+zemdri,uti,-1.0,0.0
+zerbaxa,uti,-1.0,0.0
+phentermine,weight loss,8.7,2934.0
+topiramate,weight loss,7.4,225.0
+adipex-p,weight loss,8.9,600.0
+semaglutide,weight loss,6.7,150.0
+topamax,weight loss,6.8,64.0
+contrave,weight loss,6.6,1939.0
+desoxyn,weight loss,10.0,3.0
+alli,weight loss,6.0,109.0
+bupropion,weight loss,7.1,45.0
+orlistat,weight loss,7.3,363.0
+xenical,weight loss,8.3,112.0
+phendimetrazine,weight loss,8.3,150.0
+diethylpropion,weight loss,8.7,154.0
+qsymia,weight loss,7.7,556.0
+saxenda,weight loss,7.5,1377.0
+methamphetamine,weight loss,10.0,4.0
+pregnyl,weight loss,9.0,1.0
+wegovy,weight loss,6.7,125.0
+bupropion / naltrexone,weight loss,6.6,2013.0
+liraglutide,weight loss,7.6,1711.0
+phentermine / topiramate,weight loss,7.8,679.0
+amphetamine,weight loss,10.0,1.0
+bontril pdm,weight loss,6.0,5.0
+chorionic gonadotropin (hcg),weight loss,7.0,14.0
+cimetidine,weight loss,-1.0,0.0
+lomaira,weight loss,7.6,40.0
+methylphenidate,weight loss,6.0,1.0
+atti-plex p,weight loss,-1.0,0.0
+benzphetamine,weight loss,7.5,17.0
+desvenlafaxine,weight loss,8.6,9.0
+tagamet hb,weight loss,-1.0,0.0
+evekeo,weight loss,-1.0,0.0
+fenfluramine,weight loss,-1.0,0.0
+fendique er,weight loss,-1.0,0.0
+imcivree,weight loss,-1.0,0.0
+setmelanotide,weight loss,-1.0,0.0
+tirzepatide,weight loss,5.7,10.0

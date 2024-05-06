@@ -1,0 +1,350 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing
+Influenza,Yes,No,Yes,Yes
+Common Cold,No,Yes,Yes,No
+Eczema,No,Yes,Yes,No
+Asthma,Yes,Yes,No,Yes
+Asthma,Yes,Yes,No,Yes
+Eczema,Yes,No,No,No
+Influenza,Yes,Yes,Yes,Yes
+Influenza,Yes,Yes,Yes,Yes
+Hyperthyroidism,No,Yes,No,No
+Hyperthyroidism,No,Yes,No,No
+Asthma,Yes,No,No,Yes
+Allergic Rhinitis,No,Yes,Yes,No
+Anxiety Disorders,No,Yes,No,No
+Common Cold,No,No,No,No
+Diabetes,No,No,No,No
+Gastroenteritis,No,Yes,No,No
+Pancreatitis,Yes,No,No,No
+Rheumatoid Arthritis,No,Yes,Yes,Yes
+Depression,Yes,Yes,Yes,Yes
+Liver Cancer,Yes,Yes,Yes,Yes
+Stroke,Yes,Yes,Yes,Yes
+Urinary Tract Infection,Yes,Yes,Yes,No
+Dengue Fever,Yes,No,Yes,No
+Dengue Fever,Yes,No,Yes,No
+Eczema,No,Yes,Yes,No
+Gastroenteritis,Yes,Yes,Yes,No
+Hepatitis,Yes,Yes,Yes,Yes
+Kidney Cancer,No,No,Yes,No
+Migraine,Yes,No,No,No
+Migraine,No,Yes,Yes,No
+Muscular Dystrophy,No,No,Yes,No
+Sinusitis,No,Yes,Yes,No
+Ulcerative Colitis,Yes,Yes,No,No
+Ulcerative Colitis,No,Yes,Yes,No
+Asthma,Yes,Yes,No,Yes
+Asthma,Yes,Yes,No,Yes
+Asthma,Yes,Yes,Yes,Yes
+Bipolar Disorder,No,No,Yes,No
+Bronchitis,Yes,Yes,No,Yes
+Bronchitis,Yes,Yes,Yes,Yes
+Bronchitis,Yes,Yes,Yes,Yes
+Cerebral Palsy,No,No,Yes,Yes
+Colorectal Cancer,No,No,Yes,No
+Eczema,Yes,No,No,No
+Hypertensive Heart Disease,No,No,Yes,No
+Influenza,Yes,Yes,Yes,No
+Influenza,Yes,Yes,Yes,Yes
+Multiple Sclerosis,No,No,Yes,No
+Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes
+Urinary Tract Infection (UTI),Yes,No,No,No
+Asthma,No,No,No,Yes
+Osteoporosis,No,No,No,Yes
+Common Cold,Yes,No,Yes,Yes
+Migraine,Yes,No,No,No
+Pneumonia,Yes,No,Yes,Yes
+Allergic Rhinitis,No,No,Yes,No
+Asthma,No,Yes,Yes,Yes
+Asthma,Yes,Yes,Yes,Yes
+Asthma,No,Yes,Yes,Yes
+Asthma,No,Yes,Yes,Yes
+Atherosclerosis,No,No,Yes,No
+Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes
+Common Cold,Yes,Yes,Yes,No
+Eczema,No,Yes,No,No
+Epilepsy,No,No,Yes,No
+Hypertension,Yes,Yes,Yes,No
+Hyperthyroidism,Yes,Yes,Yes,No
+Obsessive-Compulsive Disorde...,No,No,Yes,No
+Pneumonia,Yes,Yes,Yes,Yes
+Pneumonia,Yes,Yes,Yes,Yes
+Psoriasis,Yes,No,No,No
+Psoriasis,No,Yes,Yes,No
+Rubella,Yes,No,Yes,No
+Rubella,Yes,No,Yes,No
+Urinary Tract Infection (UTI),No,Yes,Yes,No
+Asthma,Yes,Yes,No,Yes
+Asthma,Yes,Yes,No,Yes
+Cirrhosis,No,No,Yes,No
+Conjunctivitis (Pink Eye),No,Yes,No,No
+Depression,No,No,Yes,No
+Gastroenteritis,Yes,No,Yes,Yes
+Hyperthyroidism,Yes,Yes,Yes,No
+Hyperthyroidism,Yes,Yes,Yes,No
+Kidney Cancer,No,No,Yes,No
+Liver Cancer,No,No,Yes,No
+Liver Disease,No,No,Yes,No
+Malaria,Yes,No,No,No
+Malaria,Yes,No,No,No
+Migraine,No,Yes,Yes,No
+Migraine,Yes,No,No,No
+Pancreatitis,No,No,Yes,No
+Rheumatoid Arthritis,Yes,Yes,Yes,No
+Rheumatoid Arthritis,No,No,Yes,No
+Spina Bifida,No,No,Yes,No
+Ulcerative Colitis,No,No,Yes,No
+Ulcerative Colitis,Yes,No,No,No
+Urinary Tract Infection,Yes,No,Yes,No
+Allergic Rhinitis,No,Yes,No,No
+Depression,No,No,No,No
+Gastroenteritis,No,No,No,No
+Influenza,No,No,No,No
+Kidney Disease,No,No,Yes,No
+Liver Cancer,Yes,Yes,No,No
+Liver Disease,No,Yes,No,Yes
+Osteoporosis,No,Yes,No,No
+Stroke,Yes,Yes,No,No
+Anxiety Disorders,Yes,No,Yes,Yes
+Diabetes,Yes,No,Yes,Yes
+Migraine,Yes,Yes,No,No
+Osteoarthritis,Yes,Yes,Yes,No
+Pneumonia,Yes,Yes,Yes,Yes
+Klinefelter Syndrome,No,No,Yes,No
+Acne,No,No,Yes,No
+Brain Tumor,No,No,Yes,No
+Bronchitis,No,Yes,No,Yes
+Cystic Fibrosis,No,No,Yes,Yes
+Diabetes,Yes,No,No,No
+Glaucoma,No,No,Yes,No
+Osteoarthritis,No,No,Yes,No
+Rabies,Yes,Yes,No,No
+Rabies,Yes,Yes,No,No
+Asthma,Yes,No,Yes,No
+Asthma,Yes,Yes,No,Yes
+Asthma,Yes,Yes,No,Yes
+Asthma,No,No,Yes,Yes
+Asthma,Yes,No,Yes,Yes
+Asthma,Yes,No,Yes,Yes
+Chickenpox,No,Yes,No,No
+Chickenpox,No,Yes,No,No
+Coronary Artery Disease,No,No,Yes,No
+"Eating Disorders (Anorexia,...",No,No,Yes,No
+Fibromyalgia,No,No,Yes,No
+Gastroenteritis,Yes,Yes,Yes,No
+Hemophilia,No,No,Yes,No
+Hyperthyroidism,No,No,Yes,No
+Hypoglycemia,No,No,Yes,No
+Lymphoma,No,Yes,No,No
+Pneumonia,Yes,Yes,Yes,Yes
+Psoriasis,No,Yes,Yes,No
+Psoriasis,Yes,No,No,No
+Psoriasis,No,Yes,No,No
+Tuberculosis,Yes,Yes,Yes,Yes
+Tuberculosis,Yes,Yes,Yes,Yes
+Anxiety Disorders,No,No,No,No
+Common Cold,Yes,Yes,No,No
+Depression,Yes,No,No,Yes
+Influenza,No,Yes,No,No
+Kidney Cancer,Yes,No,No,No
+Liver Cancer,Yes,No,Yes,Yes
+Liver Disease,Yes,No,No,Yes
+Lung Cancer,Yes,No,Yes,Yes
+Migraine,Yes,Yes,Yes,No
+Osteoarthritis,No,No,Yes,No
+Stroke,Yes,No,Yes,No
+Urinary Tract Infection,No,Yes,Yes,Yes
+Diabetes,Yes,Yes,Yes,No
+Hypothyroidism,Yes,Yes,Yes,No
+Hypothyroidism,Yes,Yes,Yes,No
+Kidney Disease,Yes,No,Yes,No
+Pneumonia,No,Yes,Yes,Yes
+Allergic Rhinitis,No,Yes,Yes,No
+Autism Spectrum Disorder (ASD),No,No,Yes,No
+Crohn's Disease,Yes,No,Yes,No
+Hepatitis,Yes,No,Yes,No
+Hepatitis,Yes,No,Yes,No
+Hyperglycemia,No,No,Yes,No
+Kidney Cancer,No,Yes,Yes,Yes
+Kidney Disease,Yes,Yes,No,No
+Melanoma,Yes,No,Yes,No
+Migraine,No,No,No,No
+Ovarian Cancer,No,No,Yes,No
+Pancreatitis,No,Yes,Yes,Yes
+Rheumatoid Arthritis,Yes,No,No,No
+Stroke,No,No,Yes,No
+Turner Syndrome,No,No,Yes,No
+Turner Syndrome,No,No,Yes,No
+Urinary Tract Infection,No,No,No,No
+Zika Virus,No,Yes,Yes,No
+Zika Virus,No,Yes,Yes,No
+Allergic Rhinitis,Yes,Yes,Yes,No
+Anxiety Disorders,Yes,Yes,Yes,No
+Asthma,Yes,Yes,No,Yes
+Asthma,Yes,Yes,No,Yes
+Cataracts,No,No,Yes,No
+Crohn's Disease,No,No,Yes,No
+Crohn's Disease,Yes,Yes,Yes,No
+Depression,No,No,Yes,No
+Diabetes,Yes,No,Yes,No
+Diabetes,No,Yes,Yes,No
+Hypertension,Yes,No,Yes,No
+Hypothyroidism,No,No,Yes,No
+Liver Disease,Yes,Yes,Yes,No
+Multiple Sclerosis,Yes,No,No,No
+Multiple Sclerosis,Yes,No,No,No
+Osteoarthritis,Yes,No,Yes,Yes
+Osteoporosis,Yes,Yes,Yes,No
+Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No
+Pneumonia,Yes,Yes,Yes,Yes
+Scoliosis,No,No,No,No
+Sickle Cell Anemia,No,No,Yes,No
+Tetanus,No,No,Yes,No
+Tetanus,No,No,Yes,No
+Hypertension,No,No,No,No
+Hypothyroidism,No,No,Yes,No
+Hypothyroidism,No,No,Yes,No
+Allergic Rhinitis,Yes,No,No,No
+Anemia,No,No,Yes,No
+Anxiety Disorders,No,No,Yes,No
+Cholera,Yes,No,Yes,Yes
+Cholera,Yes,No,Yes,Yes
+Crohn's Disease,Yes,Yes,Yes,No
+Crohn's Disease,No,No,Yes,No
+Depression,No,Yes,Yes,No
+Diabetes,No,Yes,No,No
+Endometriosis,Yes,No,No,No
+Hypertension,No,Yes,No,No
+Hypothyroidism,Yes,Yes,Yes,No
+Kidney Cancer,No,Yes,No,No
+Kidney Disease,No,Yes,No,Yes
+Pancreatitis,No,Yes,No,No
+Rheumatoid Arthritis,No,Yes,No,No
+Sepsis,Yes,Yes,Yes,No
+Sleep Apnea,Yes,No,Yes,Yes
+Urinary Tract Infection,Yes,Yes,No,Yes
+Asthma,Yes,Yes,Yes,Yes
+Bronchitis,Yes,Yes,Yes,Yes
+Down Syndrome,No,No,Yes,No
+Ebola Virus,Yes,Yes,Yes,Yes
+Ebola Virus,Yes,Yes,Yes,Yes
+Eczema,No,Yes,No,No
+Gastroenteritis,Yes,Yes,Yes,Yes
+Klinefelter Syndrome,No,No,Yes,No
+Liver Cancer,No,Yes,Yes,Yes
+Lyme Disease,Yes,No,No,No
+Lyme Disease,Yes,No,No,No
+Pancreatic Cancer,No,No,Yes,No
+Pneumothorax,No,No,Yes,Yes
+Stroke,No,Yes,Yes,Yes
+Ulcerative Colitis,No,Yes,Yes,No
+Hypertension,Yes,Yes,No,No
+Multiple Sclerosis,No,Yes,Yes,No
+Multiple Sclerosis,No,Yes,Yes,No
+Appendicitis,Yes,No,Yes,No
+Bronchitis,No,No,Yes,Yes
+Bronchitis,Yes,Yes,Yes,Yes
+Common Cold,Yes,No,Yes,Yes
+Diabetes,No,Yes,No,No
+Esophageal Cancer,No,No,Yes,No
+HIV/AIDS,Yes,No,No,No
+HIV/AIDS,Yes,No,No,No
+Hypertension,No,Yes,No,No
+Liver Disease,No,Yes,Yes,No
+Marfan Syndrome,No,No,Yes,No
+Migraine,No,Yes,Yes,Yes
+Osteoporosis,No,No,Yes,No
+Parkinson's Disease,No,No,Yes,No
+Parkinson's Disease,No,No,Yes,No
+Anxiety Disorders,Yes,Yes,No,No
+Coronary Artery Disease,No,No,Yes,No
+Coronary Artery Disease,No,No,Yes,No
+Hemorrhoids,No,No,No,No
+Hypertension,Yes,No,Yes,No
+Hypothyroidism,No,No,Yes,No
+Osteoarthritis,Yes,Yes,No,No
+Osteoporosis,Yes,No,Yes,Yes
+Osteoporosis,No,Yes,Yes,No
+Osteoporosis,Yes,No,Yes,No
+Osteoporosis,Yes,No,Yes,No
+Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No
+Systemic Lupus Erythematosus...,No,Yes,Yes,No
+Typhoid Fever,No,Yes,No,No
+Typhoid Fever,No,Yes,No,No
+Influenza,Yes,Yes,Yes,Yes
+Pneumonia,Yes,Yes,No,Yes
+Breast Cancer,No,No,Yes,No
+Coronary Artery Disease,Yes,Yes,No,No
+Coronary Artery Disease,Yes,Yes,No,No
+Hyperthyroidism,No,No,Yes,No
+Measles,Yes,Yes,No,No
+Measles,Yes,Yes,No,No
+Osteoarthritis,No,Yes,No,Yes
+Osteomyelitis,No,No,Yes,No
+Osteoporosis,Yes,No,No,No
+Osteoporosis,No,Yes,No,No
+Osteoporosis,No,Yes,No,No
+Polio,Yes,Yes,Yes,No
+Asthma,Yes,Yes,Yes,Yes
+Chronic Kidney Disease,No,No,Yes,No
+Hemophilia,No,No,Yes,No
+Hepatitis B,No,Yes,Yes,No
+Hepatitis B,No,Yes,Yes,No
+Hypertension,No,No,Yes,No
+Hypertension,Yes,No,Yes,No
+Hypertension,No,No,No,No
+Kidney Cancer,Yes,Yes,Yes,No
+Kidney Disease,Yes,Yes,Yes,Yes
+Osteoporosis,Yes,No,Yes,No
+Pancreatitis,Yes,Yes,Yes,No
+Parkinson's Disease,Yes,Yes,No,No
+Parkinson's Disease,Yes,Yes,No,No
+Prader-Willi Syndrome,No,No,Yes,No
+Rheumatoid Arthritis,No,No,Yes,No
+Thyroid Cancer,No,No,Yes,No
+Tuberculosis,Yes,Yes,Yes,No
+Bladder Cancer,No,No,Yes,No
+Diabetes,No,No,Yes,No
+Otitis Media (Ear Infection),Yes,Yes,Yes,No
+Stroke,Yes,No,Yes,No
+Stroke,Yes,No,Yes,No
+Tourette Syndrome,No,No,Yes,No
+Urinary Tract Infection (UTI),Yes,No,Yes,No
+Alzheimer's Disease,No,Yes,No,No
+Alzheimer's Disease,No,Yes,No,No
+Alzheimer's Disease,No,No,Yes,No
+Bronchitis,Yes,No,Yes,Yes
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes
+Dementia,No,No,Yes,No
+Diabetes,Yes,Yes,Yes,No
+Diverticulitis,No,No,Yes,No
+Liver Cancer,Yes,Yes,Yes,No
+Lung Cancer,Yes,Yes,Yes,No
+Lung Cancer,Yes,No,Yes,No
+Mumps,No,No,Yes,No
+Mumps,No,No,Yes,No
+Osteoporosis,No,Yes,Yes,No
+Stroke,Yes,Yes,Yes,No
+Alzheimer's Disease,Yes,No,Yes,No
+Alzheimer's Disease,Yes,No,Yes,No
+Cholecystitis,No,No,Yes,No
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes
+Osteoporosis,Yes,No,No,No
+Parkinson's Disease,No,No,Yes,No
+Prostate Cancer,Yes,Yes,No,No
+Schizophrenia,No,Yes,Yes,No
+Gout,Yes,No,Yes,No
+Migraine,No,No,Yes,No
+Stroke,No,Yes,No,No
+Stroke,No,Yes,No,No
+Testicular Cancer,No,No,Yes,No
+Tonsillitis,Yes,Yes,Yes,No
+Williams Syndrome,No,No,Yes,No
+Stroke,Yes,No,Yes,No
+Stroke,Yes,No,Yes,No
+Stroke,Yes,No,Yes,No
+Stroke,Yes,No,Yes,No
+Stroke,Yes,No,Yes,No
+Stroke,Yes,No,Yes,No

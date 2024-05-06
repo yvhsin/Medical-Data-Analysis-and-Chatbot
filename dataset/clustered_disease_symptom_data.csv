@@ -1,0 +1,117 @@
+Disease,Symptoms,Cluster
+Influenza,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Common Cold,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Eczema,"['Cough', 'Fever', 'Fatigue']",2
+Asthma,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Hyperthyroidism,"['Cough', 'Fever', 'Fatigue']",2
+Allergic Rhinitis,"['Cough', 'Fever', 'Fatigue']",2
+Anxiety Disorders,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Diabetes,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Gastroenteritis,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Pancreatitis,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Rheumatoid Arthritis,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Depression,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Liver Cancer,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Stroke,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Urinary Tract Infection,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Dengue Fever,"['Fever', 'Fatigue']",4
+Hepatitis,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Kidney Cancer,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Migraine,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Muscular Dystrophy,['Fatigue'],0
+Sinusitis,"['Cough', 'Fatigue']",0
+Ulcerative Colitis,"['Cough', 'Fever', 'Fatigue']",2
+Bipolar Disorder,['Fatigue'],0
+Bronchitis,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Cerebral Palsy,"['Difficulty Breathing', 'Fatigue']",0
+Colorectal Cancer,['Fatigue'],0
+Hypertensive Heart Disease,['Fatigue'],0
+Multiple Sclerosis,"['Cough', 'Fever', 'Fatigue']",2
+Myocardial Infarction (Heart...,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Urinary Tract Infection (UTI),"['Cough', 'Fever', 'Fatigue']",2
+Osteoporosis,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Pneumonia,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Atherosclerosis,['Fatigue'],0
+Chronic Obstructive Pulmonary...,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Epilepsy,['Fatigue'],0
+Hypertension,"['Cough', 'Fever', 'Fatigue']",2
+Obsessive-Compulsive Disorde...,['Fatigue'],0
+Psoriasis,"['Cough', 'Fever', 'Fatigue']",2
+Rubella,"['Fever', 'Fatigue']",4
+Cirrhosis,['Fatigue'],0
+Conjunctivitis (Pink Eye),['Cough'],3
+Liver Disease,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Malaria,['Fever'],3
+Spina Bifida,['Fatigue'],0
+Kidney Disease,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Osteoarthritis,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Klinefelter Syndrome,['Fatigue'],0
+Acne,['Fatigue'],0
+Brain Tumor,['Fatigue'],0
+Cystic Fibrosis,"['Difficulty Breathing', 'Fatigue']",0
+Glaucoma,['Fatigue'],0
+Rabies,"['Cough', 'Fever']",3
+Chickenpox,['Cough'],3
+Coronary Artery Disease,"['Cough', 'Fever', 'Fatigue']",2
+"Eating Disorders (Anorexia,...",['Fatigue'],0
+Fibromyalgia,['Fatigue'],0
+Hemophilia,['Fatigue'],0
+Hypoglycemia,['Fatigue'],0
+Lymphoma,['Cough'],3
+Tuberculosis,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Lung Cancer,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Hypothyroidism,"['Cough', 'Fever', 'Fatigue']",2
+Autism Spectrum Disorder (ASD),['Fatigue'],0
+Crohn's Disease,"['Cough', 'Fever', 'Fatigue']",2
+Hyperglycemia,['Fatigue'],0
+Melanoma,"['Fever', 'Fatigue']",4
+Ovarian Cancer,['Fatigue'],0
+Turner Syndrome,['Fatigue'],0
+Zika Virus,"['Cough', 'Fatigue']",0
+Cataracts,['Fatigue'],0
+Pneumocystis Pneumonia (PCP),"['Cough', 'Fever', 'Fatigue']",2
+Scoliosis,[],3
+Sickle Cell Anemia,['Fatigue'],0
+Tetanus,['Fatigue'],0
+Anemia,['Fatigue'],0
+Cholera,"['Difficulty Breathing', 'Fever', 'Fatigue']",1
+Endometriosis,['Fever'],3
+Sepsis,"['Cough', 'Fever', 'Fatigue']",2
+Sleep Apnea,"['Difficulty Breathing', 'Fever', 'Fatigue']",1
+Down Syndrome,['Fatigue'],0
+Ebola Virus,"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Lyme Disease,['Fever'],3
+Pancreatic Cancer,['Fatigue'],0
+Pneumothorax,"['Difficulty Breathing', 'Fatigue']",0
+Appendicitis,"['Fever', 'Fatigue']",4
+Esophageal Cancer,['Fatigue'],0
+HIV/AIDS,['Fever'],3
+Marfan Syndrome,['Fatigue'],0
+Parkinson's Disease,"['Cough', 'Fever', 'Fatigue']",2
+Hemorrhoids,[],3
+Polycystic Ovary Syndrome (PCOS),"['Cough', 'Fever']",3
+Systemic Lupus Erythematosus...,"['Cough', 'Fatigue']",0
+Typhoid Fever,['Cough'],3
+Breast Cancer,['Fatigue'],0
+Measles,"['Cough', 'Fever']",3
+Osteomyelitis,['Fatigue'],0
+Polio,"['Cough', 'Fever', 'Fatigue']",2
+Chronic Kidney Disease,['Fatigue'],0
+Hepatitis B,"['Cough', 'Fatigue']",0
+Prader-Willi Syndrome,['Fatigue'],0
+Thyroid Cancer,['Fatigue'],0
+Bladder Cancer,['Fatigue'],0
+Otitis Media (Ear Infection),"['Cough', 'Fever', 'Fatigue']",2
+Tourette Syndrome,['Fatigue'],0
+Alzheimer's Disease,"['Cough', 'Fever', 'Fatigue']",2
+Chronic Obstructive Pulmonary Disease (COPD),"['Difficulty Breathing', 'Cough', 'Fever', 'Fatigue']",1
+Dementia,['Fatigue'],0
+Diverticulitis,['Fatigue'],0
+Mumps,['Fatigue'],0
+Cholecystitis,['Fatigue'],0
+Prostate Cancer,"['Cough', 'Fever']",3
+Schizophrenia,"['Cough', 'Fatigue']",0
+Gout,"['Fever', 'Fatigue']",4
+Testicular Cancer,['Fatigue'],0
+Tonsillitis,"['Cough', 'Fever', 'Fatigue']",2
+Williams Syndrome,['Fatigue'],0

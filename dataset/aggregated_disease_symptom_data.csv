@@ -1,0 +1,117 @@
+Disease,Fever_No,Fever_Yes,Cough_No,Cough_Yes,Fatigue_No,Fatigue_Yes,Difficulty Breathing_No,Difficulty Breathing_Yes
+Acne,True,False,True,False,False,True,True,False
+Allergic Rhinitis,True,True,True,True,True,True,True,False
+Alzheimer's Disease,True,True,True,True,True,True,True,False
+Anemia,True,False,True,False,False,True,True,False
+Anxiety Disorders,True,True,True,True,True,True,True,True
+Appendicitis,False,True,True,False,False,True,True,False
+Asthma,True,True,True,True,True,True,True,True
+Atherosclerosis,True,False,True,False,False,True,True,False
+Autism Spectrum Disorder (ASD),True,False,True,False,False,True,True,False
+Bipolar Disorder,True,False,True,False,False,True,True,False
+Bladder Cancer,True,False,True,False,False,True,True,False
+Brain Tumor,True,False,True,False,False,True,True,False
+Breast Cancer,True,False,True,False,False,True,True,False
+Bronchitis,True,True,True,True,True,True,False,True
+Cataracts,True,False,True,False,False,True,True,False
+Cerebral Palsy,True,False,True,False,False,True,False,True
+Chickenpox,True,False,False,True,True,False,True,False
+Cholecystitis,True,False,True,False,False,True,True,False
+Cholera,False,True,True,False,False,True,False,True
+Chronic Kidney Disease,True,False,True,False,False,True,True,False
+Chronic Obstructive Pulmonary Disease (COPD),True,True,True,True,False,True,False,True
+Chronic Obstructive Pulmonary...,False,True,False,True,False,True,False,True
+Cirrhosis,True,False,True,False,False,True,True,False
+Colorectal Cancer,True,False,True,False,False,True,True,False
+Common Cold,True,True,True,True,True,True,True,True
+Conjunctivitis (Pink Eye),True,False,False,True,True,False,True,False
+Coronary Artery Disease,True,True,True,True,True,True,True,False
+Crohn's Disease,True,True,True,True,False,True,True,False
+Cystic Fibrosis,True,False,True,False,False,True,False,True
+Dementia,True,False,True,False,False,True,True,False
+Dengue Fever,False,True,True,False,False,True,True,False
+Depression,True,True,True,True,True,True,True,True
+Diabetes,True,True,True,True,True,True,True,True
+Diverticulitis,True,False,True,False,False,True,True,False
+Down Syndrome,True,False,True,False,False,True,True,False
+"Eating Disorders (Anorexia,...",True,False,True,False,False,True,True,False
+Ebola Virus,False,True,False,True,False,True,False,True
+Eczema,True,True,True,True,True,True,True,False
+Endometriosis,False,True,True,False,True,False,True,False
+Epilepsy,True,False,True,False,False,True,True,False
+Esophageal Cancer,True,False,True,False,False,True,True,False
+Fibromyalgia,True,False,True,False,False,True,True,False
+Gastroenteritis,True,True,True,True,True,True,True,True
+Glaucoma,True,False,True,False,False,True,True,False
+Gout,False,True,True,False,False,True,True,False
+HIV/AIDS,False,True,True,False,True,False,True,False
+Hemophilia,True,False,True,False,False,True,True,False
+Hemorrhoids,True,False,True,False,True,False,True,False
+Hepatitis,False,True,True,True,False,True,True,True
+Hepatitis B,True,False,False,True,False,True,True,False
+Hyperglycemia,True,False,True,False,False,True,True,False
+Hypertension,True,True,True,True,True,True,True,False
+Hypertensive Heart Disease,True,False,True,False,False,True,True,False
+Hyperthyroidism,True,True,True,True,True,True,True,False
+Hypoglycemia,True,False,True,False,False,True,True,False
+Hypothyroidism,True,True,True,True,False,True,True,False
+Influenza,True,True,True,True,True,True,True,True
+Kidney Cancer,True,True,True,True,True,True,True,True
+Kidney Disease,True,True,True,True,True,True,True,True
+Klinefelter Syndrome,True,False,True,False,False,True,True,False
+Liver Cancer,True,True,True,True,True,True,True,True
+Liver Disease,True,True,True,True,True,True,True,True
+Lung Cancer,False,True,True,True,False,True,True,True
+Lyme Disease,False,True,True,False,True,False,True,False
+Lymphoma,True,False,False,True,True,False,True,False
+Malaria,False,True,True,False,True,False,True,False
+Marfan Syndrome,True,False,True,False,False,True,True,False
+Measles,False,True,False,True,True,False,True,False
+Melanoma,False,True,True,False,False,True,True,False
+Migraine,True,True,True,True,True,True,True,True
+Multiple Sclerosis,True,True,True,True,True,True,True,False
+Mumps,True,False,True,False,False,True,True,False
+Muscular Dystrophy,True,False,True,False,False,True,True,False
+Myocardial Infarction (Heart...,False,True,False,True,False,True,False,True
+Obsessive-Compulsive Disorde...,True,False,True,False,False,True,True,False
+Osteoarthritis,True,True,True,True,True,True,True,True
+Osteomyelitis,True,False,True,False,False,True,True,False
+Osteoporosis,True,True,True,True,True,True,True,True
+Otitis Media (Ear Infection),False,True,False,True,False,True,True,False
+Ovarian Cancer,True,False,True,False,False,True,True,False
+Pancreatic Cancer,True,False,True,False,False,True,True,False
+Pancreatitis,True,True,True,True,True,True,True,True
+Parkinson's Disease,True,True,True,True,True,True,True,False
+Pneumocystis Pneumonia (PCP),False,True,False,True,False,True,True,False
+Pneumonia,True,True,True,True,True,True,False,True
+Pneumothorax,True,False,True,False,False,True,False,True
+Polio,False,True,False,True,False,True,True,False
+Polycystic Ovary Syndrome (PCOS),False,True,False,True,True,False,True,False
+Prader-Willi Syndrome,True,False,True,False,False,True,True,False
+Prostate Cancer,False,True,False,True,True,False,True,False
+Psoriasis,True,True,True,True,True,True,True,False
+Rabies,False,True,False,True,True,False,True,False
+Rheumatoid Arthritis,True,True,True,True,True,True,True,True
+Rubella,False,True,True,False,False,True,True,False
+Schizophrenia,True,False,False,True,False,True,True,False
+Scoliosis,True,False,True,False,True,False,True,False
+Sepsis,False,True,False,True,False,True,True,False
+Sickle Cell Anemia,True,False,True,False,False,True,True,False
+Sinusitis,True,False,False,True,False,True,True,False
+Sleep Apnea,False,True,True,False,False,True,False,True
+Spina Bifida,True,False,True,False,False,True,True,False
+Stroke,True,True,True,True,True,True,True,True
+Systemic Lupus Erythematosus...,True,False,False,True,False,True,True,False
+Testicular Cancer,True,False,True,False,False,True,True,False
+Tetanus,True,False,True,False,False,True,True,False
+Thyroid Cancer,True,False,True,False,False,True,True,False
+Tonsillitis,False,True,False,True,False,True,True,False
+Tourette Syndrome,True,False,True,False,False,True,True,False
+Tuberculosis,False,True,False,True,False,True,True,True
+Turner Syndrome,True,False,True,False,False,True,True,False
+Typhoid Fever,True,False,False,True,True,False,True,False
+Ulcerative Colitis,True,True,True,True,True,True,True,False
+Urinary Tract Infection,True,True,True,True,True,True,True,True
+Urinary Tract Infection (UTI),True,True,True,True,True,True,True,False
+Williams Syndrome,True,False,True,False,False,True,True,False
+Zika Virus,True,False,False,True,False,True,True,False
